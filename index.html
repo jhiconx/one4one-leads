@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>One4One Lead Generation</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #0a0a0a;
+      margin: 0;
+      padding: 16px;
+      color: #f5f5f5;
+    }
+    header {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 16px;
+      border-bottom: 1px solid #333;
+      padding-bottom: 12px;
+    }
+    header img {
+      height: 60px;
+      width: auto;
+      display: block;
+    }
+    header .title-block {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 1.4rem;
+    }
+    header .subtitle {
+      font-size: 0.9rem;
+      color: #ccc;
+    }
+    .meta {
+      font-size: 0.85rem;
+      color: #aaa;
+      margin-bottom: 16px;
+    }
+    .article-card {
+      background: #111;
+      border-radius: 8px;
+      padding: 16px;
+      margin-bottom: 16px;
+      border: 1px solid #222;
+    }
+    .article-header {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      align-items: baseline;
+      flex-wrap: wrap;
+    }
+    .article-title {
+      font-size: 1.05rem;
+      font-weight: 600;
+      margin: 0;
+    }
+    .article-title a {
+      text-decoration: none;
+      color: #f5f5f5;
+    }
+    .article-title a:hover {
+      text-decoration: underline;
+    }
+    .article-meta {
+      font-size: 0.8rem;
+      color: #aaa;
+    }
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 8px;
+      margin-bottom: 8px;
+    }
+    .tag {
+      font-size: 0.7rem;
+      border-radius: 999px;
+      padding: 3px 8px;
+      background: #1c1c1c;
+      color: #e5e5e5;
+      border: 1px solid #333;
+    }
+    .section-title {
+      font-size: 0.9rem;
+      font-weight: 600;
+      margin-top: 12px;
+      margin-bottom: 6px;
+    }
+    .summary {
+      font-size: 0.85rem;
+      margin-bottom: 8px;
+      color: #ddd;
+    }
+    .stakeholder-list {
+      list-style: none;
+      padding-left: 0;
+      margin: 0;
+    }
+    .stakeholder-item {
+      border-top: 1px solid #222;
+      padding-top: 8px;
+      margin-top: 8px;
+    }
+    .stakeholder-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .stakeholder-name {
+      font-weight: 600;
+      font-size: 0.95rem;
+    }
+    .stakeholder-meta {
+      font-size: 0.8rem;
+      color: #bbb;
+    }
+    .contact-info {
+      font-size: 0.8rem;
+      margin-top: 4px;
+    }
+    .contact-info a {
+      color: #7fb3ff;
+      text-decoration: none;
+    }
+    .contact-info a:hover {
+      text-decoration: underline;
+    }
+    .pill {
+      font-size: 0.7rem;
+      padding: 2px 6px;
+      border-radius: 999px;
+      background: #16351f;
+      color: #7ddc9a;
+      margin-left: 4px;
+    }
+    .pill.guessed {
+      background: #3b2b12;
+      color: #f9c97d;
+    }
+    .outreach-block {
+      margin-top: 8px;
+      font-size: 0.8rem;
+    }
+    .outreach-label {
+      font-weight: 600;
+      margin-bottom: 2px;
+    }
+    .outreach-textarea {
+      width: 100%;
+      min-height: 80px;
+      font-size: 0.8rem;
+      font-family: inherit;
+      border-radius: 4px;
+      border: 1px solid #333;
+      padding: 6px;
+      resize: vertical;
+      background: #0a0a0a;
+      color: #f5f5f5;
+      box-sizing: border-box;
+    }
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      font-size: 0.75rem;
+      color: #bbb;
+      margin-top: 4px;
+    }
+    .error {
+      color: #ff8a80;
+      font-size: 0.85rem;
+      margin-top: 8px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <!-- IMPORTANT: this file name must match the logo you upload to GitHub -->
+    <img src="logo-141.png" alt="141 Logo" />
+    <div class="title-block">
+      <h1>One4One Lead Generation</h1>
+      <div class="subtitle">Verified Sampling. Real People.</div>
+    </div>
+  </header>
+
+  <div class="meta" id="meta-summary">
+    Loading articles from data.json...
+  </div>
+
+  <div id="articles-container"></div>
+  <div id="error-message" class="error"></div>
+
+  <script>
+    function humanizeTag(tag) {
+      if (!tag) return "";
+      return tag
+        .toString()
+        .replace(/_/g, " ")
+        .replace(/\b\w/g, c => c.toUpperCase());
+    }
+
+    function renderArticles(articles) {
+      const container = document.getElementById("articles-container");
+      const metaEl = document.getElementById("meta-summary");
+      const errorEl = document.getElementById("error-message");
+
+      container.innerHTML = "";
+      errorEl.textContent = "";
+
+      if (!Array.isArray(articles) || articles.length === 0) {
+        metaEl.textContent = "No articles found in data.json.";
+        return;
+      }
+
+      // Sort newest first by published_at (if available)
+      articles.sort((a, b) => {
+        const da = new Date(a.published_at || "1970-01-01");
+        const db = new Date(b.published_at || "1970-01-01");
+        return db - da;
+      });
+
+      metaEl.textContent = `${articles.length} article(s) loaded. Data source: data.json`;
+
+      articles.forEach(article => {
+        const card = document.createElement("div");
+        card.className = "article-card";
+
+        const header = document.createElement("div");
+        header.className = "article-header";
+
+        const titleEl = document.createElement("h2");
+        titleEl.className = "article-title";
+        if (article.url) {
+          const link = document.createElement("a");
+          link.href = article.url;
+          link.target = "_blank";
+          link.rel = "noopener noreferrer";
+          link.textContent = article.title || "(Untitled article)";
+          titleEl.appendChild(link);
+        } else {
+          titleEl.textContent = article.title || "(Untitled article)";
+        }
+
+        const metaInfo = document.createElement("div");
+        metaInfo.className = "article-meta";
+        const datePart = article.published_at || "Unknown date";
+        const sourcePart = article.source || "Unknown source";
+        metaInfo.textContent = `${datePart} • ${sourcePart}`;
+
+        header.appendChild(titleEl);
+        header.appendChild(metaInfo);
+
+        const tagsContainer = document.createElement("div");
+        tagsContainer.className = "tags";
+
+        (article.categories || []).forEach(cat => {
+          const tag = document.createElement("span");
+          tag.className = "tag";
+          tag.textContent = humanizeTag(cat);
+          tagsContainer.appendChild(tag);
+        });
+
+        (article.campaign_types || []).forEach(ct => {
+          const tag = document.createElement("span");
+          tag.className = "tag";
+          tag.textContent = humanizeTag(ct);
+          tagsContainer.appendChild(tag);
+        });
+
+        (article.demo_tags || []).forEach(dt => {
+          const tag = document.createElement("span");
+          tag.className = "tag";
+          tag.textContent = humanizeTag(dt);
+          tagsContainer.appendChild(tag);
+        });
+
+        (article.psych_tags || []).forEach(pt => {
+          const tag = document.createElement("span");
+          tag.className = "tag";
+          tag.textContent = humanizeTag(pt);
+          tagsContainer.appendChild(tag);
+        });
+
+        const summaryEl = document.createElement("div");
+        summaryEl.className = "summary";
+        summaryEl.textContent = article.summary || "";
+
+        const stakeholdersTitle = document.createElement("div");
+        stakeholdersTitle.className = "section-title";
+        stakeholdersTitle.textContent = "Stakeholders & Outreach";
+
+        const stakeholdersList = document.createElement("ul");
+        stakeholdersList.className = "stakeholder-list";
+
+        (article.stakeholders || []).forEach(stakeholder => {
+          const li = document.createElement("li");
+          li.className = "stakeholder-item";
+
+          const headerRow = document.createElement("div");
+          headerRow.className = "stakeholder-header";
+
+          const nameEl = document.createElement("div");
+          nameEl.className = "stakeholder-name";
+          nameEl.textContent = stakeholder.full_name || "(Name unknown)";
+
+          const metaEl = document.createElement("div");
+          metaEl.className = "stakeholder-meta";
+          const parts = [];
+          if (stakeholder.title) parts.push(stakeholder.title);
+          if (stakeholder.company_name) parts.push(stakeholder.company_name);
+          metaEl.textContent = parts.join(" • ");
+
+          headerRow.appendChild(nameEl);
+          headerRow.appendChild(metaEl);
+
+          const contactInfo = document.createElement("div");
+          contactInfo.className = "contact-info";
+
+          const badgeRow = document.createElement("div");
+          badgeRow.className = "badge-row";
+
+          if (stakeholder.role_type) {
+            const roleSpan = document.createElement("span");
+            roleSpan.textContent = humanizeTag(stakeholder.role_type);
+            badgeRow.appendChild(roleSpan);
+          }
+
+          if (stakeholder.linkedin_url) {
+            const liLink = document.createElement("a");
+            liLink.href = stakeholder.linkedin_url;
+            liLink.target = "_blank";
+            liLink.rel = "noopener noreferrer";
+            liLink.textContent = "LinkedIn profile";
+            contactInfo.appendChild(liLink);
+          }
+
+          if (stakeholder.email) {
+            if (contactInfo.textContent || contactInfo.querySelector("a")) {
+              contactInfo.appendChild(document.createTextNode(" • "));
+            }
+            const emailLink = document.createElement("a");
+            emailLink.href = `mailto:${stakeholder.email}`;
+            emailLink.textContent = stakeholder.email;
+            contactInfo.appendChild(emailLink);
+
+            const emailBadge = document.createElement("span");
+            emailBadge.className = "pill " + (stakeholder.email_status === "verified" ? "" : "guessed");
+            emailBadge.textContent = stakeholder.email_status === "verified" ? "Verified" : "Guessed pattern";
+            contactInfo.appendChild(emailBadge);
+          }
+
+          if (stakeholder.email_confidence != null) {
+            const scoreSpan = document.createElement("span");
+            scoreSpan.style.marginLeft = "4px";
+            scoreSpan.style.fontSize = "0.7rem";
+            scoreSpan.style.color = "#999";
+            scoreSpan.textContent = `(conf: ${(stakeholder.email_confidence * 100).toFixed(0)}%)`;
+            contactInfo.appendChild(scoreSpan);
+          }
+
+          li.appendChild(headerRow);
+          if (badgeRow.children.length > 0) {
+            li.appendChild(badgeRow);
+          }
+          li.appendChild(contactInfo);
+
+          const outreachForStakeholder = (article.outreach_templates || []).filter(
+            ot => ot.stakeholder_full_name === stakeholder.full_name
+          );
+
+          outreachForStakeholder.forEach(ot => {
+            const block = document.createElement("div");
+            block.className = "outreach-block";
+
+            const emailLabel = document.createElement("div");
+            emailLabel.className = "outreach-label";
+            emailLabel.textContent = `Email subject: ${ot.email_subject || ""}`;
+            block.appendChild(emailLabel);
+
+            const emailArea = document.createElement("textarea");
+            emailArea.className = "outreach-textarea";
+            emailArea.value = ot.email_body || "";
+            block.appendChild(emailArea);
+
+            const liLabel = document.createElement("div");
+            liLabel.className = "outreach-label";
+            liLabel.style.marginTop = "6px";
+            liLabel.textContent = "LinkedIn message:";
+            block.appendChild(liLabel);
+
+            const liArea = document.createElement("textarea");
+            liArea.className = "outreach-textarea";
+            liArea.value = ot.linkedin_message || "";
+            block.appendChild(liArea);
+
+            li.appendChild(block);
+          });
+
+          stakeholdersList.appendChild(li);
+        });
+
+        card.appendChild(header);
+        card.appendChild(tagsContainer);
+        card.appendChild(summaryEl);
+        card.appendChild(stakeholdersTitle);
+        card.appendChild(stakeholdersList);
+
+        container.appendChild(card);
+      });
+    }
+
+    async function loadData() {
+      const metaEl = document.getElementById("meta-summary");
+      const errorEl = document.getElementById("error-message");
+      metaEl.textContent = "Loading articles from data.json...";
+
+      try {
+        const response = await fetch("data.json", { cache: "no-store" });
+        if (!response.ok) {
+          throw new Error("HTTP status " + response.status);
+        }
+        const data = await response.json();
+        renderArticles(data.articles || []);
+      } catch (err) {
+        console.error(err);
+        errorEl.textContent = "Error loading data.json. Check that the file exists in the same folder and is valid JSON.";
+        metaEl.textContent = "Failed to load articles.";
+      }
+    }
+
+    loadData();
+
+    // Auto-reload page roughly every 6 hours so it picks up new data.json
+    // [Speculation: interval can be changed as needed]
+    setInterval(() => {
+      location.reload();
+    }, 6 * 60 * 60 * 1000);
+  </script>
+</body>
+</html>
