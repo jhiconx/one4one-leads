@@ -7,10 +7,18 @@
       "source": "FoodDive",
       "published_at": "2025-11-19",
       "summary": "Monster Beverage announced the launch of Flirt, a new energy drink positioned toward female consumers and competing directly with Alani Nu.",
-      "categories": ["food_and_beverage"],
-      "campaign_types": ["announcement"],
-      "demo_tags": ["female"],
-      "psych_tags": ["female"],
+      "categories": [
+        "food_and_beverage"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "female"
+      ],
+      "psych_tags": [
+        "female"
+      ],
       "stakeholders": [
         {
           "full_name": "Hilton Schlosberg",
