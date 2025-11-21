@@ -173,10 +173,13 @@ def main():
             # Normalize timezone: make both dates naive
 
 # Convert timezone-aware datetimes to naive datetimes
+
+    # Convert timezone-aware datetimes to naive datetimes
 if published_dt.tzinfo is not None:
     published_dt = published_dt.replace(tzinfo=None)
-
 if published_dt < CUTOFF_DATE:
+    continue
+
     continue
 
 
