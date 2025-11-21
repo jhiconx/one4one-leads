@@ -11,10 +11,18 @@ from textwrap import dedent
 # ------------- CONFIG -------------
 
 RSS_FEEDS = [
-    # ADD REAL RSS FEEDS HERE
-    # Example placeholder:
-    # "https://example.com/rss"
+    "https://www.fooddive.com/rss/",
+    "https://www.bevnet.com/feed",
+    "https://www.nosh.com/feed",
+    "https://www.prnewswire.com/rss/consumer-products-latest-news.rss",
+    "https://www.globenewswire.com/RssFeed/subjectcode/8",
+    "https://www.businesswire.com/portal/site/home/template.PAGE/rss/?javax.portlet.prp_9f56_80a4b7ac-13f2-4cfe-8e6a-93a0c180679d_viewID=MY_PORTLET_VIEW",
+    "https://www.glossy.co/feed/",
+    "https://www.beautymatter.com/feed",
+    "https://www.marketingdive.com/feeds/news/",
+    "https://adage.com/section/rss"
 ]
+
 
 CUTOFF_DATE_STR = "2025-11-01"
 CUTOFF_DATE = datetime.fromisoformat(CUTOFF_DATE_STR)
