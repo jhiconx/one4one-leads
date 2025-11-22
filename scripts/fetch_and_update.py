@@ -21,7 +21,7 @@ RSS_FEEDS = [
 ]
 
 # Only keep articles on/after this date
-CUTOFF_DATE_STR = "2025-11-01"
+CUTOFF_DATE_STR = "2020-01-01"
 CUTOFF_DATE = datetime.fromisoformat(CUTOFF_DATE_STR)
 
 
