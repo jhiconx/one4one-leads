@@ -9,8 +9,8 @@ DATA_PATH = "data.json"
 
 # RSS feeds to scan automatically
 RSS_FEEDS = [
-    "https://www.fooddive.com/rss/",
     "https://www.bevnet.com/feed",
+    "https://www.bevnet.com/category/press-release/feed",
     "https://www.nosh.com/feed",
     "https://www.prnewswire.com/rss/consumer-products-latest-news.rss",
     "https://www.globenewswire.com/RssFeed/subjectcode/8",
