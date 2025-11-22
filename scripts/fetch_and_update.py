@@ -169,21 +169,11 @@ def main():
             published_dt = parse_date(published)
             if not published_dt:
                 continue
-
-            # Normalize timezone: make both dates naive
-
 # Convert timezone-aware datetimes to naive datetimes
-
-    # Convert timezone-aware datetimes to naive datetimes
 if published_dt.tzinfo is not None:
     published_dt = published_dt.replace(tzinfo=None)
 if published_dt < CUTOFF_DATE:
     continue
-
-    continue
-
-
-                continue
 
             article_id = make_article_id(link, published_dt)
             if article_id in id_to_article:
