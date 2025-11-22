@@ -23,7 +23,6 @@ RSS_FEEDS = [
     "https://adage.com/section/rss"
 ]
 
-
 CUTOFF_DATE_STR = "2025-11-01"
 CUTOFF_DATE = datetime.fromisoformat(CUTOFF_DATE_STR)
 
@@ -137,7 +136,7 @@ def call_openai_for_article(article_meta, article_text):
 
     try:
         return json.loads(content)
-    except json.JSONDecodeError as e:
+    except json.JSONDecodeError:
         raise RuntimeError(f"Failed to parse model output as JSON: {content}")
 
 def fetch_article_body(url):
@@ -169,11 +168,13 @@ def main():
             published_dt = parse_date(published)
             if not published_dt:
                 continue
-# Convert timezone-aware datetimes to naive datetimes
-if published_dt.tzinfo is not None:
-    published_dt = published_dt.replace(tzinfo=None)
-if published_dt < CUTOFF_DATE:
-    continue
+
+            # Convert timezone-aware datetimes to naive datetimes
+            if published_dt.tzinfo is not None:
+                published_dt = published_dt.replace(tzinfo=None)
+
+            if published_dt < CUTOFF_DATE:
+                continue
 
             article_id = make_article_id(link, published_dt)
             if article_id in id_to_article:
