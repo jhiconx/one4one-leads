@@ -34,6 +34,39 @@
           "linkedin_message": "Hi Hilton — saw Monster’s announcement of Flirt. We run a verified Gen Z sampling network across major college campuses, where every sample is tied to a unique student phone number. If you ever explore college-driven trial for Flirt, I'd be glad to share how our verification system works."
         }
       ]
+    },
+    {
+  "id": "fd_2025_11_06_prime_shrimp_brand_refresh",
+  "title": "Prime Shrimp Unveils Fresh Brand Identity Surfacing Bold Products, Fierce Clarity, and a New Brand System",
+  "url": "https://www.fooddive.com/press-release/20251106-prime-shrimp-unveils-fresh-brand-identity-surfacing-bold-products-fierce-c-1/",
+  "source": "Food Dive",
+  "published_at": "2025-11-06",
+  "summary": "Prime Shrimp announced a complete brand refresh including new logo, packaging, and in-store presentation designed to better communicate its shrimp products to shoppers.",
+  "categories": ["food_and_beverage"],
+  "campaign_types": ["announcement"],
+  "demo_tags": [],
+  "psych_tags": [],
+  "stakeholders": [
+    {
+      "full_name": "Grace Dearnley",
+      "title": "Marketing Director",
+      "company_name": "Prime Shrimp",
+      "role_type": "brand",
+      "linkedin_url": "",
+      "email": "",
+      "email_status": "unknown",
+      "email_confidence": 0.0
     }
+  ],
+  "outreach_templates": [
+    {
+      "stakeholder_full_name": "Grace Dearnley",
+      "email_subject": "Campus sampling ideas for Prime Shrimp’s refreshed brand",
+      "email_body": "Hi Grace,\n\nI saw the recent Food Dive press release about Prime Shrimp’s brand refresh and updated packaging. The positioning around ease, flavor, and getting shrimp into the weekly rotation feels like a strong fit for college students who want something fast but still premium.\n\nWe run a sampling network focused on Gen Z across major college campuses. Everything is verified by phone number so each sample is tied to a unique student, and brands only pay on verified redemptions (no duplicates, no recycled samples, no inflated counts).\n\nIf you’re interested in testing Prime Shrimp with college students – especially around quick at-home meals and freezer-friendly proteins – I’d be happy to share how we handle distribution, verification, and reporting.\n\nWould you be open to a quick conversation?\n\nBest,\nJonas",
+      "linkedin_message": "Hi Grace – I saw the Food Dive release on Prime Shrimp’s brand refresh and new packaging.\n\nI run a Gen Z sampling network across major college campuses where every sample is tied to a verified student phone number, so brands only pay on unique redemptions. If you’re ever exploring campus or student-focused programs for Prime Shrimp, I’d be glad to share how we could plug a verified sampling layer into what you’re building."
+    }
+  ]
+}
+
   ]
 }
