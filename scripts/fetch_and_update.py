@@ -134,10 +134,29 @@ def call_openai_for_article(article_meta, article_text):
     data = resp.json()
     content = data["choices"][0]["message"]["content"]
 
+    # --- Strip markdown formatting ---
+    content = content.strip()
+
+    if content.startswith("```"):
+        lines = content.splitlines()
+        if lines and lines[0].startswith("```"):
+            lines = lines[1:]
+        if lines and lines[-1].startswith("```"):
+            lines = lines[:-1]
+        content = "\n".join(lines).strip()
+
+    # Find the JSON inside the response
+    start = content.find("{")
+    end = content.rfind("}")
+    if start == -1 or end == -1:
+        raise RuntimeError(f"Model output did not contain JSON: {content}")
+
+    json_text = content[start:end+1]
+
     try:
-        return json.loads(content)
-    except json.JSONDecodeError:
-        raise RuntimeError(f"Failed to parse model output as JSON: {content}")
+        return json.loads(json_text)
+    except json.JSONDecodeError as e:
+        raise RuntimeError(f"Invalid JSON returned: {json_text}") from e
 
 def fetch_article_body(url):
     if not url:
