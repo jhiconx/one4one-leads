@@ -1,37 +1,29 @@
 import os
 import json
-from datetime import datetime, timezone
+from datetime import datetime
 import uuid
 
 import feedparser
-import requests
 
-from textwrap import dedent
+DATA_PATH = "data.json"
 
-# ------------- CONFIG -------------
-
+# RSS feeds to scan automatically
 RSS_FEEDS = [
     "https://www.fooddive.com/rss/",
     "https://www.bevnet.com/feed",
     "https://www.nosh.com/feed",
     "https://www.prnewswire.com/rss/consumer-products-latest-news.rss",
     "https://www.globenewswire.com/RssFeed/subjectcode/8",
-    "https://www.businesswire.com/portal/site/home/template.PAGE/rss/?javax.portlet.prp_9f56_80a4b7ac-13f2-4cfe-8e6a-93a0c180679d_viewID=MY_PORTLET_VIEW",
     "https://www.glossy.co/feed/",
     "https://www.beautymatter.com/feed",
     "https://www.marketingdive.com/feeds/news/",
     "https://adage.com/section/rss"
 ]
 
+# Only keep articles on/after this date
 CUTOFF_DATE_STR = "2025-11-01"
 CUTOFF_DATE = datetime.fromisoformat(CUTOFF_DATE_STR)
 
-DATA_PATH = "data.json"
-
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
-
-if not OPENAI_API_KEY:
-    raise SystemExit("OPENAI_API_KEY not set in environment.")
 
 def load_existing_data():
     if os.path.exists(DATA_PATH):
@@ -43,9 +35,11 @@ def load_existing_data():
     else:
         return {"articles": []}
 
+
 def save_data(data):
     with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
+
 
 def parse_date(date_str):
     if not date_str:
@@ -59,118 +53,17 @@ def parse_date(date_str):
         except Exception:
             return None
 
+
 def make_article_id(url, published_dt):
     base = (url or "") + (published_dt.isoformat() if published_dt else "")
     return "art_" + uuid.uuid5(uuid.NAMESPACE_URL, base).hex[:8]
 
-import requests as rq
-
-OPENAI_API_URL = "https://api.openai.com/v1/chat/completions"
-
-def call_openai_for_article(article_meta, article_text):
-    prompt = dedent(f"""
-    You are an information extraction engine for CPG launches and sampling campaigns.
-
-    Output ONLY a JSON object with this exact structure:
-
-    {{
-      "id": string,
-      "title": string,
-      "url": string,
-      "source": string,
-      "published_at": string,
-      "summary": string,
-      "categories": string[],
-      "campaign_types": string[],
-      "demo_tags": string[],
-      "psych_tags": string[],
-      "stakeholders": [
-        {{
-          "full_name": string,
-          "title": string,
-          "company_name": string,
-          "role_type": string,
-          "linkedin_url": string,
-          "email": string,
-          "email_status": string,
-          "email_confidence": number
-        }}
-      ],
-      "outreach_templates": [
-        {{
-          "stakeholder_full_name": string,
-          "email_subject": string,
-          "email_body": string,
-          "linkedin_message": string
-        }}
-      ]
-    }}
-
-    Article metadata:
-    Title: {article_meta.get("title", "")}
-    URL: {article_meta.get("link", "")}
-    Source: {article_meta.get("source", "")}
-    Published: {article_meta.get("published", "")}
-
-    Article text:
-    {article_text}
-    """)
-
-    headers = {
-        "Authorization": f"Bearer {OPENAI_API_KEY}",
-        "Content-Type": "application/json",
-    }
-
-    body = {
-        "model": "gpt-4.1-mini",
-        "messages": [
-            {"role": "user", "content": prompt}
-        ],
-        "temperature": 0
-    }
-
-    resp = rq.post(OPENAI_API_URL, headers=headers, json=body, timeout=60)
-    resp.raise_for_status()
-    data = resp.json()
-    content = data["choices"][0]["message"]["content"]
-
-    # --- Strip markdown formatting ---
-    content = content.strip()
-
-    if content.startswith("```"):
-        lines = content.splitlines()
-        if lines and lines[0].startswith("```"):
-            lines = lines[1:]
-        if lines and lines[-1].startswith("```"):
-            lines = lines[:-1]
-        content = "\n".join(lines).strip()
-
-    # Find the JSON inside the response
-    start = content.find("{")
-    end = content.rfind("}")
-    if start == -1 or end == -1:
-        raise RuntimeError(f"Model output did not contain JSON: {content}")
-
-    json_text = content[start:end+1]
-
-    try:
-        return json.loads(json_text)
-    except json.JSONDecodeError as e:
-        raise RuntimeError(f"Invalid JSON returned: {json_text}") from e
-
-def fetch_article_body(url):
-    if not url:
-        return ""
-    try:
-        resp = requests.get(url, timeout=20)
-        resp.raise_for_status()
-        return resp.text
-    except Exception:
-        return ""
 
 def main():
     data = load_existing_data()
     existing_articles = data.get("articles", [])
+
+    # Index existing by id so we don't duplicate
     id_to_article = {a.get("id"): a for a in existing_articles if a.get("id")}
 
     new_articles = []
@@ -181,14 +74,17 @@ def main():
         for entry in parsed.entries:
             title = entry.get("title", "")
             link = entry.get("link", "")
-            source = parsed.feed.get("title", "") or "Unknown"
-            published = entry.get("published", "") or entry.get("updated", "")
+            if not link:
+                continue
 
-            published_dt = parse_date(published)
+            source = parsed.feed.get("title", "") or "Unknown"
+            published_raw = entry.get("published", "") or entry.get("updated", "")
+
+            published_dt = parse_date(published_raw)
             if not published_dt:
                 continue
 
-            # Convert timezone-aware datetimes to naive datetimes
+            # make timezone naive if needed
             if published_dt.tzinfo is not None:
                 published_dt = published_dt.replace(tzinfo=None)
 
@@ -197,39 +93,47 @@ def main():
 
             article_id = make_article_id(link, published_dt)
             if article_id in id_to_article:
+                # already tracked
                 continue
 
-            article_meta = {
+            summary = entry.get("summary", "") or entry.get("description", "") or ""
+
+            article = {
+                "id": article_id,
                 "title": title,
-                "link": link,
+                "url": link,
                 "source": source,
-                "published": published_dt.date().isoformat()
+                "published_at": published_dt.date().isoformat(),
+                "summary": summary,
+                "categories": [],
+                "campaign_types": [],
+                "demo_tags": [],
+                "psych_tags": [],
+                "stakeholders": [],
+                "outreach_templates": []
             }
 
-            body_html = fetch_article_body(link)
-            article_json = call_openai_for_article(article_meta, body_html)
+            id_to_article[article_id] = article
+            new_articles.append(article)
 
-            article_json.setdefault("id", article_id)
-            article_json.setdefault("url", link)
-            article_json.setdefault("source", source)
-            article_json.setdefault("published_at", published_dt.date().isoformat())
-
-            id_to_article[article_json["id"]] = article_json
-            new_articles.append(article_json)
-
+    # Rebuild list, keep only articles after cutoff
     all_articles = list(id_to_article.values())
-    filtered = [
-        art for art in all_articles
-        if parse_date(art.get("published_at", "1970-01-01")) >= CUTOFF_DATE
-    ]
+    filtered = []
+    for art in all_articles:
+        pd = parse_date(art.get("published_at", "1970-01-01"))
+        if pd and pd >= CUTOFF_DATE:
+            filtered.append(art)
 
     filtered.sort(
-        key=lambda a: parse_date(a.get("published_at", "1970-01-01")),
-        reverse=True
+        key=lambda a: parse_date(a.get("published_at", "1970-01-01")) or CUTOFF_DATE,
+        reverse=True,
     )
 
     data["articles"] = filtered
     save_data(data)
+
+    print(f"Fetched {len(new_articles)} new article(s).")
+
 
 if __name__ == "__main__":
     main()
