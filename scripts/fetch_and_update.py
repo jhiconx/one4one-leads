@@ -4,12 +4,14 @@ from datetime import datetime
 import uuid
 
 import feedparser
+import requests
+from textwrap import dedent
 
-DATA_PATH = "data.json"
+# ------------- CONFIG -------------
 
-# RSS feeds to scan automatically
 RSS_FEEDS = [
     "https://www.bevnet.com/feed",
+    "https://www.bevnet.com/category/press-release/feed",
     "https://www.bevnet.com/category/press-release/feed",
     "https://www.nosh.com/feed",
     "https://www.prnewswire.com/rss/consumer-products-latest-news.rss",
@@ -20,10 +22,19 @@ RSS_FEEDS = [
     "https://adage.com/section/rss"
 ]
 
-# Only keep articles on/after this date
-CUTOFF_DATE_STR = "2020-01-01"
+# Keep only articles on/after this date
+CUTOFF_DATE_STR = "2000-01-01"  # you can tighten later if you want
 CUTOFF_DATE = datetime.fromisoformat(CUTOFF_DATE_STR)
 
+DATA_PATH = "data.json"
+
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+if not OPENAI_API_KEY:
+    raise SystemExit("OPENAI_API_KEY not set in environment.")
+
+OPENAI_API_URL = "https://api.openai.com/v1/chat/completions"  # [Speculation: endpoint name may differ in newer APIs]
+
+# ------------- HELPERS -------------
 
 def load_existing_data():
     if os.path.exists(DATA_PATH):
@@ -59,16 +70,133 @@ def make_article_id(url, published_dt):
     return "art_" + uuid.uuid5(uuid.NAMESPACE_URL, base).hex[:8]
 
 
+def fetch_article_body(url):
+    if not url:
+        return ""
+    try:
+        resp = requests.get(url, timeout=20)
+        resp.raise_for_status()
+        return resp.text
+    except Exception:
+        return ""
+
+
+def call_openai_for_article(article_meta, article_text):
+    """
+    Ask the model to return a FULL article object in your schema.
+    """
+
+    prompt = dedent(f"""
+    You are an information extraction engine for CPG launches and sampling campaigns.
+
+    Output ONLY a JSON object with this exact structure:
+
+    {{
+      "id": string,
+      "title": string,
+      "url": string,
+      "source": string,
+      "published_at": string,
+      "summary": string,
+      "categories": string[],
+      "campaign_types": string[],
+      "demo_tags": string[],
+      "psych_tags": string[],
+      "stakeholders": [
+        {{
+          "full_name": string,
+          "title": string,
+          "company_name": string,
+          "role_type": string,
+          "linkedin_url": string,
+          "email": string,
+          "email_status": string,
+          "email_confidence": number
+        }}
+      ],
+      "outreach_templates": [
+        {{
+          "stakeholder_full_name": string,
+          "email_subject": string,
+          "email_body": string,
+          "linkedin_message": string
+        }}
+      ]
+    }}
+
+    Constraints:
+    - Use the article metadata provided below for "title", "url", "source", and "published_at" when possible.
+    - If a field is unknown, use an empty string "" or empty array [].
+    - "categories" must be chosen from: ["food_and_beverage", "beauty_and_personal_care", "health_and_wellness", "other_cpg"].
+    - "campaign_types" must be chosen from: ["product_launch", "sampling_program", "experiential_activation", "promotion_or_discount", "announcement", "other"].
+    - "demo_tags" and "psych_tags" are short tokens like ["female", "gen_z_students", "college_students", "health_and_wellness_consumers"] etc.
+    - For "stakeholders", include only people who appear to be marketing / brand / shopper / experiential / sampling decision-makers or clearly listed PR contacts.
+    - Leave "email" blank "" if the article does not specify an email address.
+    - Output MUST be valid JSON. Do not include any explanation or text outside the JSON.
+
+    Article metadata:
+    - Title: {article_meta.get("title", "")}
+    - URL: {article_meta.get("link", "")}
+    - Source: {article_meta.get("source", "")}
+    - Published date: {article_meta.get("published", "")}
+
+    Article text (may include HTML):
+    {article_text}
+    """)
+
+    headers = {
+        "Authorization": f"Bearer {OPENAI_API_KEY}",
+        "Content-Type": "application/json",
+    }
+
+    body = {
+        "model": "gpt-4.1-mini",  # [Speculation: replace with the exact model name you use in your OpenAI account]
+        "messages": [
+            {"role": "user", "content": prompt}
+        ],
+        "temperature": 0
+    }
+
+    resp = requests.post(OPENAI_API_URL, headers=headers, json=body, timeout=120)
+    resp.raise_for_status()
+    data = resp.json()
+    content = data["choices"][0]["message"]["content"]
+
+    # Clean up possible ```json fences
+    content = content.strip()
+    if content.startswith("```"):
+        lines = content.splitlines()
+        if lines and lines[0].startswith("```"):
+            lines = lines[1:]
+        if lines and lines[-1].startswith("```"):
+            lines = lines[:-1]
+        content = "\n".join(lines).strip()
+
+    # Extract JSON between first { and last }
+    start = content.find("{")
+    end = content.rfind("}")
+    if start == -1 or end == -1:
+        raise RuntimeError(f"Model output did not contain JSON braces: {content}")
+
+    json_text = content[start:end + 1]
+
+    try:
+        return json.loads(json_text)
+    except json.JSONDecodeError as e:
+        raise RuntimeError(f"Failed to parse model output as JSON: {json_text}") from e
+
+
 def main():
     data = load_existing_data()
     existing_articles = data.get("articles", [])
 
-    # Index existing by id so we don't duplicate
+    # Index existing by id
     id_to_article = {a.get("id"): a for a in existing_articles if a.get("id")}
 
     new_articles = []
 
     for feed_url in RSS_FEEDS:
+        print(f"Fetching feed: {feed_url}")
         parsed = feedparser.parse(feed_url)
 
         for entry in parsed.entries:
@@ -79,12 +207,11 @@ def main():
 
             source = parsed.feed.get("title", "") or "Unknown"
             published_raw = entry.get("published", "") or entry.get("updated", "")
-
             published_dt = parse_date(published_raw)
             if not published_dt:
                 continue
 
-            # make timezone naive if needed
+            # make timezone-naive
             if published_dt.tzinfo is not None:
                 published_dt = published_dt.replace(tzinfo=None)
 
@@ -93,30 +220,44 @@ def main():
 
             article_id = make_article_id(link, published_dt)
             if article_id in id_to_article:
-                # already tracked
+                # already processed
                 continue
 
-            summary = entry.get("summary", "") or entry.get("description", "") or ""
-
-            article = {
-                "id": article_id,
+            article_meta = {
                 "title": title,
-                "url": link,
+                "link": link,
                 "source": source,
-                "published_at": published_dt.date().isoformat(),
-                "summary": summary,
-                "categories": [],
-                "campaign_types": [],
-                "demo_tags": [],
-                "psych_tags": [],
-                "stakeholders": [],
-                "outreach_templates": []
+                "published": published_dt.date().isoformat()
             }
 
-            id_to_article[article_id] = article
-            new_articles.append(article)
+            body_html = fetch_article_body(link)
+            if not body_html:
+                continue
 
-    # Rebuild list, keep only articles after cutoff
+            try:
+                article_json = call_openai_for_article(article_meta, body_html)
+            except Exception as e:
+                print(f"Skipping article due to OpenAI error: {e}")
+                continue
+
+            # Ensure core fields are present / overridden by meta
+            article_json.setdefault("id", article_id)
+            article_json["id"] = article_id
+            article_json.setdefault("url", link)
+            article_json.setdefault("source", source)
+            article_json.setdefault("published_at", published_dt.date().isoformat())
+            article_json.setdefault("summary", "")
+            article_json.setdefault("categories", [])
+            article_json.setdefault("campaign_types", [])
+            article_json.setdefault("demo_tags", [])
+            article_json.setdefault("psych_tags", [])
+            article_json.setdefault("stakeholders", [])
+            article_json.setdefault("outreach_templates", [])
+
+            id_to_article[article_json["id"]] = article_json
+            new_articles.append(article_json)
+
+    # Rebuild list, keep only articles on/after cutoff
     all_articles = list(id_to_article.values())
     filtered = []
     for art in all_articles:
@@ -125,14 +266,14 @@ def main():
             filtered.append(art)
 
     filtered.sort(
-        key=lambda a: parse_date(a.get("published_at", "1970-01-01")) or CUTOFF_DATE,
+        key=lambda a: parse_date(a.get("published_at", "2020-01-01")) or CUTOFF_DATE,
         reverse=True,
     )
 
     data["articles"] = filtered
     save_data(data)
 
-    print(f"Fetched {len(new_articles)} new article(s).")
+    print(f"Updated data.json with {len(new_articles)} new article(s).")
 
 
 if __name__ == "__main__":
