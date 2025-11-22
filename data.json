@@ -7,18 +7,11 @@
       "source": "FoodDive",
       "published_at": "2025-11-19",
       "summary": "Monster Beverage announced the launch of Flirt, a new energy drink positioned toward female consumers and competing directly with Alani Nu.",
-      "categories": [
-        "food_and_beverage"
-      ],
-      "campaign_types": [
-        "announcement"
-      ],
-      "demo_tags": [
-        "female"
-      ],
-      "psych_tags": [
-        "female"
-      ],
+      "categories": ["food_and_beverage"],
+      "campaign_types": ["announcement"],
+      "demo_tags": ["female"],
+      "psych_tags": ["female"],
+      
       "stakeholders": [
         {
           "full_name": "Hilton Schlosberg",
@@ -31,9 +24,16 @@
           "email_confidence": 0.0
         }
       ],
+
       "outreach_templates": [
         {
           "stakeholder_full_name": "Hilton Schlosberg",
           "email_subject": "Verified Gen Z sampling opportunities for Flirt",
           "email_body": "Hi Hilton,\n\nWe operate a sampling network focused on Gen Z across major college campuses, and we specialize in verified, fraud-free product trial.\n\nGiven Monster’s announcement of Flirt, and its positioning toward female consumers, we can support your launch by distributing samples directly to students and verifying every redemption using only the student’s phone number.\n\nBrands only pay on unique, verified redemptions—no duplicates, no recycled samples, and no inflated numbers. There are no upfront fees or placement costs.\n\nIf exploring a campus-driven push for Flirt is on your radar, I’d be glad to share how this system works.\n\nBest,\nJonas",
-          "linkedin_message": "Hi Hilton — saw Monster’s announcement of Flirt. We ru_
+          
+          "linkedin_message": "Hi Hilton — saw Monster’s announcement of Flirt. We run a verified Gen Z sampling network across major college campuses, where every sample is tied to a unique student phone number. If you ever explore college-driven trial for Flirt, I'd be glad to share how our verification system works."
+        }
+      ]
+    }
+  ]
+}
