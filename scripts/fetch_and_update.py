@@ -270,10 +270,7 @@ def main():
         if pd and pd >= CUTOFF_DATE:
             filtered.append(art)
 
-    filtered.sort(
-        key=lambda a: parse_date(a.get("published_at", "2000-01-01")) or CUTOFF_DATE,
-        reverse=True,
-    )
+    filtered.sort(key=lambda a: a.get("published_at", ""), reverse=True)
 
     data["articles"] = filtered
     save_data(data)
