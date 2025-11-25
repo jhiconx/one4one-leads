@@ -12,7 +12,6 @@ from textwrap import dedent
 RSS_FEEDS = [
     "https://www.bevnet.com/feed",
     "https://www.bevnet.com/category/press-release/feed",
-    "https://www.bevnet.com/category/press-release/feed",
     "https://www.nosh.com/feed",
     "https://www.prnewswire.com/rss/consumer-products-latest-news.rss",
     "https://www.globenewswire.com/RssFeed/subjectcode/8",
@@ -32,7 +31,7 @@ OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 if not OPENAI_API_KEY:
     raise SystemExit("OPENAI_API_KEY not set in environment.")
 
-OPENAI_API_URL = "https://api.openai.com/v1/chat/completions"  # [Speculation: endpoint name may differ in newer APIs]
+OPENAI_API_URL = "https://api.openai.com/v1/chat/completions"  # [Speculation: ensure this matches your OpenAI endpoint]
 
 # ------------- HELPERS -------------
 
@@ -150,7 +149,7 @@ def call_openai_for_article(article_meta, article_text):
     }
 
     body = {
-        "model": "gpt-4.1-mini",  # [Speculation: replace with the exact model name you use in your OpenAI account]
+        "model": "gpt-4.1-mini",  # [Speculation: replace with your actual model name if different]
         "messages": [
             {"role": "user", "content": prompt}
         ],
@@ -211,17 +210,12 @@ def main():
             if not published_dt:
                 continue
 
-            # make timezone-naive
+            # make timezone-naive if needed
             if published_dt.tzinfo is not None:
                 published_dt = published_dt.replace(tzinfo=None)
 
-            # Normalize timezone to naive datetime
-            if published_dt and published_dt.tzinfo is not None:
-                published_dt = published_dt.replace(tzinfo=None)
-
-            if published_dt and published_dt < CUTOFF_DATE:
+            if published_dt < CUTOFF_DATE:
                 continue
-
 
             article_id = make_article_id(link, published_dt)
             if article_id in id_to_article:
@@ -262,25 +256,22 @@ def main():
             id_to_article[article_json["id"]] = article_json
             new_articles.append(article_json)
 
-    # Rebuild list, keep only articles on/after cutoff
+    # Rebuild list, keep only articles on/after cutoff, normalize timezone here too
     all_articles = list(id_to_article.values())
-   
-   filtered = []
+
+    filtered = []
     for art in all_articles:
-    pd = parse_date(art.get("published_at", ""))
+        pd = parse_date(art.get("published_at", ""))
 
-    # Normalize timezone if present
-    if pd and pd.tzinfo is not None:
-        pd = pd.replace(tzinfo=None)
-
-    if pd and pd >= CUTOFF_DATE:
-        filtered.append(art)
+        # Normalize timezone if present
+        if pd and pd.tzinfo is not None:
+            pd = pd.replace(tzinfo=None)
 
         if pd and pd >= CUTOFF_DATE:
             filtered.append(art)
 
     filtered.sort(
-        key=lambda a: parse_date(a.get("published_at", "2020-01-01")) or CUTOFF_DATE,
+        key=lambda a: parse_date(a.get("published_at", "2000-01-01")) or CUTOFF_DATE,
         reverse=True,
     )
 
