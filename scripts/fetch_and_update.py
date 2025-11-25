@@ -215,8 +215,13 @@ def main():
             if published_dt.tzinfo is not None:
                 published_dt = published_dt.replace(tzinfo=None)
 
-            if published_dt < CUTOFF_DATE:
+            # Normalize timezone to naive datetime
+            if published_dt and published_dt.tzinfo is not None:
+                published_dt = published_dt.replace(tzinfo=None)
+
+            if published_dt and published_dt < CUTOFF_DATE:
                 continue
+
 
             article_id = make_article_id(link, published_dt)
             if article_id in id_to_article:
@@ -259,9 +264,18 @@ def main():
 
     # Rebuild list, keep only articles on/after cutoff
     all_articles = list(id_to_article.values())
-    filtered = []
+   
+   filtered = []
     for art in all_articles:
-        pd = parse_date(art.get("published_at", "1970-01-01"))
+    pd = parse_date(art.get("published_at", ""))
+
+    # Normalize timezone if present
+    if pd and pd.tzinfo is not None:
+        pd = pd.replace(tzinfo=None)
+
+    if pd and pd >= CUTOFF_DATE:
+        filtered.append(art)
+
         if pd and pd >= CUTOFF_DATE:
             filtered.append(art)
 
