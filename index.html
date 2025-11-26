@@ -41,7 +41,15 @@
     .meta {
       font-size: 0.85rem;
       color: #aaa;
-      margin-bottom: 16px;
+      margin-bottom: 12px;
+    }
+    .section-header {
+      margin-top: 18px;
+      margin-bottom: 8px;
+      font-size: 1rem;
+      font-weight: 600;
+      border-top: 1px solid #333;
+      padding-top: 10px;
     }
     .article-card {
       background: #111;
@@ -49,6 +57,7 @@
       padding: 16px;
       margin-bottom: 16px;
       border: 1px solid #222;
+      position: relative;
     }
     .article-header {
       display: flex;
@@ -181,6 +190,43 @@
       font-size: 0.85rem;
       margin-top: 8px;
     }
+    .empty-note {
+      font-size: 0.8rem;
+      color: #777;
+      font-style: italic;
+      margin-bottom: 8px;
+    }
+
+    /* X / Archive buttons */
+    .card-actions {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      display: flex;
+      gap: 6px;
+    }
+    .action-btn {
+      border-radius: 4px;
+      border: 1px solid #444;
+      background: #1a1a1a;
+      color: #ddd;
+      font-size: 0.7rem;
+      padding: 3px 8px;
+      cursor: pointer;
+    }
+    .action-btn:hover {
+      background: #333;
+    }
+    .action-btn.dismiss {
+      color: #ffb3b3;
+      border-color: #663333;
+      background: #330000;
+    }
+    .action-btn.archive {
+      color: #b3ffcc;
+      border-color: #336633;
+      background: #003300;
+    }
   </style>
 </head>
 <body>
@@ -192,44 +238,128 @@
     </div>
   </header>
 
-  <div class="meta" id="meta-summary">
-    Loading articles from data.json...
-  </div>
+  <div class="meta" id="meta-summary">Loading articles from data.json...</div>
 
+  <h2 class="section-header">Active Articles</h2>
   <div id="articles-container"></div>
+
+  <h2 class="section-header">Archived Articles</h2>
+  <div id="archived-empty" class="empty-note">No archived articles yet.</div>
+  <div id="archived-container"></div>
+
   <div id="error-message" class="error"></div>
 
   <script>
+    let globalArticles = [];
+    let hiddenIds = [];
+    let archivedIds = [];
+
+    function loadState() {
+      try {
+        hiddenIds = JSON.parse(localStorage.getItem("o41_hidden_ids") || "[]");
+      } catch {
+        hiddenIds = [];
+      }
+      try {
+        archivedIds = JSON.parse(localStorage.getItem("o41_archived_ids") || "[]");
+      } catch {
+        archivedIds = [];
+      }
+    }
+
+    function saveState() {
+      localStorage.setItem("o41_hidden_ids", JSON.stringify(hiddenIds));
+      localStorage.setItem("o41_archived_ids", JSON.stringify(archivedIds));
+    }
+
     function humanizeTag(tag) {
       if (!tag) return "";
       return tag.toString().replace(/_/g, " ").replace(/\b\w/g, c => c.toUpperCase());
     }
 
     function renderArticles(articles) {
-      const container = document.getElementById("articles-container");
+      globalArticles = articles || [];
+      loadState();
+
+      const activeContainer = document.getElementById("articles-container");
+      const archivedContainer = document.getElementById("archived-container");
+      const archivedEmpty = document.getElementById("archived-empty");
       const metaEl = document.getElementById("meta-summary");
-      const errorEl = document.getElementById("error-message");
 
-      container.innerHTML = "";
-      errorEl.textContent = "";
+      activeContainer.innerHTML = "";
+      archivedContainer.innerHTML = "";
 
-      if (!Array.isArray(articles) || articles.length === 0) {
-        metaEl.textContent = "No articles found.";
+      if (!Array.isArray(globalArticles) || globalArticles.length === 0) {
+        metaEl.textContent = "No articles found in data.json.";
+        archivedEmpty.style.display = "block";
         return;
       }
 
-      // Newest first
-      articles.sort((a, b) => {
+      // newest first
+      const sorted = [...globalArticles].sort((a, b) => {
         const da = new Date(a.published_at || "1970-01-01");
         const db = new Date(b.published_at || "1970-01-01");
         return db - da;
       });
 
-      metaEl.textContent = `${articles.length} article(s) loaded from data.json`;
+      const active = sorted.filter(a => {
+        const id = a.id || "";
+        return !hiddenIds.includes(id) && !archivedIds.includes(id);
+      });
 
-      articles.forEach(article => {
+      const archived = sorted.filter(a => {
+        const id = a.id || "";
+        return archivedIds.includes(id);
+      });
+
+      metaEl.textContent = `${sorted.length} article(s) loaded. ${active.length} active, ${archived.length} archived.`;
+
+      renderList(active, activeContainer, true);
+      renderList(archived, archivedContainer, false);
+
+      archivedEmpty.style.display = archived.length === 0 ? "block" : "none";
+    }
+
+    function renderList(list, container, allowActions) {
+      list.forEach(article => {
         const card = document.createElement("div");
         card.className = "article-card";
+
+        // ACTION BUTTONS
+        if (allowActions && article.id) {
+          const actions = document.createElement("div");
+          actions.className = "card-actions";
+
+          const xBtn = document.createElement("button");
+          xBtn.className = "action-btn dismiss";
+          xBtn.textContent = "✕";
+          xBtn.title = "Hide this article";
+          xBtn.onclick = () => {
+            if (!hiddenIds.includes(article.id)) {
+              hiddenIds.push(article.id);
+              saveState();
+              renderArticles(globalArticles);
+            }
+          };
+
+          const archBtn = document.createElement("button");
+          archBtn.className = "action-btn archive";
+          archBtn.textContent = "Archive";
+          archBtn.title = "Move to archived section";
+          archBtn.onclick = () => {
+            if (!archivedIds.includes(article.id)) {
+              archivedIds.push(article.id);
+              // ensure it's not in hidden if we archive it
+              hiddenIds = hiddenIds.filter(id => id !== article.id);
+              saveState();
+              renderArticles(globalArticles);
+            }
+          };
+
+          actions.appendChild(xBtn);
+          actions.appendChild(archBtn);
+          card.appendChild(actions);
+        }
 
         const header = document.createElement("div");
         header.className = "article-header";
