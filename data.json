@@ -1,6 +1,1143 @@
 {
   "articles": [
     {
+      "id": "art_9d4e8e26",
+      "title": "REPEAT: Award-winning Investigative News Program W5 Airs Part 2 of 3-part Television Series on Alleged Stock Market Manipulation of Quantum Biopharma Involving Two of Canada’s Largest Banks, CIBC and RBC",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196336/0/en/REPEAT-Award-winning-Investigative-News-Program-W5-Airs-Part-2-of-3-part-Television-Series-on-Alleged-Stock-Market-Manipulation-of-Quantum-Biopharma-Involving-Two-of-Canada-s-Large.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T14:30:00Z",
+      "summary": "Quantum BioPharma announced that CTV News' investigative program W5 aired Part 2 of a three-part series on alleged stock market manipulation involving Quantum Biopharma and two major Canadian banks, CIBC and RBC. The series highlights a USD $700 million lawsuit alleging illegal stock spoofing to manipulate Quantum Biopharma's stock price. The company aims to raise awareness about this illegal practice and its impact on retail investors and shareholders.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [],
+      "stakeholders": [
+        {
+          "full_name": "Zeeshan Saeed",
+          "title": "Founder, CEO and Executive Co-Chairman of the Board",
+          "company_name": "Quantum BioPharma Ltd.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "Zsaeed@quantumbiopharma.com",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Anthony Durkacz",
+          "title": "Co-Executive Chair",
+          "company_name": "Quantum BioPharma Ltd.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Zeeshan Saeed",
+          "email_subject": "Inquiry Regarding W5 Investigative Series on Quantum BioPharma",
+          "email_body": "Dear Mr. Saeed,\n\nI recently came across the W5 investigative series highlighting the alleged stock market manipulation involving Quantum BioPharma. I am interested in learning more about your efforts to raise awareness and the impact this has had on your company and shareholders. Could we schedule a time to discuss potential collaboration or support opportunities?\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Saeed, I wanted to reach out regarding the recent W5 investigative series on Quantum BioPharma. I am interested in discussing your efforts and exploring ways to support your mission. Looking forward to connecting."
+        },
+        {
+          "stakeholder_full_name": "Anthony Durkacz",
+          "email_subject": "Discussion on Quantum BioPharma's Stock Spoofing Allegations",
+          "email_body": "Dear Mr. Durkacz,\n\nI have been following the recent news coverage on Quantum BioPharma's lawsuit alleging stock spoofing. I would appreciate the opportunity to discuss the implications of this case and explore how we might assist in your advocacy or communication efforts.\n\nKind regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Durkacz, I am reaching out to discuss the recent allegations of stock spoofing involving Quantum BioPharma. I would like to explore potential ways to support your efforts. Thank you."
+        }
+      ]
+    },
+    {
+      "id": "art_b6c2384c",
+      "title": "DYWIDAG Reports Strong Q3 Performance and Advances Key Strategic Initiatives",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196320/0/en/DYWIDAG-Reports-Strong-Q3-Performance-and-Advances-Key-Strategic-Initiatives.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T14:17:55Z",
+      "summary": "DYWIDAG announced strong Q3 2025 financial and operational results, including revenue growth, increased order backlog, and advancement in renewable energy and infrastructure projects. The company expanded manufacturing capacity and launched new monitoring products, demonstrating commitment to innovation and operational improvements.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [],
+      "stakeholders": [
+        {
+          "full_name": "Peter Assinder",
+          "title": "VP Global Sales and Marketing",
+          "company_name": "DYWIDAG",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "Peter.Assinder@dywidag.com",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Joanne Hogue",
+          "title": "Smart Connections PR for DYWIDAG",
+          "company_name": "Smart Connections PR",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "joanne@smartconnectionspr.com",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Peter Assinder",
+          "email_subject": "Inquiry Regarding DYWIDAG's Q3 Performance and Strategic Initiatives",
+          "email_body": "Dear Mr. Assinder,\n\nI recently read about DYWIDAG's strong Q3 2025 performance and the advancement of key strategic initiatives. I am interested in learning more about your marketing and sales strategies that contributed to this success, especially in renewable energy and infrastructure sectors.\n\nCould we schedule a time to discuss potential collaboration opportunities?\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Assinder, I was impressed by DYWIDAG's recent Q3 results and strategic growth initiatives. I would appreciate the opportunity to connect and discuss potential synergies."
+        },
+        {
+          "stakeholder_full_name": "Joanne Hogue",
+          "email_subject": "Media Inquiry: DYWIDAG's Recent Q3 Performance Announcement",
+          "email_body": "Dear Ms. Hogue,\n\nI am reaching out regarding the recent announcement of DYWIDAG's strong Q3 2025 performance. I would like to request additional information or arrange an interview to better understand the company's strategic initiatives and future plans.\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Ms. Hogue, I am interested in learning more about DYWIDAG's recent Q3 performance announcement and would appreciate the opportunity to connect."
+        }
+      ]
+    },
+    {
+      "id": "art_6edd3675",
+      "title": "PacBio to Participate in the Piper Sandler 37th Annual Healthcare Conference",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196308/16261/en/PacBio-to-Participate-in-the-Piper-Sandler-37th-Annual-Healthcare-Conference.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T14:05:00Z",
+      "summary": "PacBio, a leading developer of high-quality sequencing solutions, announced that management will participate in a fireside chat at Piper Sandler’s 37th Annual Healthcare Conference on December 3, 2025. The event will be webcast live and available for replay.",
+      "categories": [],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [],
+      "stakeholders": [],
+      "outreach_templates": []
+    },
+    {
+      "id": "art_7abb3981",
+      "title": "Grocery Outlet to Present at Morgan Stanley Global Consumer & Retail Conference",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196275/0/en/Grocery-Outlet-to-Present-at-Morgan-Stanley-Global-Consumer-Retail-Conference.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T13:30:00Z",
+      "summary": "Grocery Outlet Holding Corp. announced that CEO Jason Potter will participate in a fireside chat at the Morgan Stanley Global Consumer & Retail Conference on December 3, 2025. The company is a high-growth, extreme value retailer with over 560 independently operated stores across multiple states.",
+      "categories": [
+        "food_and_beverage"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [],
+      "stakeholders": [
+        {
+          "full_name": "Jason Potter",
+          "title": "Chief Executive Officer",
+          "company_name": "Grocery Outlet Holding Corp.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Ian Ferry",
+          "title": "Investor Relations Contact",
+          "company_name": "Grocery Outlet Holding Corp.",
+          "role_type": "investor_relations",
+          "linkedin_url": "",
+          "email": "iferry@cfgo.com",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Ron Clark",
+          "title": "Investor Relations Contact",
+          "company_name": "Grocery Outlet Holding Corp.",
+          "role_type": "investor_relations",
+          "linkedin_url": "",
+          "email": "ron@ellipsista.com",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Jason Potter",
+          "email_subject": "Inquiry Regarding Grocery Outlet's Presentation at Morgan Stanley Conference",
+          "email_body": "Dear Mr. Potter,\n\nI am reaching out to learn more about Grocery Outlet's upcoming presentation at the Morgan Stanley Global Consumer & Retail Conference. We are interested in understanding any new initiatives or strategic directions you plan to discuss.\n\nThank you for your time and consideration.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Potter, I am interested in Grocery Outlet's presentation at the Morgan Stanley Global Consumer & Retail Conference and would appreciate any insights you can share. Thank you!"
+        },
+        {
+          "stakeholder_full_name": "Ian Ferry",
+          "email_subject": "Investor Relations Inquiry for Grocery Outlet",
+          "email_body": "Dear Mr. Ferry,\n\nI am contacting you regarding investor relations for Grocery Outlet. Could you please provide more information about the company's recent activities and upcoming events?\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Ferry, I would like to connect regarding investor relations for Grocery Outlet. Looking forward to your response."
+        },
+        {
+          "stakeholder_full_name": "Ron Clark",
+          "email_subject": "Investor Relations Inquiry for Grocery Outlet",
+          "email_body": "Dear Mr. Clark,\n\nI am reaching out to inquire about Grocery Outlet's investor relations and any upcoming presentations or reports.\n\nThank you for your time.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Clark, I am interested in learning more about Grocery Outlet's investor relations activities. Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "art_87e73cde",
+      "title": "KH Groupin taloudellinen raportointi ja yhtiökokous vuonna 2026",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196261/0/fi/KH-Groupin-taloudellinen-raportointi-ja-yhti%C3%B6kokous-vuonna-2026.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T13:10:00Z",
+      "summary": "KH Group Oyj announces its financial reporting schedule for 2026 and the date for its Annual General Meeting. The company will publish its financial statements and interim reports in both Finnish and English, with a 30-day silent period before each release. The Annual General Meeting is planned for May 5, 2026.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [],
+      "stakeholders": [
+        {
+          "full_name": "Carl Haglund",
+          "title": "toimitusjohtaja",
+          "company_name": "KH Group Oyj",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Carl Haglund",
+          "email_subject": "Inquiry Regarding KH Group's 2026 Financial Reporting and AGM",
+          "email_body": "Dear Mr. Haglund,\n\nI hope this message finds you well. I am reaching out to learn more about KH Group Oyj's financial reporting plans and the upcoming Annual General Meeting scheduled for May 5, 2026. Could you please provide additional details or direct me to the appropriate contact for further information?\n\nThank you for your time and assistance.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Haglund, I am interested in KH Group Oyj's 2026 financial reporting schedule and the Annual General Meeting. Could we connect to discuss this further? Thank you."
+        }
+      ]
+    },
+    {
+      "id": "art_16cd618e",
+      "title": "KH Group’s financial reporting and Annual General Meeting in 2026",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196261/0/en/KH-Group-s-financial-reporting-and-Annual-General-Meeting-in-2026.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T13:10:00Z",
+      "summary": "KH Group Plc announced its financial reporting schedule for 2026 and the planned Annual General Meeting on May 5, 2026. The company will publish financial statements, interim reports, and half-year reports throughout the year. The AGM invitation will be sent later. CEO Carl Haglund is the contact for further information.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [],
+      "stakeholders": [
+        {
+          "full_name": "Carl Haglund",
+          "title": "CEO",
+          "company_name": "KH Group Plc",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Carl Haglund",
+          "email_subject": "Inquiry Regarding KH Group’s 2026 Financial Reporting and AGM",
+          "email_body": "Dear Mr. Haglund,\n\nI hope this message finds you well. I am reaching out to learn more about KH Group’s financial reporting schedule and the upcoming Annual General Meeting planned for May 5, 2026. We are interested in understanding any opportunities for collaboration or communication around these events.\n\nCould you please provide additional details or direct me to the appropriate contact?\n\nThank you for your time and consideration.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hello Mr. Haglund, I am interested in learning more about KH Group’s financial reporting and the Annual General Meeting in 2026. Would you be open to connecting to discuss potential collaboration opportunities? Thank you."
+        }
+      ]
+    },
+    {
+      "id": "art_7a1f7908",
+      "title": "Lands' End Announces Third Quarter 2025 Earnings Conference Call",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196247/30720/en/Lands-End-Announces-Third-Quarter-2025-Earnings-Conference-Call.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T13:00:00Z",
+      "summary": "Lands' End, Inc. will host a conference call on December 9, 2025, to discuss its third quarter 2025 financial results. A news release with these results will be issued before the call. The live broadcast and archive will be available on the company's investor relations website.",
+      "categories": [],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [],
+      "stakeholders": [
+        {
+          "full_name": "Bernard McCracken",
+          "title": "Chief Financial Officer",
+          "company_name": "Lands' End, Inc.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Tom Filandro",
+          "title": "Investor Relations",
+          "company_name": "ICR, Inc.",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "Tom.Filandro@icrinc.com",
+          "email_status": "",
+          "email_confidence": 0.9
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Bernard McCracken",
+          "email_subject": "Inquiry Regarding Lands' End Q3 2025 Earnings Conference Call",
+          "email_body": "Dear Mr. McCracken,\n\nI am reaching out to learn more about the upcoming third quarter 2025 earnings conference call for Lands' End. Could you please provide additional details on any marketing or product initiatives discussed during the call?\n\nThank you for your time.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. McCracken, I am interested in learning more about Lands' End's Q3 2025 earnings and any related marketing initiatives. Would you be open to connecting?"
+        },
+        {
+          "stakeholder_full_name": "Tom Filandro",
+          "email_subject": "Request for Information on Lands' End Q3 2025 Earnings Announcement",
+          "email_body": "Dear Mr. Filandro,\n\nI am following up regarding the upcoming Lands' End third quarter 2025 earnings announcement. Could you please share any press materials or insights related to marketing or product launches?\n\nThank you very much.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Filandro, I would appreciate any information you can share about Lands' End's Q3 2025 earnings and related marketing activities. Looking forward to connecting."
+        }
+      ]
+    },
+    {
+      "id": "art_27c2bd06",
+      "title": "Profound Medical to Launch AI-Powered BPH Module, Present New TULSA-PRO® Clinical Data, at RSNA and SUO Meetings",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196233/33471/en/Profound-Medical-to-Launch-AI-Powered-BPH-Module-Present-New-TULSA-PRO-Clinical-Data-at-RSNA-and-SUO-Meetings.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T12:45:00Z",
+      "summary": "Profound Medical announced the launch of its AI-powered TULSA-AI Volume Reduction module for treating benign prostatic hyperplasia (BPH) at the RSNA meeting. The module optimizes treatment efficiency and workflow for BPH patients using the incision-free TULSA-PRO system. The company will also present new clinical data on TULSA-PRO for prostate cancer at RSNA and SUO meetings, highlighting the procedure's versatility, patient benefits, and potential for mainstream adoption.",
+      "categories": [
+        "health_and_wellness"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "announcement"
+      ],
+      "demo_tags": [
+        "male",
+        "older_men",
+        "bph_patients",
+        "prostate_cancer_patients",
+        "healthcare_providers"
+      ],
+      "psych_tags": [
+        "health_and_wellness_consumers",
+        "tech_adopters",
+        "precision_medicine_interested"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Arun Menawat",
+          "title": "CEO and Chairman",
+          "company_name": "Profound Medical Corp.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Stephen Kilmer",
+          "title": "Investor Relations",
+          "company_name": "Profound Medical Corp.",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "skilmer@profoundmedical.com",
+          "email_status": "valid",
+          "email_confidence": 0.9
+        },
+        {
+          "full_name": "Susan Thomas",
+          "title": "Public Relations",
+          "company_name": "Profound Medical Corp.",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "sthomas@profoundmedical.com",
+          "email_status": "valid",
+          "email_confidence": 0.9
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Arun Menawat",
+          "email_subject": "Inquiry Regarding the Launch of TULSA-AI Volume Reduction Module",
+          "email_body": "Dear Mr. Menawat,\n\nI am reaching out to learn more about Profound Medical's recent launch of the AI-powered TULSA-AI Volume Reduction module for BPH treatment. We are interested in understanding how this innovation can benefit healthcare providers and patients, and explore potential collaboration opportunities.\n\nLooking forward to your insights.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hello Mr. Menawat, I am impressed by Profound Medical's launch of the AI-powered TULSA-AI module for BPH. I would appreciate the opportunity to connect and discuss potential collaboration."
+        },
+        {
+          "stakeholder_full_name": "Stephen Kilmer",
+          "email_subject": "Request for More Information on Profound Medical's Latest Product Launch",
+          "email_body": "Dear Mr. Kilmer,\n\nCongratulations on the launch of the TULSA-AI Volume Reduction module. Could you please provide additional details on the product features and upcoming events at RSNA and SUO where we might learn more?\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Stephen, congrats on the new TULSA-AI module launch. Would love to connect and get more info on the product and related events."
+        },
+        {
+          "stakeholder_full_name": "Susan Thomas",
+          "email_subject": "Media Inquiry Regarding Profound Medical's AI-Powered BPH Module Launch",
+          "email_body": "Dear Ms. Thomas,\n\nI am a journalist interested in covering Profound Medical's recent launch of the AI-powered TULSA-AI Volume Reduction module. Could you please provide press materials or arrange an interview with a company representative?\n\nThank you for your time.\n\nSincerely,\n[Your Name]\n[Your Media Outlet]",
+          "linkedin_message": "Hello Susan, I am interested in covering Profound Medical's AI-powered BPH module launch and would appreciate any press materials or interview opportunities."
+        }
+      ]
+    },
+    {
+      "id": "art_f168464d",
+      "title": "ORA Developers Group anuncia su debut en el LPS Shanghái, con lo que refuerza su presencia mundial de 45.000 millones de dólares",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196130/0/es/ORA-Developers-Group-anuncia-su-debut-en-el-LPS-Shangh%C3%A1i-con-lo-que-refuerza-su-presencia-mundial-de-45-000-millones-de-d%C3%B3lares.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T10:41:31Z",
+      "summary": "ORA Developers, líder mundial en desarrollos inmobiliarios y destinos de estilo de vida visionarios, anuncia su debut en el Luxury Property Showcase (LPS) en Shanghái, marcando un hito en su expansión internacional. Presenta una colección selecta de desarrollos costeros emblemáticos en Emiratos Árabes Unidos, Chipre y el Caribe, con una cartera valorada en más de 45.000 millones de dólares. La estrategia de ORA se centra en comunidades de diseño excepcional, calidad y estabilidad financiera, ofreciendo valor de inversión y opciones geopolíticas a sus clientes.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "luxury_property_investors",
+        "international_investors",
+        "high_net_worth_families"
+      ],
+      "psych_tags": [
+        "investment_security_seekers",
+        "luxury_lifestyle_consumers",
+        "global_mobility_seekers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Tamer Fikry",
+          "title": "Director de Ventas",
+          "company_name": "ORA Developers EAU",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Tarek Hakim",
+          "title": "",
+          "company_name": "Bates Pan Gulf",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "Tarek.hakim@bpggroup.com",
+          "email_status": "",
+          "email_confidence": 0.9
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Tamer Fikry",
+          "email_subject": "Interés en su debut en LPS Shanghái y oportunidades de colaboración",
+          "email_body": "Estimado Sr. Fikry,\n\nHe leído con gran interés el anuncio del debut de ORA Developers en el Luxury Property Showcase en Shanghái. Me gustaría explorar posibles oportunidades de colaboración y conocer más sobre sus desarrollos emblemáticos y estrategias de expansión internacional.\n\nQuedo atento a su respuesta.\n\nSaludos cordiales,",
+          "linkedin_message": "Hola Tamer, felicidades por el debut de ORA Developers en LPS Shanghái. Me encantaría conectar para explorar oportunidades de colaboración."
+        },
+        {
+          "stakeholder_full_name": "Tarek Hakim",
+          "email_subject": "Consulta sobre el comunicado de prensa de ORA Developers",
+          "email_body": "Estimado Sr. Hakim,\n\nLe escribo en relación con el reciente comunicado de prensa sobre ORA Developers y su participación en el LPS Shanghái. Me gustaría obtener más información y discutir posibles sinergias.\n\nQuedo a la espera de su amable respuesta.\n\nAtentamente,",
+          "linkedin_message": "Hola Tarek, vi el comunicado de prensa de ORA Developers y me gustaría conectar para conversar sobre posibles colaboraciones."
+        }
+      ]
+    },
+    {
+      "id": "art_2ae6af85",
+      "title": "ORA Developers Group Umumkan Penampilan Sulung di LPS Shanghai, Mengukuhkan Jejak Global Bernilai AS$45 Bilion",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196130/0/ms/ORA-Developers-Group-Umumkan-Penampilan-Sulung-di-LPS-Shanghai-Mengukuhkan-Jejak-Global-Bernilai-AS-45-Bilion.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T10:41:31Z",
+      "summary": "ORA Developers, a global leader in innovative real estate development and exclusive lifestyle destinations, announced its debut at the Luxury Property Showcase (LPS) Shanghai. The company will showcase its exclusive coastal developments in prestigious locations including UAE, Cyprus, and the Caribbean, highlighting a portfolio valued at over US$45 billion. This participation marks a strategic step in ORA's global expansion and engagement with key international investors seeking premium assets. ORA's portfolio includes major projects such as Bayn in UAE, Ayia Napa Marina in Cyprus, and ultra-luxury properties in Grenada, offering unique investment and lifestyle opportunities.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [
+        "luxury_investors",
+        "global_property_investors",
+        "high_net_worth_individuals"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Tamer Fikry",
+          "title": "Chief Sales Officer",
+          "company_name": "ORA Developers Holding Limited",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Tamer Fikry",
+          "email_subject": "Exciting Opportunity: ORA Developers' Debut at LPS Shanghai",
+          "email_body": "Dear Mr. Fikry,\n\nCongratulations on ORA Developers' debut at the Luxury Property Showcase in Shanghai. We are impressed by your strategic global expansion and the impressive portfolio valued at over US$45 billion. We would love to explore potential collaboration opportunities to further amplify your brand's presence among luxury investors and global property buyers.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hello Mr. Fikry, congratulations on ORA Developers' debut at LPS Shanghai. I would appreciate the opportunity to discuss potential collaborations to support your global growth and investor engagement."
+        }
+      ]
+    },
+    {
+      "id": "art_9a3e2c83",
+      "title": "O ORA Developers Group anuncia sua estreia na LPS Shanghai, reforçando sua presença global de US$ 45 bilhões",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196130/0/pt/O-ORA-Developers-Group-anuncia-sua-estreia-na-LPS-Shanghai-refor%C3%A7ando-sua-presen%C3%A7a-global-de-US-45-bilh%C3%B5es.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T10:41:31Z",
+      "summary": "ORA Developers, líder global em empreendimentos imobiliários visionários e destinos de estilo de vida, anuncia sua estreia no Luxury Property Showcase (LPS) em Xangai, marcando um passo importante na expansão internacional da marca. A empresa apresentará empreendimentos costeiros emblemáticos nos Emirados Árabes Unidos, Chipre e Caribe, com um portfólio avaliado em mais de US$ 45 bilhões. A participação reforça o apelo da ORA para investidores globais que buscam ativos de luxo e opções de investimento seguras e diversificadas.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "luxury_investors",
+        "global_investors",
+        "real_estate_investors"
+      ],
+      "psych_tags": [
+        "investment_security",
+        "luxury_lifestyle",
+        "financial_resilience"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Tamer Fikry",
+          "title": "Diretor de Vendas",
+          "company_name": "ORA Developers UAE",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Tarek Hakim",
+          "title": "",
+          "company_name": "Bates Pan Gulf",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "Tarek.hakim@bpggroup.com",
+          "email_status": "",
+          "email_confidence": 0.9
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Tamer Fikry",
+          "email_subject": "Parceria para Ampliação da Presença da ORA Developers no Mercado Global",
+          "email_body": "Prezado Sr. Fikry,\n\nGostaria de parabenizá-lo pela estreia da ORA Developers no Luxury Property Showcase em Xangai. Estamos interessados em explorar oportunidades de colaboração para ampliar ainda mais a presença da ORA no mercado global de imóveis de luxo. Poderíamos agendar uma reunião para discutir possíveis sinergias?\n\nAtenciosamente,\n[Seu Nome]",
+          "linkedin_message": "Olá Tamer, parabéns pela participação da ORA Developers no LPS Shanghai. Gostaria de conectar para discutir oportunidades de colaboração no mercado imobiliário de luxo."
+        },
+        {
+          "stakeholder_full_name": "Tarek Hakim",
+          "email_subject": "Contato sobre Divulgação e Relações Públicas para ORA Developers",
+          "email_body": "Prezado Sr. Hakim,\n\nVi o recente anúncio da ORA Developers sobre sua estreia na LPS Shanghai e gostaria de discutir possíveis iniciativas de divulgação e relações públicas para fortalecer ainda mais a presença da marca globalmente. Poderíamos agendar uma conversa?\n\nAtenciosamente,\n[Seu Nome]",
+          "linkedin_message": "Olá Tarek, vi o anúncio da ORA Developers no LPS Shanghai. Gostaria de conectar para discutir estratégias de divulgação e PR."
+        }
+      ]
+    },
+    {
+      "id": "art_8480717f",
+      "title": "ORAデベロッパーズグルーブ、LPS上海への初出展を発表し、450億ドル (約7兆322億3,890万円) 規模のグローバルな事業基盤を強化",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196130/0/ja/ORA%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC%E3%82%BA%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%96-LPS%E4%B8%8A%E6%B5%B7%E3%81%B8%E3%81%AE%E5%88%9D%E5%87%BA%E5%B1%95%E3%82%92%E7%99%BA%E8%A1%A8%E3%81%97-450%E5%84%84%E3%83%89%E3%83%AB-%E7%B4%847%E5%85%86322%E5%84%843-890%E4%B8%87%E5%86%86-%E8%A6%8F%E6%A8%A1%E3%81%AE%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%81%AA%E4%BA%8B%E6%A5%AD%E5%9F%BA%E7%9B%A4%E3%82%92%E5%BC%B7%E5%8C%96.html",
+      "source": "ORA Developers Holding Limited",
+      "published_at": "2025-11-28T10:41:31Z",
+      "summary": "ORA Developers, a global leader in visionary real estate and lifestyle destinations, announced its debut at the Luxury Property Showcase (LPS) in Shanghai, marking a significant milestone in its international expansion. The company showcased a portfolio of premium coastal development projects across the UAE, Cyprus, and the Caribbean, with an estimated total sales value exceeding $45 billion. The participation highlights strong investor demand for luxury global real estate and reinforces ORA's commitment to delivering high-quality, resilient, and well-designed communities that offer long-term investment value and lifestyle excellence.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [
+        "luxury_investors",
+        "global_real_estate_investors",
+        "high_net_worth_individuals"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Tamer Fikry",
+          "title": "Chief Sales Officer (CSO)",
+          "company_name": "ORA Developers",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Tarek Hakim",
+          "title": "",
+          "company_name": "Bates Pan Gulf",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "Tarek.hakim@bpggroup.com",
+          "email_status": "",
+          "email_confidence": 0.8
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Tamer Fikry",
+          "email_subject": "Inquiry Regarding ORA Developers' Debut at LPS Shanghai",
+          "email_body": "Dear Mr. Fikry,\n\nI recently read about ORA Developers' debut at the Luxury Property Showcase in Shanghai and your impressive global portfolio. I am interested in learning more about your international expansion strategy and potential collaboration opportunities.\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Fikry, I was impressed by ORA Developers' debut at LPS Shanghai and would love to connect to discuss your global real estate initiatives."
+        },
+        {
+          "stakeholder_full_name": "Tarek Hakim",
+          "email_subject": "Media Inquiry: ORA Developers' Participation at LPS Shanghai",
+          "email_body": "Dear Mr. Hakim,\n\nI am reaching out to inquire about ORA Developers' upcoming participation at the Luxury Property Showcase in Shanghai. I would appreciate any additional information or media materials you could provide.\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Hakim, I am interested in learning more about ORA Developers' participation at LPS Shanghai and would appreciate connecting."
+        }
+      ]
+    },
+    {
+      "id": "art_e40b001b",
+      "title": "ORA Developers Group 宣布首次亮相上海国际高端房产盛会 (LPS)，巩固其 450 亿美元的全球业务版图",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196130/0/zh-hans/ORA-Developers-Group-%E5%AE%A3%E5%B8%83%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E9%AB%98%E7%AB%AF%E6%88%BF%E4%BA%A7%E7%9B%9B%E4%BC%9A-LPS-%E5%B7%A9%E5%9B%BA%E5%85%B6-450-%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%85%A8%E7%90%83%E4%B8%9A%E5%8A%A1%E7%89%88%E5%9B%BE.html",
+      "source": "ORA Developers Holding Limited",
+      "published_at": "2025-11-28T10:41:31Z",
+      "summary": "ORA Developers Group, a global leader in real estate and lifestyle destinations, announced its debut at the Luxury Property Showcase (LPS) in Shanghai, marking a key step in its global expansion. The company will showcase its iconic waterfront developments in the UAE, Cyprus, and the Caribbean, highlighting a portfolio with estimated sales exceeding $45 billion. The participation underscores ORA's strategic focus on delivering luxury, resilient communities with strong investment value and geopolitical flexibility. The event runs from December 5-7, 2025.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "global_investors",
+        "luxury_real_estate_buyers"
+      ],
+      "psych_tags": [
+        "investment_focused",
+        "luxury_lifestyle_seekers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Tamer Fikry",
+          "title": "Chief Sales Officer",
+          "company_name": "ORA Developers",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Tarek Hakim",
+          "title": "",
+          "company_name": "Bates Pan Gulf",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "Tarek.hakim@bpggroup.com",
+          "email_status": "",
+          "email_confidence": 0.9
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Tamer Fikry",
+          "email_subject": "Exploring Collaboration Opportunities with ORA Developers at LPS Shanghai",
+          "email_body": "Dear Mr. Fikry,\n\nI was excited to learn about ORA Developers Group's debut at the Luxury Property Showcase in Shanghai. Your portfolio's impressive scale and strategic focus on luxury waterfront developments truly stand out. I would appreciate the opportunity to discuss potential collaboration or partnership opportunities that align with your global expansion goals.\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Fikry, congratulations on ORA Developers Group's debut at LPS Shanghai. I would love to connect and explore potential collaboration opportunities."
+        },
+        {
+          "stakeholder_full_name": "Tarek Hakim",
+          "email_subject": "Inquiry Regarding PR Opportunities for ORA Developers Group",
+          "email_body": "Dear Mr. Hakim,\n\nI came across the recent announcement of ORA Developers Group's participation at the LPS Shanghai event. I am interested in discussing potential PR and media collaboration opportunities to further highlight ORA's impressive global portfolio.\n\nPlease let me know a convenient time to connect.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Hakim, I am interested in discussing PR opportunities related to ORA Developers Group's participation at LPS Shanghai. Looking forward to connecting."
+        }
+      ]
+    },
+    {
+      "id": "art_46a2d6c8",
+      "title": "ORA Developers Group 宣佈首次參與 LPS 上海國際高端房產盛會，鞏固 450 億美元全球佈局",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196130/0/zh-hant/ORA-Developers-Group-%E5%AE%A3%E4%BD%88%E9%A6%96%E6%AC%A1%E5%8F%83%E8%88%87-LPS-%E4%B8%8A%E6%B5%B7%E5%9C%8B%E9%9A%9B%E9%AB%98%E7%AB%AF%E6%88%BF%E7%94%A2%E7%9B%9B%E6%9C%83-%E9%9E%8F%E5%9B%BA-450-%E5%84%84%E7%BE%8E%E5%85%83%E5%85%A8%E7%90%83%E4%BD%88%E5%B1%80.html",
+      "source": "ORA Developers Holding Limited",
+      "published_at": "2025-11-28T10:41:31Z",
+      "summary": "ORA Developers 宣佈首次亮相上海國際高端房產盛會（Luxury Property Showcase, LPS），展示其全球超過450億美元的海岸房地產資產組合，涵蓋阿聯酋、塞浦路斯及加勒比海區等地。此次參展標誌著品牌國際擴張的重要里程碑，強調其為全球頂級資產投資者提供穩定且多元化的投資選擇。ORA 將於2025年12月5日至7日參展LPS上海盛會。",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "global_investors",
+        "luxury_property_investors",
+        "high_net_worth_individuals"
+      ],
+      "psych_tags": [
+        "investment_security_seekers",
+        "luxury_lifestyle_seekers",
+        "diversification_enthusiasts"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Tamer Fikry",
+          "title": "Sales Director, UAE",
+          "company_name": "ORA Developers",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Tarek Hakim",
+          "title": "",
+          "company_name": "Bates Pan Gulf",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "Tarek.hakim@bpggroup.com",
+          "email_status": "",
+          "email_confidence": 0.8
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Tamer Fikry",
+          "email_subject": "Exploring Collaboration Opportunities at LPS Shanghai",
+          "email_body": "Dear Mr. Fikry,\n\nI was excited to learn about ORA Developers' debut at the Luxury Property Showcase in Shanghai and your impressive global portfolio. I would appreciate the opportunity to discuss potential collaboration or partnership opportunities that align with your growth strategy.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Fikry, congratulations on ORA Developers' debut at LPS Shanghai. I would love to connect and explore potential synergies."
+        },
+        {
+          "stakeholder_full_name": "Tarek Hakim",
+          "email_subject": "Inquiry Regarding ORA Developers' Participation at LPS Shanghai",
+          "email_body": "Dear Mr. Hakim,\n\nI came across the announcement of ORA Developers' participation at the upcoming LPS Shanghai event. I am interested in learning more about your initiatives and how we might support your marketing or PR efforts.\n\nPlease let me know a convenient time to discuss.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Hakim, I saw ORA Developers' exciting announcement about LPS Shanghai. I would be interested in discussing how we might collaborate."
+        }
+      ]
+    },
+    {
+      "id": "art_255fc34f",
+      "title": "ORA Developers Group annonce ses débuts au LPS Shanghai, renforçant ainsi sa présence mondiale à hauteur de 45 milliards de dollars",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196130/0/fr/ORA-Developers-Group-annonce-ses-d%C3%A9buts-au-LPS-Shanghai-renfor%C3%A7ant-ainsi-sa-pr%C3%A9sence-mondiale-%C3%A0-hauteur-de-45-milliards-de-dollars.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T10:41:31Z",
+      "summary": "ORA Developers, leader mondial dans la création de destinations immobilières et lifestyle visionnaires, annonce sa première participation au Luxury Property Showcase (LPS) de Shanghai, marquant une étape clé dans son expansion internationale. Le groupe présente ses projets côtiers emblématiques aux Émirats arabes unis, à Chypre et dans les Caraïbes, avec un portefeuille immobilier d'une valeur estimée à plus de 45 milliards de dollars. Cette participation reflète l'engagement d'ORA envers le marché international de l'immobilier premium, offrant des actifs stables et des opportunités d'investissement sécurisées.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [
+        "luxury_investors",
+        "international_investors",
+        "real_estate_investors"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Tamer Fikry",
+          "title": "Directeur commercial",
+          "company_name": "ORA Developers EAU",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Tarek Hakim",
+          "title": "",
+          "company_name": "Bates Pan Gulf",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "Tarek.hakim@bpggroup.com",
+          "email_status": "",
+          "email_confidence": 0.9
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Tamer Fikry",
+          "email_subject": "Collaboration Opportunity with ORA Developers at LPS Shanghai",
+          "email_body": "Dear Mr. Fikry,\n\nI recently read about ORA Developers' debut at the Luxury Property Showcase in Shanghai and your impressive portfolio valued at over $45 billion. I am interested in exploring potential collaboration opportunities to support your marketing and expansion efforts in the international luxury real estate market.\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Fikry, I was impressed by ORA Developers' participation at LPS Shanghai and would love to connect to discuss potential marketing collaborations."
+        },
+        {
+          "stakeholder_full_name": "Tarek Hakim",
+          "email_subject": "Inquiry Regarding PR Opportunities for ORA Developers",
+          "email_body": "Dear Mr. Hakim,\n\nI came across the recent announcement of ORA Developers' participation at LPS Shanghai and would like to discuss possible PR and media collaboration opportunities to further enhance ORA's global presence.\n\nPlease let me know a convenient time to connect.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Hakim, I am interested in discussing PR opportunities related to ORA Developers' recent announcement at LPS Shanghai. Looking forward to connecting."
+        }
+      ]
+    },
+    {
+      "id": "art_b06d22be",
+      "title": "ORA Developers Group gibt Debüt auf der LPS Shanghai bekannt und stärkt damit ihre globale Präsenz im Umfang von 45 Mrd. US-Dollar",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196130/0/de/ORA-Developers-Group-gibt-Deb%C3%BCt-auf-der-LPS-Shanghai-bekannt-und-st%C3%A4rkt-damit-ihre-globale-Pr%C3%A4senz-im-Umfang-von-45-Mrd-US-Dollar.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T10:41:31Z",
+      "summary": "ORA Developers, ein weltweit führender Anbieter von visionären Immobilien- und Lifestyle-Destinationen, gibt sein Debüt auf der Luxury Property Showcase (LPS) in Shanghai bekannt. Die Teilnahme unterstreicht die internationale Expansion der Marke und präsentiert ein Portfolio von Küstenentwicklungsprojekten mit einem Gesamtverkaufswert von über 45 Mrd. US-Dollar in sieben Ländern. Die Projekte bieten Investoren attraktive Anlagemöglichkeiten in den Vereinigten Arabischen Emiraten, Zypern und der Karibik mit Fokus auf Luxus, Stabilität und nachhaltige Kapitalwertsteigerung.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [
+        "luxury_investors",
+        "global_investors",
+        "real_estate_investors"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Tamer Fikry",
+          "title": "Chief Sales Officer",
+          "company_name": "ORA Developers UAE",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Tarek Hakim",
+          "title": "",
+          "company_name": "Bates Pan Gulf",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "Tarek.hakim@bpggroup.com",
+          "email_status": "",
+          "email_confidence": 0.9
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Tamer Fikry",
+          "email_subject": "Anfrage zur Zusammenarbeit und weiteren Informationen zu Ihrem LPS Shanghai Debüt",
+          "email_body": "Sehr geehrter Herr Fikry,\n\nich habe mit großem Interesse von Ihrem Debüt auf der Luxury Property Showcase (LPS) in Shanghai gelesen und bin beeindruckt von Ihrem globalen Portfolio und der strategischen Expansion. Ich würde mich freuen, mehr über Ihre Marketing- und Investorenansprache zu erfahren und mögliche Kooperationsmöglichkeiten zu besprechen.\n\nMit freundlichen Grüßen,\n[Ihr Name]",
+          "linkedin_message": "Hallo Herr Fikry, ich habe von Ihrem Debüt auf der LPS Shanghai gelesen und würde mich gerne mit Ihnen über Ihre globalen Immobilienprojekte und mögliche Kooperationen austauschen."
+        },
+        {
+          "stakeholder_full_name": "Tarek Hakim",
+          "email_subject": "Presseanfrage bezüglich ORA Developers Debüt auf der LPS Shanghai",
+          "email_body": "Sehr geehrter Herr Hakim,\n\nich interessiere mich für weitere Informationen und Bildmaterial zu Ihrem aktuellen Auftritt auf der Luxury Property Showcase (LPS) in Shanghai. Könnten Sie mir bitte entsprechendes Material und Details zukommen lassen?\n\nVielen Dank im Voraus.\n\nMit freundlichen Grüßen,\n[Ihr Name]",
+          "linkedin_message": "Hallo Herr Hakim, ich würde gerne mehr über die Presseaktivitäten von ORA Developers auf der LPS Shanghai erfahren und mich über verfügbares Bildmaterial austauschen."
+        }
+      ]
+    },
+    {
+      "id": "art_479afe4f",
+      "title": "ORA Developers Group מכריזה על הופעת הבכורה שלה ב-LPS שנחאי, ומחזקת את טביעת הרגל הגלובלית שלה ששוויה 45 מיליארד דולר",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196130/0/he/ORA-Developers-Group-%D7%9E%D7%9B%D7%A8%D7%99%D7%96%D7%94-%D7%A2%D7%9C-%D7%94%D7%95%D7%A4%D7%A2%D7%AA-%D7%94%D7%91%D7%9B%D7%95%D7%A8%D7%94-%D7%A9%D7%9C%D7%94-%D7%91-LPS-%D7%A9%D7%A0%D7%97%D7%90%D7%99-%D7%95%D7%9E%D7%97%D7%96%D7%A7%D7%AA-%D7%90%D7%AA-%D7%98%D7%91%D7%99%D7%A2%D7%AA-%D7%94%D7%A8%D7%92%D7%9C-%D7%94%D7%92%D7%9C%D7%95%D7%91%D7%9C%D7%99%D7%AA-%D7%A9%D7%9C%D7%94-%D7%A9%D7%A9%D7%95%D7%95%D7%99%D7%94-45-%D7%9E%D7%99%D7%9C%D7%99%D7%90%D7%A8%D7%93-%D7%93%D7%95%D7%9C%D7%A8.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T10:41:31Z",
+      "summary": "ORA Developers, a global leader in visionary real estate and lifestyle destinations, announces its debut at the Luxury Property Showcase (LPS) in Shanghai, marking a key milestone in its international expansion. The company will showcase its premier coastal developments in sought-after locations including the UAE, Cyprus, and the Caribbean, highlighting a portfolio valued at over $45 billion. ORA focuses on creating resilient, high-quality communities that combine residential, retail, and hospitality elements to offer long-term investment stability and premium lifestyle experiences.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "global_investors",
+        "luxury_real_estate_buyers"
+      ],
+      "psych_tags": [
+        "investment_minded",
+        "premium_lifestyle_seekers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Tamer Fikry",
+          "title": "Chief Sales Officer",
+          "company_name": "ORA Developers UAE",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Tarek Hakim",
+          "title": "Media Contact",
+          "company_name": "Bates Pan Gulf",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "Tarek.hakim@bpggroup.co",
+          "email_status": "valid",
+          "email_confidence": 0.9
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Tamer Fikry",
+          "email_subject": "Exploring Collaboration Opportunities with ORA Developers at LPS Shanghai",
+          "email_body": "Dear Mr. Fikry,\n\nI was excited to learn about ORA Developers' debut at the Luxury Property Showcase in Shanghai and your impressive global portfolio. I would appreciate the opportunity to discuss potential collaboration or partnership opportunities that align with your strategic growth and investor engagement initiatives.\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Fikry, congratulations on ORA Developers' debut at LPS Shanghai. I would love to connect and explore potential synergies between our organizations."
+        },
+        {
+          "stakeholder_full_name": "Tarek Hakim",
+          "email_subject": "Media Inquiry Regarding ORA Developers' LPS Shanghai Debut",
+          "email_body": "Dear Mr. Hakim,\n\nI am reaching out to request additional information and media materials related to ORA Developers' participation in the Luxury Property Showcase in Shanghai. We are interested in covering your global expansion and portfolio highlights.\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Hakim, I am interested in learning more about ORA Developers' debut at LPS Shanghai and would appreciate any media resources you can share."
+        }
+      ]
+    },
+    {
+      "id": "art_eb98465b",
+      "title": "ORA 디벨로퍼스 그룹, LPS 상하이 첫 참가하며 450억 달러 규모 글로벌 포트폴리오 강화",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196130/0/ko/ORA-%EB%94%94%EB%B2%A8%EB%A1%9C%ED%8D%BC%EC%8A%A4-%EA%B7%B8%EB%A3%B9-LPS-%EC%83%81%ED%95%98%EC%9D%B4-%EC%B0%B8%EA%B0%80%ED%95%98%EB%A9%B0-450%EC%96%B5-%EB%8B%AC%EB%9F%AC-%EA%B7%9C%EB%AA%A8-%EA%B8%80%EB%A1%9C%EB%B2%8C-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EA%B0%95%ED%99%94.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T10:41:31Z",
+      "summary": "ORA Developers, a global leader in innovative real estate and lifestyle development, announced its debut at the Luxury Property Showcase (LPS) in Shanghai. This participation marks a significant milestone in their international expansion, highlighting their premium coastal development projects across UAE, Cyprus, and the Caribbean. The portfolio, valued at over $45 billion, emphasizes diverse, stable, and high-quality assets designed to meet global investor demand for luxury and secure investments.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [
+        "luxury_investors",
+        "global_investors",
+        "real_estate_investors"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Tamer Fikry",
+          "title": "Chief Sales Officer (CSO)",
+          "company_name": "ORA Developers",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Tarek Hakim",
+          "title": "",
+          "company_name": "Bates Pan Gulf",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "Tarek.hakim@bpggroup.com",
+          "email_status": "",
+          "email_confidence": 0.8
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Tamer Fikry",
+          "email_subject": "Inquiry Regarding ORA Developers' Debut at LPS Shanghai",
+          "email_body": "Dear Mr. Fikry,\n\nI recently read about ORA Developers' debut at the Luxury Property Showcase in Shanghai and your impressive $45 billion global portfolio. I am interested in learning more about your premium coastal development projects and potential collaboration opportunities.\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Fikry, I was impressed by ORA Developers' debut at LPS Shanghai and would love to connect to discuss your global real estate projects and potential synergies."
+        },
+        {
+          "stakeholder_full_name": "Tarek Hakim",
+          "email_subject": "Media Inquiry: ORA Developers' Participation at LPS Shanghai",
+          "email_body": "Dear Mr. Hakim,\n\nI am reaching out to request more information and media materials regarding ORA Developers' first participation at the Luxury Property Showcase in Shanghai. Your insights would be invaluable for our coverage.\n\nThank you in advance.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Hakim, I am interested in learning more about ORA Developers' participation at LPS Shanghai and would appreciate any media information you can share."
+        }
+      ]
+    },
+    {
+      "id": "art_aa63e8c3",
+      "title": "2026 Financial Calendar of AS Coop Pank",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196004/0/en/2026-Financial-Calendar-of-AS-Coop-Pank.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T06:00:00Z",
+      "summary": "AS Coop Pank has announced its financial calendar for 2026, detailing dates for quarterly and monthly financial results disclosures and the general meeting of shareholders. Coop Pank is a universal bank in Estonia with a strategic shareholder Coop Eesti retail chain.",
+      "categories": [],
+      "campaign_types": [],
+      "demo_tags": [],
+      "psych_tags": [],
+      "stakeholders": [
+        {
+          "full_name": "Paavo Truu",
+          "title": "CFO",
+          "company_name": "Coop Pank AS",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "paavo.truu@cooppank.ee",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Paavo Truu",
+          "email_subject": "Inquiry Regarding 2026 Financial Calendar of AS Coop Pank",
+          "email_body": "Dear Paavo Truu,\n\nI hope this message finds you well. I am reaching out to learn more about the 2026 financial calendar announced by AS Coop Pank. Could you please provide additional details or direct me to relevant resources?\n\nThank you for your time and assistance.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Paavo, I came across the announcement of AS Coop Pank's 2026 financial calendar and would appreciate any additional insights you could share. Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "art_5a7b069d",
+      "title": "Coop Pank AS 2026. aasta finantskalender",
+      "url": "https://www.globenewswire.com/news-release/2025/11/28/3196004/0/et/Coop-Pank-AS-2026-aasta-finantskalender.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-11-28T06:00:00Z",
+      "summary": "AS Coop Pank kinnitas ettevõtte 2026. majandusaasta finantskalendri. 2026. aastal plaanib Coop Pank avalikustada informatsiooni ja korraldada üldkoosoleku järgnevatel aegadel. Coop Pank on Eesti kapitalil põhinev universaalpank, mille strateegiline omanik on Coop Eesti kaubanduskett.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [],
+      "stakeholders": [
+        {
+          "full_name": "Paavo Truu",
+          "title": "Finantsjuht",
+          "company_name": "Coop Pank AS",
+          "role_type": "contact",
+          "linkedin_url": "",
+          "email": "paavo.truu@cooppank.ee",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Paavo Truu",
+          "email_subject": "Inquiry Regarding Coop Pank AS 2026 Financial Calendar Announcement",
+          "email_body": "Dear Paavo Truu,\n\nI hope this message finds you well. I am reaching out to learn more about Coop Pank AS's 2026 financial calendar announcement published on November 28, 2025. We are interested in understanding any potential marketing or communication opportunities related to this announcement.\n\nCould you please provide more details or direct me to the appropriate contact for further discussion?\n\nThank you for your time and assistance.\n\nBest regards,\n[Your Name]\n[Your Company]\n[Your Contact Information]",
+          "linkedin_message": "Hello Paavo, I came across the announcement of Coop Pank AS's 2026 financial calendar and would like to connect to discuss potential marketing or communication opportunities related to this. Looking forward to your response."
+        }
+      ]
+    },
+    {
+      "id": "art_6dd6fd44",
+      "title": "Glossy Pop Newsletter: Merit leans into humor with its ‘The Five Minute Face Off’ campaign",
+      "url": "https://www.glossy.co/beauty/merit-leans-into-humor-with-its-the-five-minute-face-off-campaign/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-11-28T05:02:00+00:00",
+      "summary": "Merit, a 5-year-old beauty brand, launched its first evergreen brand campaign titled 'The Five Minute Faceoff,' starring former SNL stars Ego Nwodim and Heidi Gardner. The campaign uses humor to address the pressures women face daily and aims to increase brand awareness and improve brand sentiment without promoting a specific product. The campaign debuted on social media platforms and has received positive engagement and high watch-through rates.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "product_launch"
+      ],
+      "demo_tags": [
+        "female",
+        "makeup_consumers",
+        "busy_women"
+      ],
+      "psych_tags": [
+        "humor",
+        "relatable",
+        "stress_aware"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Aila Morin",
+          "title": "CMO",
+          "company_name": "Merit",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Aila Morin",
+          "email_subject": "Excited about 'The Five Minute Face Off' Campaign – Potential Collaboration Opportunity",
+          "email_body": "Hi Aila,\n\nI recently came across Merit's new campaign 'The Five Minute Face Off' and was really impressed by how you leveraged humor to connect with busy women and makeup consumers. The positive engagement and unique approach truly stand out in the beauty space.\n\nI would love to discuss potential opportunities to collaborate or support your upcoming initiatives. Please let me know if you are available for a brief conversation.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Aila, I enjoyed seeing Merit's 'The Five Minute Face Off' campaign. Your use of humor to engage busy women is inspiring. Would love to connect and explore potential collaboration opportunities."
+        }
+      ]
+    },
+    {
+      "id": "art_009397ef",
+      "title": "Luxury Briefing: Sentaler goes international as luxury outerwear demand intensifies",
+      "url": "https://www.glossy.co/fashion/luxury/luxury-briefing-sentaler-goes-international-as-luxury-outerwear-demand-intensifies/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-11-28T05:00:00+00:00",
+      "summary": "Sentaler, a Canadian luxury alpaca outerwear brand, is expanding internationally with its first U.S. boutique on Madison Avenue amid strong demand for luxury outerwear. The brand reports 50% year-over-year growth in the U.S. and is extending its retail presence with seasonal boutiques and trunk shows. Sentaler's growth aligns with shifting holiday shopping behaviors favoring timeless, aspirational gifts. The brand's celebrity endorsements have been organic, and it targets loyal customers with private appointments. The Madison Avenue boutique features a new 'cherry lacquer' motif, symbolizing growth and tapping into current trends.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "luxury_consumers",
+        "female",
+        "intergenerational_shoppers",
+        "high_income"
+      ],
+      "psych_tags": [
+        "aspirational",
+        "timeless_style",
+        "value_seeking",
+        "trust_driven"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Bojana Sentaler",
+          "title": "Founder and Creative Director",
+          "company_name": "Sentaler",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Bojana Sentaler",
+          "email_subject": "Exploring Collaboration Opportunities with Sentaler's International Expansion",
+          "email_body": "Dear Bojana Sentaler,\n\nCongratulations on Sentaler's successful international expansion and the launch of your first Madison Avenue boutique. We are impressed by your brand's growth and innovative approach to luxury outerwear marketing, especially your experiential activations and the unique 'cherry lacquer' campaign.\n\nWe would love to discuss potential collaboration opportunities to support and amplify your brand's presence in the U.S. market and beyond.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Bojana, congratulations on Sentaler's exciting expansion and Madison Avenue boutique launch! I'd love to connect and explore ways we might collaborate to support your brand's growth."
+        }
+      ]
+    },
+    {
+      "id": "art_6f32f05c",
+      "title": "Molson Coors says ‘Just Bring the Beer’ in bid to millennials, Gen Z",
+      "url": "https://www.marketingdive.com/news/molson-coors-says-just-bring-the-beer-bid-to-millennials-gen-z/806524/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-11-28",
+      "summary": "Molson Coors launched the 'Just Bring the Beer' campaign targeting millennials and Gen Z, positioning beer as a simple, affordable option for holiday gatherings. The campaign highlights multiple Molson Coors brands and is piloted in select U.S. cities with billboards, retail activations, social media, and creator partnerships. It reflects younger consumers' preference for experiences over traditional gifts and runs through the end of the year.",
+      "categories": [
+        "food_and_beverage"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "promotion_or_discount"
+      ],
+      "demo_tags": [
+        "millennials",
+        "gen_z",
+        "holiday_consumers"
+      ],
+      "psych_tags": [
+        "experience_seekers",
+        "value_conscious_consumers"
+      ],
+      "stakeholders": [],
+      "outreach_templates": []
+    },
+    {
       "id": "art_3af78335",
       "title": "Bitget es coanfitrión de “SENSES”, una experiencia audiovisual en Londres que fortalece la participación de la UEX en el Reino Unido",
       "url": "https://www.globenewswire.com/news-release/2025/11/27/3195740/0/es/Bitget-es-coanfitri%C3%B3n-de-SENSES-una-experiencia-audiovisual-en-Londres-que-fortalece-la-participaci%C3%B3n-de-la-UEX-en-el-Reino-Unido.html",
