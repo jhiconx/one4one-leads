@@ -1,6 +1,1058 @@
 {
   "articles": [
     {
+      "id": "art_7950f3e4",
+      "title": "Ascentage Pharma Presents Pivotal China Registrational Study Data for Lisaftoclax in Oral Report at 2025 American Society of Hematology (ASH) Annual Meeting",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201070/0/en/Ascentage-Pharma-Presents-Pivotal-China-Registrational-Study-Data-for-Lisaftoclax-in-Oral-Report-at-2025-American-Society-of-Hematology-ASH-Annual-Meeting.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-12-06T15:15:00Z",
+      "summary": "Ascentage Pharma presented pivotal Phase II registrational study data for Lisaftoclax, an oral Bcl-2 selective inhibitor, at the 2025 ASH Annual Meeting. The study demonstrated significant and durable clinical efficacy and a manageable safety profile in heavily pretreated BTK-refractory relapsed/refractory chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) patients in China, supporting its NDA approval by China's NMPA. Lisaftoclax achieved a 62.5% objective response rate and a median progression-free survival of 23.89 months with no tumor lysis syndrome reported. The drug shows promise for high-risk patient subgroups with complex karyotypes and TP53 mutations.",
+      "categories": [
+        "health_and_wellness"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "cancer_patients",
+        "hematology_patients",
+        "chronic_lymphocytic_leukemia_patients"
+      ],
+      "psych_tags": [
+        "health_and_wellness_consumers",
+        "medically_informed",
+        "high_risk_patients"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Yifan Zhai, M.D., Ph.D.",
+          "title": "Chief Medical Officer",
+          "company_name": "Ascentage Pharma",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Professor Keshu Zhou",
+          "title": "Presenter of the study",
+          "company_name": "The Affiliated Cancer Hospital of Zhengzhou University, Henan Cancer Hospital",
+          "role_type": "medical_researcher",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Stella Yang",
+          "title": "Investor Relations",
+          "company_name": "Ascentage Pharma",
+          "role_type": "investor_relations",
+          "linkedin_url": "",
+          "email": "Stella.Yang@ascentage.com",
+          "email_status": "valid",
+          "email_confidence": 0.9
+        },
+        {
+          "full_name": "Stephanie Carrington",
+          "title": "Investor Relations",
+          "company_name": "ICR Healthcare",
+          "role_type": "investor_relations",
+          "linkedin_url": "",
+          "email": "AscentageIR@icrhealthcare.com",
+          "email_status": "valid",
+          "email_confidence": 0.9
+        },
+        {
+          "full_name": "Sean Leous",
+          "title": "Media Relations",
+          "company_name": "ICR Healthcare",
+          "role_type": "media_relations",
+          "linkedin_url": "",
+          "email": "AscentagePR@icrhealthcare.com",
+          "email_status": "valid",
+          "email_confidence": 0.9
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Yifan Zhai, M.D., Ph.D.",
+          "email_subject": "Inquiry Regarding Lisaftoclax Registrational Study and Future Collaborations",
+          "email_body": "Dear Dr. Zhai,\n\nI recently reviewed the pivotal Phase II study data for Lisaftoclax presented at the 2025 ASH Annual Meeting. The promising efficacy and safety profile in heavily pretreated CLL/SLL patients is impressive. I would appreciate the opportunity to discuss potential collaborations or further insights into your clinical programs.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hello Dr. Zhai, I was impressed by the Lisaftoclax study results you presented at ASH 2025. I would welcome a chance to connect and discuss potential collaboration opportunities."
+        },
+        {
+          "stakeholder_full_name": "Professor Keshu Zhou",
+          "email_subject": "Discussion on Lisaftoclax Study Outcomes and Clinical Implications",
+          "email_body": "Dear Professor Zhou,\n\nCongratulations on your presentation of the Lisaftoclax registrational study at ASH 2025. The data on high-risk CLL/SLL patients is particularly compelling. I would be interested in learning more about your clinical insights and potential future research directions.\n\nKind regards,\n[Your Name]\n[Your Institution]",
+          "linkedin_message": "Hello Professor Zhou, congratulations on your ASH 2025 presentation. I would appreciate the opportunity to discuss your research on Lisaftoclax and its clinical impact."
+        },
+        {
+          "stakeholder_full_name": "Stella Yang",
+          "email_subject": "Investor Relations Inquiry Regarding Lisaftoclax Developments",
+          "email_body": "Dear Ms. Yang,\n\nI am reaching out to learn more about Ascentage Pharma's recent Lisaftoclax registrational study results and upcoming milestones. Could you please provide additional investor materials or arrange a call?\n\nThank you,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hello Stella, I am interested in Ascentage Pharma's latest developments on Lisaftoclax and would like to connect regarding investor relations."
+        },
+        {
+          "stakeholder_full_name": "Stephanie Carrington",
+          "email_subject": "Request for Investor Information on Lisaftoclax Clinical Progress",
+          "email_body": "Dear Ms. Carrington,\n\nFollowing the recent ASH 2025 presentation of Lisaftoclax data, I would appreciate any investor updates or briefing materials you could share.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hello Stephanie, I would like to discuss investor information related to Ascentage Pharma's Lisaftoclax clinical progress."
+        },
+        {
+          "stakeholder_full_name": "Sean Leous",
+          "email_subject": "Media Inquiry on Lisaftoclax ASH 2025 Presentation",
+          "email_body": "Dear Mr. Leous,\n\nI am interested in covering the recent Lisaftoclax study results presented at ASH 2025. Could you provide additional media resources or arrange an interview with the team?\n\nThank you,\n[Your Name]\n[Your Media Outlet]",
+          "linkedin_message": "Hello Sean, I am covering the ASH 2025 conference and would like to discuss media resources related to Lisaftoclax."
+        }
+      ]
+    },
+    {
+      "id": "art_8521391c",
+      "title": "Cogent Biosciences Presents Full SUMMIT Results of Bezuclastinib in Patients with NonAdvanced Systemic Mastocytosis (NonAdvSM) at the 67th Annual Meeting of the American Society of Hematology (ASH)",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201063/0/en/Cogent-Biosciences-Presents-Full-SUMMIT-Results-of-Bezuclastinib-in-Patients-with-NonAdvanced-Systemic-Mastocytosis-NonAdvSM-at-the-67th-Annual-Meeting-of-the-American-Society-of-H.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-12-06T14:30:00Z",
+      "summary": "Cogent Biosciences announced complete results from the SUMMIT clinical trial of bezuclastinib in patients with nonadvanced systemic mastocytosis (NonAdvSM). The trial showed significant symptomatic improvement and reduction in disease markers, supporting bezuclastinib as a promising treatment option. The company plans to submit a New Drug Application in December 2025 and will host an investor webcast on December 8.",
+      "categories": [
+        "health_and_wellness"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "nonadvanced_systemic_mastocytosis_patients",
+        "adult_patients"
+      ],
+      "psych_tags": [
+        "health_and_wellness_consumers",
+        "patients_seeking_treatment"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Andrew Robbins",
+          "title": "President and Chief Executive Officer",
+          "company_name": "Cogent Biosciences, Inc.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Christi Waarich",
+          "title": "Senior Director, Investor Relations",
+          "company_name": "Cogent Biosciences, Inc.",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "christi.waarich@cogentbio.com",
+          "email_status": "valid",
+          "email_confidence": 0.9
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Andrew Robbins",
+          "email_subject": "Inquiry Regarding Bezuclastinib SUMMIT Trial Results and Future Plans",
+          "email_body": "Dear Mr. Robbins,\n\nI recently reviewed the full results of the SUMMIT trial for bezuclastinib presented by Cogent Biosciences. I am interested in learning more about the upcoming New Drug Application submission and potential opportunities for collaboration or support in patient outreach.\n\nLooking forward to your insights.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Robbins, I am impressed by the recent SUMMIT trial results for bezuclastinib. I would appreciate the opportunity to connect and discuss potential collaboration opportunities."
+        },
+        {
+          "stakeholder_full_name": "Christi Waarich",
+          "email_subject": "Request for More Information on Bezuclastinib SUMMIT Trial Announcement",
+          "email_body": "Dear Ms. Waarich,\n\nCongratulations on the successful presentation of the SUMMIT trial results. I would like to request additional information regarding the investor webcast and any materials available for further review.\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Christi, congratulations on the SUMMIT trial announcement. Could you please share more details about the upcoming investor webcast? Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "art_6405ee65",
+      "title": "Nurix Therapeutics Presents New Data Demonstrating Durable, Deepening Responses in Phase 1 Trial of Bexobrutideg (NX-5948) in Patients with Relapsed or Refractory Chronic Lymphocytic Leukemia (CLL) at the 67th American Society of Hematology (ASH) Annual Meeting & Exposition",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201064/0/en/Nurix-Therapeutics-Presents-New-Data-Demonstrating-Durable-Deepening-Responses-in-Phase-1-Trial-of-Bexobrutideg-NX-5948-in-Patients-with-Relapsed-or-Refractory-Chronic-Lymphocytic-.html",
+      "source": "Nurix Therapeutics, Inc.",
+      "published_at": "2025-12-06T14:30:00Z",
+      "summary": "Nurix Therapeutics announced new clinical data from its ongoing Phase 1a/1b study of bexobrutideg (NX-5948) in patients with relapsed or refractory chronic lymphocytic leukemia (CLL) and small lymphocytic lymphoma (SLL). The data demonstrate an objective response rate of 83% including two complete responses, with a median progression-free survival of 22.1 months. The 600 mg dose showed higher efficacy and a favorable safety profile, supporting its advancement as the recommended Phase 2 dose in the pivotal DAYBreak program. The company will host a webcast on December 8, 2025, to discuss the data.",
+      "categories": [
+        "health_and_wellness"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "cancer_patients",
+        "oncology_patients",
+        "adult_patients"
+      ],
+      "psych_tags": [
+        "health_and_wellness_consumers",
+        "clinical_trial_participants",
+        "early_adopters"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Paula O’Connor, M.D.",
+          "title": "Chief Medical Officer",
+          "company_name": "Nurix Therapeutics, Inc.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Arthur T. Sands, M.D., Ph.D.",
+          "title": "President and Chief Executive Officer",
+          "company_name": "Nurix Therapeutics, Inc.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Kris Fortner",
+          "title": "Investor Relations",
+          "company_name": "Nurix Therapeutics, Inc.",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "Kfortner@nurixtx.com",
+          "email_status": "",
+          "email_confidence": 0.9
+        },
+        {
+          "full_name": "Elizabeth Wolffe, Ph.D.",
+          "title": "Advisor",
+          "company_name": "Wheelhouse Life Science Advisors",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "lwolffe@wheelhouselsa.com",
+          "email_status": "",
+          "email_confidence": 0.9
+        },
+        {
+          "full_name": "Aljanae Reynolds",
+          "title": "Advisor",
+          "company_name": "Wheelhouse Life Science Advisors",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "areynolds@wheelhouselsa.com",
+          "email_status": "",
+          "email_confidence": 0.9
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Paula O’Connor, M.D.",
+          "email_subject": "Inquiry Regarding Bexobrutideg Phase 1 Data and Future Collaborations",
+          "email_body": "Dear Dr. O’Connor,\n\nI recently reviewed the promising Phase 1 data for bexobrutideg presented at ASH 2025. I am interested in learning more about Nurix Therapeutics' plans for the DAYBreak program and potential collaboration opportunities. Could we schedule a time to discuss?\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hello Dr. O’Connor, I was impressed by the recent Phase 1 data for bexobrutideg. I would appreciate the opportunity to connect and discuss potential collaboration opportunities."
+        },
+        {
+          "stakeholder_full_name": "Arthur T. Sands, M.D., Ph.D.",
+          "email_subject": "Discussion on Nurix Therapeutics' Strategic Vision and Bexobrutideg Development",
+          "email_body": "Dear Dr. Sands,\n\nCongratulations on the encouraging results for bexobrutideg. I am keen to understand Nurix Therapeutics' strategic vision for this program and explore ways we might support your efforts. Please let me know a convenient time for a conversation.\n\nSincerely,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hello Dr. Sands, congratulations on the recent data release for bexobrutideg. I would welcome the chance to discuss Nurix's strategic plans and potential partnership opportunities."
+        },
+        {
+          "stakeholder_full_name": "Kris Fortner",
+          "email_subject": "Request for Investor Relations Information on Bexobrutideg Clinical Progress",
+          "email_body": "Dear Kris Fortner,\n\nI am interested in obtaining more detailed information regarding the clinical progress and upcoming milestones for bexobrutideg. Could you please provide relevant investor materials or arrange a call?\n\nThank you,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Kris, I’m seeking more information on Nurix’s clinical progress with bexobrutideg. Would appreciate any investor materials or a chance to connect."
+        },
+        {
+          "stakeholder_full_name": "Elizabeth Wolffe, Ph.D.",
+          "email_subject": "Media and Communications Inquiry Regarding Nurix Therapeutics' Latest Data",
+          "email_body": "Dear Dr. Wolffe,\n\nI am reaching out to request media and communications materials related to Nurix Therapeutics' recent Phase 1 data presentation. Please let me know how best to proceed.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hello Dr. Wolffe, I’m interested in media materials related to Nurix’s recent clinical data. Could we connect to discuss?"
+        },
+        {
+          "stakeholder_full_name": "Aljanae Reynolds",
+          "email_subject": "Follow-up on Media Relations for Nurix Therapeutics' Clinical Trial Announcement",
+          "email_body": "Dear Aljanae Reynolds,\n\nI would like to follow up regarding media relations and press materials for Nurix Therapeutics' recent announcement on bexobrutideg. Please advise on next steps.\n\nThank you,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Aljanae, I’m following up on media relations for Nurix’s recent clinical trial announcement. Looking forward to connecting."
+        }
+      ]
+    },
+    {
+      "id": "art_89a4b266",
+      "title": "Io Therapeutics presents today at the American Society for Hematology Annual Meeting, preclinical studies demonstrating combination treatment with BCMA CAR-T cells plus the company's RXR agonist compound IRX4204 has synergistic efficacy against human multiple myeloma",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201050/0/en/Io-Therapeutics-presents-today-at-the-American-Society-for-Hematology-Annual-Meeting-preclinical-studies-demonstrating-combination-treatment-with-BCMA-CAR-T-cells-plus-the-company-.html",
+      "source": "Io Therapeutics, Inc.",
+      "published_at": "2025-12-06T13:05:00Z",
+      "summary": "Io Therapeutics announced at the American Society of Hematology studies of their RXR agonist IRX4204 in combination with BCMA CAR-T cells and lenalidomide showing synergistic efficacy against human multiple myeloma in preclinical models. The compound IRX4204 enhances CAR-T cell persistence and anti-tumor function by suppressing ferroptosis and promotes ferroptosis in myeloma cells, improving therapeutic outcomes. These findings support future clinical trials combining IRX4204 with CAR-T cells and lenalidomide for multiple myeloma treatment.",
+      "categories": [
+        "health_and_wellness"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "multiple_myeloma_patients",
+        "cancer_patients"
+      ],
+      "psych_tags": [
+        "health_and_wellness_consumers",
+        "immuno-oncology_researchers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Martin E. Sanders, M.D.",
+          "title": "Chief Executive Officer",
+          "company_name": "Io Therapeutics, Inc.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Vidyasagar Vuligonda, Ph.D.",
+          "title": "Chief Science Officer",
+          "company_name": "Io Therapeutics, Inc.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Yubin Kang, M.D.",
+          "title": "Professor of Medicine",
+          "company_name": "Duke University School of Medicine",
+          "role_type": "research_lead",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Martin E. Sanders, M.D.",
+          "email_subject": "Inquiry Regarding IRX4204 Combination Therapy Developments",
+          "email_body": "Dear Dr. Sanders,\n\nI recently read about Io Therapeutics' promising preclinical studies combining IRX4204 with BCMA CAR-T cells and lenalidomide for multiple myeloma treatment. I am interested in learning more about your upcoming clinical trial plans and potential collaboration opportunities.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Dr. Sanders, I am impressed by Io Therapeutics' recent advancements with IRX4204 in multiple myeloma. I would appreciate the opportunity to connect and discuss potential collaborations."
+        },
+        {
+          "stakeholder_full_name": "Vidyasagar Vuligonda, Ph.D.",
+          "email_subject": "Discussion on RXR Agonist IRX4204 Research and Development",
+          "email_body": "Dear Dr. Vuligonda,\n\nCongratulations on the development of IRX4204 and its synergistic effects with CAR-T therapy and lenalidomide. I would like to discuss the scientific insights and future directions of this compound.\n\nKind regards,\n[Your Name]",
+          "linkedin_message": "Hello Dr. Vuligonda, I am fascinated by your work on IRX4204 and would welcome a chance to connect and discuss your research."
+        },
+        {
+          "stakeholder_full_name": "Yubin Kang, M.D.",
+          "email_subject": "Interest in Your Research on IRX4204 and CAR-T Cell Therapy",
+          "email_body": "Dear Dr. Kang,\n\nYour recent presentations on IRX4204's role in enhancing BCMA CAR-T cell therapy for multiple myeloma are very insightful. I am keen to learn more about your research and potential collaborative opportunities.\n\nSincerely,\n[Your Name]",
+          "linkedin_message": "Hello Dr. Kang, I found your research on IRX4204 and CAR-T therapy highly impactful. I would appreciate connecting to discuss your work further."
+        }
+      ]
+    },
+    {
+      "id": "art_f635b67d",
+      "title": "Bicara Therapeutics’ Preliminary Phase 1b Expansion Cohort Data Evaluating 750mg of Ficerafusp Alfa Weekly Plus Pembrolizumab Advances Pivotal Study Dose Selection on Track for First Quarter 2026",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201043/0/en/Bicara-Therapeutics-Preliminary-Phase-1b-Expansion-Cohort-Data-Evaluating-750mg-of-Ficerafusp-Alfa-Weekly-Plus-Pembrolizumab-Advances-Pivotal-Study-Dose-Selection-on-Track-for-Firs.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-12-06T13:00:00Z",
+      "summary": "Bicara Therapeutics presented preliminary Phase 1b data evaluating 750mg weekly dose of ficerafusp alfa combined with pembrolizumab in first-line HPV-negative recurrent/metastatic head and neck squamous cell carcinoma. The data showed a 57% overall response rate and a safety profile consistent with higher doses. The company plans to declare the optimal biologic dose for the pivotal FORTIFI-HN01 Phase 2/3 study in Q1 2026.",
+      "categories": [
+        "health_and_wellness"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "hpv_negative_patients",
+        "head_and_neck_cancer_patients",
+        "oncology_patients"
+      ],
+      "psych_tags": [
+        "health_and_wellness_consumers",
+        "clinical_trial_participants",
+        "cancer_patients"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Claire Mazumdar, PhD, MBA",
+          "title": "Chief Executive Officer",
+          "company_name": "Bicara Therapeutics Inc.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Claire Mazumdar, PhD, MBA",
+          "email_subject": "Inquiry Regarding Ficerafusp Alfa Phase 1b Expansion Cohort Data and Upcoming Dose Selection",
+          "email_body": "Dear Dr. Mazumdar,\n\nI recently reviewed the announcement regarding the preliminary Phase 1b expansion cohort data for ficerafusp alfa combined with pembrolizumab in HPV-negative R/M HNSCC. Congratulations on the promising results and the upcoming pivotal study dose selection planned for Q1 2026. I would appreciate the opportunity to discuss potential collaboration or learn more about your clinical development plans.\n\nBest regards,\n[Your Name]\n[Your Company]\n[Your Contact Information]",
+          "linkedin_message": "Hello Dr. Mazumdar, I read about the promising Phase 1b data for ficerafusp alfa and your upcoming pivotal study dose selection. I would welcome the chance to connect and discuss potential collaboration opportunities."
+        }
+      ]
+    },
+    {
+      "id": "art_ea623183",
+      "title": "Moonup Technology 携手欧洲智能家居领军者 Shelly，将于 2025 年台北国际建筑建材暨产品展 (2025 Taipei Building Show) 展示完整智能建筑生态系统",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201034/0/zh-hans/Moonup-Technology-%E6%90%BA%E6%89%8B%E6%AC%A7%E6%B4%B2%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E9%A2%86%E5%86%9B%E8%80%85-Shelly-%E5%B0%86%E4%BA%8E-2025-%E5%B9%B4%E5%8F%B0%E5%8C%97%E5%9B%BD%E9%99%85%E5%BB%BA%E7%AD%91%E5%BB%BA%E6%9D%90%E6%9A%A8%E4%BA%A7%E5%93%81%E5%B1%95-2025-Taipei-Building-Show-%E5%B1%95%E7%A4%BA%E5%AE%8C%E6%95%B4%E6%99%BA%E8%83%BD%E5%BB%BA%E7%AD%91%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F.html",
+      "source": "Moonup Tech",
+      "published_at": "2025-12-06T06:18:04Z",
+      "summary": "Moonup Technology, the Taiwan partner of European smart home leader Shelly Group, will showcase a complete smart building ecosystem at the 2025 Taipei Building Show from December 11 to 14. The exhibition focuses on 'Minimal Renovation, Maximum Intelligence,' demonstrating how buildings can achieve flexible smart upgrades with minimal construction and reduced renovation costs. Shelly Group is recognized globally for its innovative, open, and high-precision smart home architecture, with over 28.8 million devices installed worldwide. Moonup Technology is advancing towards capital market listing and global expansion, aiming to combine European smart home technology with local R&D and system integration capabilities to create an international smart building brand in Taiwan.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "technology_adopters",
+        "smart_home_consumers",
+        "building_professionals"
+      ],
+      "psych_tags": [
+        "early_adopters",
+        "tech_innovators",
+        "energy_efficiency_seekers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Aaron Hsu",
+          "title": "Chief Executive Officer",
+          "company_name": "Moonup Technology Co., Ltd.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Aaron Hsu",
+          "email_subject": "Inquiry About Your Smart Building Showcase at the 2025 Taipei Building Show",
+          "email_body": "Dear Mr. Hsu,\n\nI recently read about Moonup Technology's collaboration with Shelly Group and your upcoming showcase at the 2025 Taipei Building Show. I am very interested in learning more about your smart building ecosystem and how it can benefit our projects. Could we arrange a meeting or call to discuss potential collaboration opportunities?\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hello Mr. Hsu, I am impressed by Moonup Technology's smart building solutions showcased at the 2025 Taipei Building Show. I would appreciate the opportunity to connect and explore potential collaboration."
+        }
+      ]
+    },
+    {
+      "id": "art_38c6d794",
+      "title": "Moonup Technology 與歐洲智能家居領導企業 Shelly 合作，將於 2025 年台北國際建築建材暨產品展完整呈現智能建築生態系統",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201034/0/zh-hant/Moonup-Technology-%E8%88%87%E6%AD%90%E6%B4%B2%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E9%A0%98%E5%B0%8E%E4%BC%81%E6%A5%AD-Shelly-%E5%90%88%E4%BD%9C-%E5%B0%87%E6%96%BC-2025-%E5%B9%B4%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E5%BB%BA%E7%AF%89%E5%BB%BA%E6%9D%90%E6%9A%A8%E7%94%A2%E5%93%81%E5%B1%95%E5%AE%8C%E6%95%B4%E5%91%88%E7%8F%BE%E6%99%BA%E8%83%BD%E5%BB%BA%E7%AF%89%E7%94%9F%E6%85%8B%E7%B3%BB%E7%B5%B1.html",
+      "source": "Moonup Tech",
+      "published_at": "2025-12-06T06:18:04Z",
+      "summary": "Moonup Technology, the Taiwan partner of European smart home leader Shelly Group, will participate in the 2025 Taipei International Building, Construction and Materials Exhibition from December 11 to 14. The company will showcase Shelly's complete smart building and smart home ecosystem under the theme 'Minimal Renovation, Maximum Intelligence,' demonstrating how buildings can achieve flexible smart upgrades with minimal engineering and significantly reduced renovation costs. Moonup Technology is advancing towards capital market listing and global expansion, combining European smart home technology with local R&D and system integration capabilities to create an international smart building brand in Taiwan.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "technology_adopters",
+        "smart_home_consumers",
+        "building_professionals"
+      ],
+      "psych_tags": [
+        "innovation_seekers",
+        "efficiency_driven",
+        "cost_conscious"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Aaron Hsu",
+          "title": "Chief Executive Officer",
+          "company_name": "Moonup Technology Co., Ltd.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Aaron Hsu",
+          "email_subject": "合作機會：2025 台北國際建築建材暨產品展智能建築生態系統展示",
+          "email_body": "尊敬的 Aaron Hsu 先生，\n\n您好！我們對 Moonup Technology 與 Shelly 合作，並將於 2025 年台北國際建築建材暨產品展展示智能建築生態系統的消息深感興趣。希望能進一步了解貴公司在智能建築領域的創新方案及未來合作機會。\n\n期待您的回覆。\n\n此致\n敬禮",
+          "linkedin_message": "您好 Aaron，看到 Moonup Technology 將於 2025 台北國際建築建材暨產品展展示智能建築生態系統，想了解更多貴公司的創新方案及合作機會，期待交流！"
+        }
+      ]
+    },
+    {
+      "id": "art_7c2f6fa4",
+      "title": "Moonup Technology s’associe à Shelly, le leader européen de la maison intelligente, pour présenter un écosystème complet de bâtiments intelligents au Taipei Building Show 2025",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201034/0/fr/Moonup-Technology-s-associe-%C3%A0-Shelly-le-leader-europ%C3%A9en-de-la-maison-intelligente-pour-pr%C3%A9senter-un-%C3%A9cosyst%C3%A8me-complet-de-b%C3%A2timents-intelligents-au-Taipei-Building-Show-2025.html",
+      "source": "Moonup Tech",
+      "published_at": "2025-12-06T06:18:04Z",
+      "summary": "Moonup Technology, partenaire opérationnel taïwanais du leader européen de la maison intelligente Shelly, participera au Taipei Building Show 2025 pour présenter un écosystème complet de bâtiments intelligents sous le thème « Minimal Renovation, Maximum Intelligence ». Shelly est reconnue mondialement pour ses solutions domotiques innovantes et son écosystème Shelly Cloud, avec une présence dans plus de 100 pays et plus de 28,8 millions d'appareils installés. Moonup Technology vise à intégrer les technologies européennes de maison intelligente avec les capacités locales de Taïwan pour créer une marque internationale de bâtiments intelligents.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "technology_adopters",
+        "smart_home_consumers",
+        "building_managers"
+      ],
+      "psych_tags": [
+        "innovation_seekers",
+        "efficiency_driven"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Aaron Hsu",
+          "title": "CEO",
+          "company_name": "Moonup Technology Co., Ltd.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Aaron Hsu",
+          "email_subject": "Collaboration Opportunity Following Taipei Building Show 2025",
+          "email_body": "Dear Mr. Hsu,\n\nI was impressed by Moonup Technology's presentation of the Shelly smart building ecosystem at the Taipei Building Show 2025. I would appreciate the opportunity to discuss potential collaboration opportunities to further integrate innovative smart home solutions in our projects.\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hello Mr. Hsu, I enjoyed learning about Moonup Technology's smart building solutions showcased at the Taipei Building Show 2025. I would like to connect and explore potential collaboration opportunities."
+        }
+      ]
+    },
+    {
+      "id": "art_eb3ed2be",
+      "title": "Moonup Technology geht Partnerschaft mit dem europäischen Smart-Home-Marktführer Shelly ein, um auf der Taipei Building Show 2025 ein umfassendes Smart-Building-Ökosystem zu präsentieren",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201034/0/de/Moonup-Technology-geht-Partnerschaft-mit-dem-europ%C3%A4ischen-Smart-Home-Marktf%C3%BChrer-Shelly-ein-um-auf-der-Taipei-Building-Show-2025-ein-umfassendes-Smart-Building-%C3%96kosystem-zu-pr%C3%A4sent.html",
+      "source": "Moonup Tech",
+      "published_at": "2025-12-06T06:18:04Z",
+      "summary": "Moonup Technology Co., Ltd., der taiwanesische Partner des europäischen Smart-Home-Marktführers Shelly, präsentiert auf der Taipei Building Show 2025 ein umfassendes Smart-Building-Ökosystem. Die Partnerschaft zielt darauf ab, intelligente Gebäudelösungen mit minimalem Bauaufwand und geringeren Transformationskosten zu realisieren und die Effizienz Taiwans in der Systemintegration mit den globalen Standards von Shelly zu verbinden.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "tech_enthusiasts",
+        "smart_home_consumers",
+        "building_managers"
+      ],
+      "psych_tags": [
+        "early_adopters",
+        "innovation_seekers",
+        "energy_efficiency_conscious"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Aaron Hsu",
+          "title": "CEO",
+          "company_name": "Shelly Group / Moonup Technology",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Aaron Hsu",
+          "email_subject": "Kooperation und Präsentation des Smart-Building-Ökosystems auf der Taipei Building Show 2025",
+          "email_body": "Sehr geehrter Herr Hsu,\n\nwir sind beeindruckt von der Partnerschaft zwischen Moonup Technology und Shelly sowie Ihrer Präsentation auf der Taipei Building Show 2025. Wir würden gerne mehr über Ihre innovativen Smart-Building-Lösungen erfahren und mögliche Kooperationsmöglichkeiten besprechen.\n\nMit freundlichen Grüßen,\n[Ihr Name]\n[Ihr Unternehmen]",
+          "linkedin_message": "Hallo Herr Hsu, ich verfolge mit großem Interesse die Partnerschaft zwischen Moonup Technology und Shelly. Ich würde mich freuen, mich mit Ihnen über Ihre Smart-Building-Innovationen auszutauschen."
+        }
+      ]
+    },
+    {
+      "id": "art_df7567ec",
+      "title": "Moonup Technology Bermitra dengan Pemimpin Rumah Pintar Asal Eropa, Shelly, untuk Menampilkan Ekosistem Bangunan Pintar Lengkap di Taipei Building Show 2025",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201034/0/id/Moonup-Technology-Bermitra-dengan-Pemimpin-Rumah-Pintar-Asal-Eropa-Shelly-untuk-Menampilkan-Ekosistem-Bangunan-Pintar-Lengkap-di-Taipei-Building-Show-2025.html",
+      "source": "Moonup Tech",
+      "published_at": "2025-12-06T06:18:04Z",
+      "summary": "Moonup Technology Co., Ltd., mitra operasi Shelly di Taiwan, akan menampilkan ekosistem bangunan pintar lengkap milik Shelly pada Taipei Building Show 2025. Dengan tema “Renovasi Minimal, Kecerdasan Maksimal,” pameran ini menyoroti solusi bangunan pintar yang fleksibel dan efisien biaya. Shelly Group dikenal sebagai pemimpin global dalam teknologi rumah pintar dengan lebih dari 2,5 juta pengguna dan 28,8 juta perangkat terpasang di lebih dari 100 negara. Moonup Technology juga sedang mempersiapkan diri untuk melantai di bursa efek Taipei Exchange, berkomitmen mengintegrasikan teknologi rumah pintar Eropa dengan keunggulan lokal Taiwan.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "tech_enthusiasts",
+        "smart_home_consumers",
+        "building_technology_professionals"
+      ],
+      "psych_tags": [
+        "early_adopters",
+        "innovation_seekers",
+        "energy_efficiency_conscious"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Aaron Hsu",
+          "title": "CEO",
+          "company_name": "Moonup Technology Co., Ltd.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Aaron Hsu",
+          "email_subject": "Collaboration Opportunity: Showcasing Smart Building Ecosystem at Taipei Building Show 2025",
+          "email_body": "Dear Mr. Hsu,\n\nI was excited to learn about Moonup Technology's partnership with Shelly and your upcoming showcase at the Taipei Building Show 2025. Your innovative approach to smart building solutions aligns perfectly with our interests in advancing smart home technologies. I would appreciate the opportunity to discuss potential collaboration or partnership opportunities to further promote these cutting-edge solutions.\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]\n[Your Company]\n[Your Contact Information]",
+          "linkedin_message": "Hello Mr. Hsu, I am impressed by Moonup Technology's partnership with Shelly and your participation in the Taipei Building Show 2025. I would love to connect and explore potential collaboration opportunities in smart building technologies."
+        }
+      ]
+    },
+    {
+      "id": "art_22aa6876",
+      "title": "ムーンアップ・テクノロジー、欧州のスマートホーム分野をリードするシェリーと提携し、2025年台北建築・建材見本市にてスマートビルディングの統合エコシステムを展示",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201034/0/ja/%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97-%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC-%E6%AC%A7%E5%B7%9E%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%A0%E5%88%86%E9%87%8E%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B%E3%82%B7%E3%82%A7%E3%83%AA%E3%83%BC%E3%81%A8%E6%8F%90%E6%90%BA%E3%81%97-2025%E5%B9%B4%E5%8F%B0%E5%8C%97%E5%BB%BA%E7%AF%89-%E5%BB%BA%E6%9D%90%E8%A6%8B%E6%9C%AC%E5%B8%82%E3%81%AB%E3%81%A6%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%93%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E7%B5%B1%E5%90%88%E3%82%A8%E3%82%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E5%B1%95%E7%A4%BA.html",
+      "source": "Moonup Tech",
+      "published_at": "2025-12-06T06:18:04Z",
+      "summary": "ムーンアップ・テクノロジーは欧州のスマートホーム分野をリードするシェリーと提携し、2025年台北建築・建材見本市にてスマートビルディングの統合エコシステムを展示。最小限のリノベーションで柔軟性に優れたスマートビルディングへのアップグレードを紹介し、台湾市場でのスマートビルディングの国際基準と現地実装の融合を目指す。",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "tech_enthusiasts",
+        "smart_home_consumers",
+        "building_industry_professionals"
+      ],
+      "psych_tags": [
+        "early_adopters",
+        "innovation_seekers",
+        "energy_efficiency_conscious"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "アーロン・シュウ",
+          "title": "CEO",
+          "company_name": "Moonup Technology Co., Ltd.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "アーロン・シュウ",
+          "email_subject": "2025年台北建築・建材見本市におけるスマートビルディング統合エコシステム展示について",
+          "email_body": "アーロン・シュウ様\n\nムーンアップ・テクノロジーとシェリーの提携によるスマートビルディング統合エコシステムの展示について大変興味深く拝見しました。貴社の革新的な取り組みと台湾市場での展開について、さらに詳しくお話を伺いたく存じます。今後の協業やプロモーションの可能性についてもご相談させていただければ幸いです。\n\n何卒よろしくお願いいたします。",
+          "linkedin_message": "こんにちは、アーロン・シュウ様。ムーンアップ・テクノロジーのスマートビルディング統合エコシステム展示について大変興味を持っております。ぜひ詳細をお聞かせいただければ幸いです。よろしくお願いいたします。"
+        }
+      ]
+    },
+    {
+      "id": "art_7e41a390",
+      "title": "Moonup Technology, 유럽 스마트홈 선도 기업 Shelly와 협력해 2025 타이베이 빌딩 쇼에서 스마트 빌딩 통합 생태계 전면 공개",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201034/0/ko/Moonup-Technology-%EC%9C%A0%EB%9F%BD-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%99%88-%EC%84%A0%EB%8F%84-%EA%B8%B0%EC%97%85-Shelly%EC%99%80-%ED%98%91%EB%A0%A5%ED%95%B4-2025-%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4-%EB%B9%8C%EB%94%A9-%EC%87%BC%EC%97%90%EC%84%9C-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EB%B9%8C%EB%94%A9-%ED%86%B5%ED%95%A9-%EC%83%9D%ED%83%9C%EA%B3%84-%EC%A0%84%EB%A9%B4-%EA%B3%B5%EA%B0%9C.html",
+      "source": "Moonup Tech",
+      "published_at": "2025-12-06T06:18:04Z",
+      "summary": "Moonup Technology, the Taiwan operating partner of European smart home leader Shelly Group, announced its large-scale participation in the 2025 Taipei Building Show from December 11 to 14, 2025. The company will showcase Shelly's integrated smart building and smart home ecosystem under the theme 'Minimal Renovation, Maximum Intelligence,' demonstrating smart upgrades with minimal construction and low conversion costs. Shelly Group is recognized globally for its innovative, open, and high-precision smart home architecture, with over 28.8 million devices installed worldwide and 2.5 million Shelly Cloud users. Moonup Technology is advancing its capital market entry and global expansion, combining European smart home technology with local R&D and system integration capabilities to build an international-level smart building brand in Taiwan.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "tech_enthusiasts",
+        "smart_building_professionals",
+        "facility_managers"
+      ],
+      "psych_tags": [
+        "early_adopters",
+        "innovation_seekers",
+        "efficiency_driven"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Aaron Hsu",
+          "title": "CEO",
+          "company_name": "Moonup Technology Co., Ltd",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Aaron Hsu",
+          "email_subject": "Collaboration Opportunity: Showcasing Smart Building Innovations at Taipei Building Show 2025",
+          "email_body": "Dear Mr. Hsu,\n\nI was impressed to learn about Moonup Technology's collaboration with Shelly and your upcoming showcase at the 2025 Taipei Building Show. Your approach to delivering smart building solutions with minimal renovation and maximum intelligence is truly innovative.\n\nI would love to discuss potential partnership opportunities or ways to support your product launch and experiential activation campaigns. Please let me know a convenient time for a call.\n\nBest regards,\n[Your Name]\n[Your Company]\n[Your Contact Information]",
+          "linkedin_message": "Hello Mr. Hsu, I admire Moonup Technology's innovative smart building solutions and your collaboration with Shelly. I'd appreciate the opportunity to connect and explore potential partnership opportunities around the Taipei Building Show 2025."
+        }
+      ]
+    },
+    {
+      "id": "art_e6219ac8",
+      "title": "Moonup Technology Bekerjasama dengan Peneraju Rumah Pintar Eropah, Shelly, untuk Mempersembahkan Ekosistem Bangunan Pintar Menyeluruh di Pameran Bangunan Taipei 2025",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201034/0/ms/Moonup-Technology-Bekerjasama-dengan-Peneraju-Rumah-Pintar-Eropah-Shelly-untuk-Mempersembahkan-Ekosistem-Bangunan-Pintar-Menyeluruh-di-Pameran-Bangunan-Taipei-2025.html",
+      "source": "Moonup Tech",
+      "published_at": "2025-12-06T06:18:04Z",
+      "summary": "Moonup Technology, the Taiwan partner of European smart home leader Shelly, announced its key participation in the 2025 Taipei Building Show from December 11-14. They will showcase a comprehensive smart building and smart home ecosystem under the theme \"Minimal Renovation, Maximum Intelligence,\" demonstrating flexible smart upgrades with minimal construction and lower transformation costs. Shelly is globally recognized for its innovative, open, and precise smart home architecture, with over 2.5 million users and 28.8 million devices installed worldwide. Moonup Technology is advancing towards the Taipei Exchange Go Incubation Board, aiming to integrate European smart home technology with Taiwan's local R&D and system integration capabilities to build a truly international smart building brand.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "tech_enthusiasts",
+        "smart_home_consumers",
+        "building_owners"
+      ],
+      "psych_tags": [
+        "early_adopters",
+        "innovation_seekers",
+        "energy_efficiency_conscious"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Aaron Hsu",
+          "title": "Chief Executive Officer",
+          "company_name": "Moonup Technology Co., Ltd.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Aaron Hsu",
+          "email_subject": "Inquiry Regarding Moonup Technology's Smart Building Ecosystem Launch at Taipei 2025",
+          "email_body": "Dear Mr. Hsu,\n\nI am reaching out to learn more about Moonup Technology's collaboration with Shelly and your upcoming showcase at the 2025 Taipei Building Show. We are interested in understanding how your smart building ecosystem can benefit our projects and the potential for partnership opportunities.\n\nCould we schedule a meeting or call to discuss this further?\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hello Mr. Hsu, I am impressed by Moonup Technology's innovative smart building solutions showcased at Taipei 2025. I would appreciate the opportunity to connect and discuss potential collaboration opportunities."
+        }
+      ]
+    },
+    {
+      "id": "art_c19bc7b7",
+      "title": "A Moonup Technology firma parceria com a Shelly, líder europeia em casas inteligentes, para apresentar um ecossistema completo de edifícios inteligentes na Taipei Building Show de 2025",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201034/0/pt/A-Moonup-Technology-firma-parceria-com-a-Shelly-l%C3%ADder-europeia-em-casas-inteligentes-para-apresentar-um-ecossistema-completo-de-edif%C3%ADcios-inteligentes-na-Taipei-Building-Show-de-20.html",
+      "source": "Moonup Tech",
+      "published_at": "2025-12-06T06:18:04Z",
+      "summary": "A Moonup Technology, parceira de operações em Taiwan da Shelly, líder europeia em casas inteligentes, anunciou sua participação na Taipei Building Show 2025 para apresentar o ecossistema completo de edifícios inteligentes da Shelly. O evento destacará soluções que permitem atualizações inteligentes com obras mínimas e custos reduzidos, reforçando a missão da Shelly de simplificar a vida e melhorar a eficiência energética. A Moonup Technology também avança em sua trajetória rumo ao mercado de capitais e expansão global, integrando tecnologias europeias com expertise local para criar soluções inteligentes para edifícios.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "technology_adopters",
+        "smart_home_consumers",
+        "building_managers"
+      ],
+      "psych_tags": [
+        "innovation_seekers",
+        "efficiency_driven",
+        "early_adopters"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Aaron Hsu",
+          "title": "CEO",
+          "company_name": "Moonup Technology",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Aaron Hsu",
+          "email_subject": "Parceria e Apresentação no Taipei Building Show 2025",
+          "email_body": "Prezado Sr. Aaron Hsu,\n\nGostaria de parabenizá-lo pela parceria entre a Moonup Technology e a Shelly, e pela apresentação do ecossistema completo de edifícios inteligentes na Taipei Building Show 2025. Estamos interessados em explorar oportunidades de colaboração e entender melhor as soluções inovadoras que sua empresa está trazendo para o mercado de edifícios inteligentes.\n\nPor favor, poderia nos fornecer mais informações ou agendar uma reunião para discutirmos possíveis sinergias?\n\nAtenciosamente,\n[Seu Nome]\n[Seu Cargo]\n[Seu Contato]",
+          "linkedin_message": "Olá Sr. Aaron Hsu, parabéns pela parceria com a Shelly e pela participação na Taipei Building Show 2025. Gostaria de conectar para discutir possíveis oportunidades de colaboração em soluções inteligentes para edifícios."
+        }
+      ]
+    },
+    {
+      "id": "art_ab039043",
+      "title": "Moonup Technology colabora con Shelly, líder europeo en hogares inteligentes, para presentar un ecosistema completo de edificios inteligentes en Taipei Building Show 2025",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201034/0/es/Moonup-Technology-colabora-con-Shelly-l%C3%ADder-europeo-en-hogares-inteligentes-para-presentar-un-ecosistema-completo-de-edificios-inteligentes-en-Taipei-Building-Show-2025.html",
+      "source": "Moonup Tech",
+      "published_at": "2025-12-06T06:18:04Z",
+      "summary": "Moonup Technology, socio operativo en Taiwán del líder europeo en hogares inteligentes Shelly, presenta un ecosistema completo de edificios inteligentes en la Taipei Building Show 2025. La colaboración destaca soluciones inteligentes que permiten actualizaciones flexibles y eficientes con mínima renovación y costos reducidos. Shelly es un estándar global en tecnología de hogares inteligentes con presencia en más de 100 países y más de 2.5 millones de usuarios. Moonup avanza hacia la expansión global y mercados de capitales, integrando tecnologías europeas con capacidades locales de Taiwán para crear soluciones inteligentes de edificios.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "tech_enthusiasts",
+        "smart_home_consumers",
+        "building_managers"
+      ],
+      "psych_tags": [
+        "early_adopters",
+        "innovation_seekers",
+        "energy_efficiency_conscious"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Aaron Hsu",
+          "title": "Director Ejecutivo",
+          "company_name": "Moonup Technology Co., Ltd.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Aaron Hsu",
+          "email_subject": "Colaboración y Presentación en Taipei Building Show 2025",
+          "email_body": "Estimado Sr. Hsu,\n\nMe gustaría felicitarle por la colaboración entre Moonup Technology y Shelly para presentar un ecosistema completo de edificios inteligentes en la Taipei Building Show 2025. Estamos interesados en conocer más sobre sus soluciones innovadoras y explorar posibles oportunidades de colaboración.\n\nQuedo atento a su respuesta.\n\nSaludos cordiales,",
+          "linkedin_message": "Hola Aaron, felicidades por la colaboración con Shelly y la presentación en la Taipei Building Show 2025. Me encantaría conectar para conocer más sobre sus innovadoras soluciones de edificios inteligentes."
+        }
+      ]
+    },
+    {
+      "id": "art_edf5b93c",
+      "title": "Moonup Technology จับมือผู้นำสมาร์ทโฮมยุโรป Shelly เปิดตัวโซลูชันสมาร์ทบิลดิ้งครบวงจรในงาน 2025 Taipei Building Show",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201034/0/th/Moonup-Technology-%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%99%E0%B8%B3%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B9%82%E0%B8%AE%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B9%82%E0%B8%A3%E0%B8%9B-Shelly-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%82%E0%B8%8B%E0%B8%A5%E0%B8%B9%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%9A%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B9%83%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99-2025-Taipei-Building-Show.html",
+      "source": "Moonup Tech",
+      "published_at": "2025-12-06T06:18:04Z",
+      "summary": "Moonup Technology Co., Ltd., a partner operating in Taiwan for European smart home leader Shelly Group, announced its participation in the 2025 Taipei Building Show from December 11-14. The company will showcase Shelly's comprehensive smart building and smart home solutions under the theme \"Minimal Renovation, Maximum Intelligence,\" demonstrating flexible smart building upgrades with minimal construction and cost reduction. Shelly Group is recognized globally for innovative, open, and precise smart home architecture with over 28.8 million devices installed worldwide. Moonup Technology is advancing towards a public listing on the Taipei Exchange and aims to integrate European smart home technology with Taiwan's R&D and system integration strengths to create a truly global smart building brand.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "technology_adopters",
+        "smart_home_consumers",
+        "building_managers"
+      ],
+      "psych_tags": [
+        "innovation_seekers",
+        "early_adopters",
+        "cost_conscious"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Aaron Hsu",
+          "title": "CEO",
+          "company_name": "Moonup Technology Co., Ltd.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Aaron Hsu",
+          "email_subject": "Inquiry about Moonup Technology's Smart Building Solutions at 2025 Taipei Building Show",
+          "email_body": "Dear Mr. Hsu,\n\nI recently read about Moonup Technology's collaboration with Shelly and your upcoming showcase at the 2025 Taipei Building Show. I am very interested in learning more about your smart building solutions and how they can benefit our projects. Could we arrange a meeting or call to discuss potential collaboration opportunities?\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hello Mr. Hsu, I am impressed by Moonup Technology's innovative smart building solutions showcased at the 2025 Taipei Building Show. I would appreciate the opportunity to connect and explore potential collaboration."
+        }
+      ]
+    },
+    {
+      "id": "art_76747ca0",
+      "title": "CyberloQ Technologies, Inc to Present at the Small Cap Growth Virtual Investor Conference December 9th",
+      "url": "https://www.globenewswire.com/news-release/2025/12/05/3200995/0/en/CyberloQ-Technologies-Inc-to-Present-at-the-Small-Cap-Growth-Virtual-Investor-Conference-December-9th.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-12-05T21:55:27Z",
+      "summary": "CyberloQ Technologies, Inc, a cybersecurity company, announced that Chris Jackson, Company President, will present live at the Small Cap Growth Virtual Investor Conference on December 9th. The event is an interactive online investor conference hosted by VirtualInvestorConferences.com, offering real-time engagement and one-on-one meetings. CyberloQ Secure™ is their Multi-Factor Authentication SaaS product designed to protect digital information assets from fraud.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [],
+      "stakeholders": [
+        {
+          "full_name": "Chris Jackson",
+          "title": "President",
+          "company_name": "CyberloQ Technologies, Inc",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "chris@cyberloq.com",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "John M. Viglotti",
+          "title": "SVP Corporate Services, Investor Access",
+          "company_name": "OTC Markets Group",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "johnv@otcmarkets.com",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Chris Jackson",
+          "email_subject": "Inquiry Regarding CyberloQ Technologies' Presentation at the Small Cap Growth Virtual Investor Conference",
+          "email_body": "Dear Chris Jackson,\n\nI recently learned about CyberloQ Technologies' upcoming presentation at the Small Cap Growth Virtual Investor Conference on December 9th. I am interested in learning more about your CyberloQ Secure™ MFA product and potential collaboration opportunities. Could we schedule a time to discuss further?\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Chris, I saw that CyberloQ Technologies will be presenting at the Small Cap Growth Virtual Investor Conference. I'd love to connect and learn more about your CyberloQ Secure™ MFA product."
+        },
+        {
+          "stakeholder_full_name": "John M. Viglotti",
+          "email_subject": "Questions About Virtual Investor Conferences and CyberloQ Technologies Presentation",
+          "email_body": "Dear John M. Viglotti,\n\nI am reaching out to inquire about the Virtual Investor Conferences platform and the upcoming CyberloQ Technologies presentation. Could you provide more details on how to participate and engage with the company during the event?\n\nThank you,\n[Your Name]",
+          "linkedin_message": "Hi John, I am interested in the Virtual Investor Conferences and CyberloQ Technologies' upcoming presentation. Could you share more information about the event and participation?"
+        }
+      ]
+    },
+    {
+      "id": "art_ff8ed857",
+      "title": "Kymera Therapeutics to Announce KT-621 BroADen Phase 1b Atopic Dermatitis Trial Results on December 8, 2025",
+      "url": "https://www.globenewswire.com/news-release/2025/12/05/3200970/0/en/Kymera-Therapeutics-to-Announce-KT-621-BroADen-Phase-1b-Atopic-Dermatitis-Trial-Results-on-December-8-2025.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-12-05T21:01:00Z",
+      "summary": "Kymera Therapeutics, a clinical-stage biopharmaceutical company, will announce results from the BroADen Phase 1b clinical trial evaluating KT-621, an oral STAT6 degrader, in patients with moderate to severe atopic dermatitis on December 8, 2025. The announcement includes a press release at 7:00 a.m. ET followed by a video conference call and webcast at 8:00 a.m. ET. KT-621 is a first-in-class oral degrader targeting STAT6, showing promising safety and biomarker reduction in Phase 1 studies. Ongoing Phase 2b trials in atopic dermatitis and planned trials in asthma aim to accelerate development and dose selection for Phase 3 studies.",
+      "categories": [
+        "health_and_wellness"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "atopic_dermatitis_patients",
+        "type_2_inflammation_patients"
+      ],
+      "psych_tags": [
+        "health_and_wellness_consumers",
+        "clinical_trial_participants"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Justine Koenigsberg",
+          "title": "Vice President, Investor Relations",
+          "company_name": "Kymera Therapeutics, Inc.",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "investors@kymeratx.com",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Justine Koenigsberg",
+          "email_subject": "Inquiry Regarding KT-621 BroADen Phase 1b Trial Announcement",
+          "email_body": "Dear Justine Koenigsberg,\n\nI hope this message finds you well. I am reaching out to learn more about the upcoming announcement of the KT-621 BroADen Phase 1b atopic dermatitis trial results scheduled for December 8, 2025. We are interested in understanding potential collaboration or promotional opportunities related to this important development.\n\nCould you please provide additional details or direct me to the appropriate contact for further discussion?\n\nThank you for your time and assistance.\n\nBest regards,\n[Your Name]\n[Your Company]\n[Your Contact Information]",
+          "linkedin_message": "Hello Justine, I am interested in learning more about Kymera Therapeutics' KT-621 BroADen Phase 1b trial results announcement. Would you be open to connecting to discuss potential collaboration opportunities? Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "art_d1feb653",
+      "title": "“On December 6, We Remember”: Community members honour the memory of murdered women and girls with a Shoe Memorial in New Westminster",
+      "url": "https://www.globenewswire.com/news-release/2025/12/05/3200955/0/en/On-December-6-We-Remember-Community-members-honour-the-memory-of-murdered-women-and-girls-with-a-Shoe-Memorial-in-New-Westminster.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-12-05T20:06:37Z",
+      "summary": "On December 6, BC food workers with the United Food and Commercial Workers Locals 247 and 1518 held their 21st annual Shoe Memorial at Hyack Square in New Westminster to commemorate the National Day of Remembrance and Action on Violence Against Women. The event featured a public display of hundreds of pairs of shoes symbolizing women murdered in British Columbia, with shoes later donated to shelters. Community members handed out literature and engaged the public to raise awareness about gender-based violence.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "other"
+      ],
+      "demo_tags": [
+        "bc_food_workers",
+        "community_members"
+      ],
+      "psych_tags": [
+        "social_activism",
+        "gender_violence_awareness"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Cathy Shannon",
+          "title": "Secretary-Treasurer",
+          "company_name": "UFCW Local 247",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Mike Toal",
+          "title": "Communications & Organizing Coordinator",
+          "company_name": "UFCW Local 247",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "communications@ufcw247.com",
+          "email_status": "valid",
+          "email_confidence": 0.9
+        },
+        {
+          "full_name": "Ximena Mastrodonato",
+          "title": "Engagement & Education Coordinator",
+          "company_name": "UFCW Local 247",
+          "role_type": "pr_contact",
+          "linkedin_url": "",
+          "email": "training@ufcw247.com",
+          "email_status": "valid",
+          "email_confidence": 0.9
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Cathy Shannon",
+          "email_subject": "Collaboration Opportunity: Supporting the National Day of Remembrance and Action on Violence Against Women",
+          "email_body": "Dear Cathy Shannon,\n\nI am reaching out to express our admiration for the impactful Shoe Memorial event organized by UFCW Local 247. We would love to explore potential collaboration opportunities to further support awareness and action against gender-based violence.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Cathy, I admire the work UFCW Local 247 is doing with the Shoe Memorial event. I'd love to connect and discuss potential collaboration opportunities."
+        },
+        {
+          "stakeholder_full_name": "Mike Toal",
+          "email_subject": "Media Collaboration Inquiry Regarding the Shoe Memorial Event",
+          "email_body": "Dear Mike Toal,\n\nI am interested in learning more about the upcoming Shoe Memorial event and exploring ways to support or collaborate on media outreach.\n\nPlease let me know a convenient time to discuss.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Mike, I’m interested in the Shoe Memorial event and would like to discuss possible media collaboration. Looking forward to connecting."
+        },
+        {
+          "stakeholder_full_name": "Ximena Mastrodonato",
+          "email_subject": "Engagement and Education Collaboration Opportunity",
+          "email_body": "Dear Ximena Mastrodonato,\n\nYour role in engagement and education at UFCW Local 247 is inspiring. I would like to explore opportunities to collaborate on educational initiatives related to the National Day of Remembrance and Action on Violence Against Women.\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Ximena, I admire your work in engagement and education at UFCW Local 247. I’d love to connect and discuss potential collaboration opportunities."
+        }
+      ]
+    },
+    {
       "id": "art_43d17831",
       "title": "Precipio to Showcase its BCR::ABL1 panel at 2025 ASH (American Society of Hematology) Meeting",
       "url": "https://www.globenewswire.com/news-release/2025/12/05/3200800/0/en/Precipio-to-Showcase-its-BCR-ABL1-panel-at-2025-ASH-American-Society-of-Hematology-Meeting.html",
@@ -1316,6 +2368,42 @@
           "email_subject": "Inquiry About Jeep Grand Wagoneer Campaign Collaboration",
           "email_body": "Hi Chad,\n\nI recently came across the Jeep Grand Wagoneer campaign featuring Iliza Shlesinger, which your agency Highdive developed. The creative approach balancing edgy humor with family appeal is impressive. I would love to discuss potential collaboration opportunities or learn more about your strategy behind this campaign.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
           "linkedin_message": "Hi Chad, I enjoyed the Jeep Grand Wagoneer campaign your agency created. I'd love to connect and learn more about your creative approach and discuss potential collaboration opportunities."
+        }
+      ]
+    },
+    {
+      "id": "art_f8629a4b",
+      "title": "How Netflix’s $72B Warner Bros. deal changes the streaming calculus",
+      "url": "https://www.marketingdive.com/news/how-netflix-72b-warner-bros-deal-changes-the-streaming-calculus/807139/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-05",
+      "summary": "Netflix has agreed to acquire Warner Bros. in a $72 billion cash-and-stock deal, combining streaming hits and valuable IP to create a media giant. The acquisition aims to boost Netflix's advertising business and expand its market share, potentially generating $2.3 billion in U.S. ad revenue and commanding 10% of total TV viewing. The deal awaits regulatory approval and marks a significant shift in the streaming and media landscape.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [],
+      "stakeholders": [
+        {
+          "full_name": "Greg Peters",
+          "title": "Co-CEO",
+          "company_name": "Netflix",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Greg Peters",
+          "email_subject": "Inquiry Regarding Netflix’s Warner Bros. Acquisition and Advertising Opportunities",
+          "email_body": "Dear Greg Peters,\n\nI hope this message finds you well. Congratulations on the recent announcement of Netflix's acquisition of Warner Bros. This strategic move is poised to reshape the streaming landscape significantly.\n\nWe are interested in exploring potential advertising partnerships and opportunities that may arise from this combined entity's expanded reach and ad revenue capabilities. Could we schedule a time to discuss how our brand might collaborate with Netflix's evolving advertising platform?\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]\n[Your Company]\n[Your Contact Information]",
+          "linkedin_message": "Hi Greg, congratulations on Netflix's acquisition of Warner Bros. I’d love to connect and explore potential advertising partnership opportunities with Netflix’s expanded platform. Looking forward to chatting!"
         }
       ]
     },
@@ -2665,6 +3753,51 @@
           "email_subject": "Exploring Subway's North America Marketing Initiatives",
           "email_body": "Dear David Skena,\n\nCongratulations on the launch of Subway's Sub Club loyalty program and the creative campaign supporting it. I am keen to understand how the North America marketing team is leveraging CRM and influencer channels to drive engagement.\n\nWould you be open to a conversation about your marketing initiatives and possible partnership opportunities?\n\nKind regards,\n[Your Name]",
           "linkedin_message": "Hi David, congrats on Subway’s Sub Club campaign launch! I’m interested in how you’re using CRM and influencers to boost loyalty. Let’s connect to discuss further."
+        }
+      ]
+    },
+    {
+      "id": "art_dfaeb15c",
+      "title": "Glad teams with Oscar the Grouch to revive ‘Don’t Get Mad. Get Glad.’",
+      "url": "https://www.marketingdive.com/news/glad-teams-oscar-the-grouch-to-revive-dont-get-mad-get-glad/807015/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-04",
+      "summary": "Glad, the maker of trash bags and food wraps, has revived its decades-long campaign, “Don’t Get Mad. Get Glad.,” featuring Sesame Street's Oscar the Grouch in a two-minute musical spot remixing his song “I Love Trash.” The campaign includes a social media giveaway of Grouch-inspired trash bag totes on TikTok and Instagram, and will run across multiple platforms including longform content, cutdowns, and social teasers. The effort aims to connect with younger audiences nostalgic for Sesame Street while promoting Glad products that help manage trash concerns.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "promotion_or_discount"
+      ],
+      "demo_tags": [
+        "cpg_consumers",
+        "social_media_users",
+        "gen_z"
+      ],
+      "psych_tags": [
+        "nostalgia",
+        "family_friendly",
+        "fun_and_playful"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Jessica Hammers",
+          "title": "Editor",
+          "company_name": "Marketing Dive",
+          "role_type": "editor",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Jessica Hammers",
+          "email_subject": "Inquiry about Glad's 'Don’t Get Mad. Get Glad.' Campaign Featuring Oscar the Grouch",
+          "email_body": "Dear Jessica Hammers,\n\nI recently read your article titled \"Glad teams with Oscar the Grouch to revive ‘Don’t Get Mad. Get Glad.’\" published on Marketing Dive. I am interested in learning more about the campaign's marketing strategy, especially the social media giveaway and the integration with Sesame Street's character.\n\nCould you please provide any additional insights or contacts related to the campaign's marketing team?\n\nThank you for your time and assistance.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Jessica, I enjoyed your article on Glad's campaign with Oscar the Grouch. I'd love to connect and learn more about the marketing strategy behind this revival. Thanks!"
         }
       ]
     },
