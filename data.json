@@ -1,6 +1,140 @@
 {
   "articles": [
     {
+      "id": "art_2cd35ce7",
+      "title": "ALX Oncology Announces Positive Results from Ongoing Investigator-Sponsored Phase 2 Trial Evaluating Evorpacept in Combination with Standard-of-Care Treatment in Patients with Indolent B-cell Non-Hodgkin Lymphoma, at ASH Annual Meeting",
+      "url": "https://www.globenewswire.com/news-release/2025/12/07/3201128/0/en/ALX-Oncology-Announces-Positive-Results-from-Ongoing-Investigator-Sponsored-Phase-2-Trial-Evaluating-Evorpacept-in-Combination-with-Standard-of-Care-Treatment-in-Patients-with-Indo.html",
+      "source": "ALX Oncology",
+      "published_at": "2025-12-07T13:00:00Z",
+      "summary": "ALX Oncology announced positive Phase 2 trial results for evorpacept combined with rituximab and lenalidomide in untreated indolent B-cell non-Hodgkin lymphoma patients. The combination showed a 92% complete response rate, surpassing historical 50% rates for the standard regimen. The trial was presented at the ASH Annual Meeting 2025.",
+      "categories": [
+        "health_and_wellness"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "cancer_patients",
+        "oncology_healthcare_professionals"
+      ],
+      "psych_tags": [
+        "health_and_wellness_consumers",
+        "clinical_trial_participants"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Jason Lettmann",
+          "title": "Chief Executive Officer",
+          "company_name": "ALX Oncology",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Paolo Strati, M.D.",
+          "title": "Associate Professor of Lymphoma-Myeloma",
+          "company_name": "The University of Texas MD Anderson Cancer Center",
+          "role_type": "investigator",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Elhan Webb, CFA",
+          "title": "IR Consultant",
+          "company_name": "ALX Oncology",
+          "role_type": "investor_relations",
+          "linkedin_url": "",
+          "email": "ewebb@alxoncology.com",
+          "email_status": "",
+          "email_confidence": 0.9
+        },
+        {
+          "full_name": "Audra Friis",
+          "title": "Media Contact",
+          "company_name": "Sam Brown Healthcare Communications",
+          "role_type": "media_relations",
+          "linkedin_url": "",
+          "email": "audrafriis@sambrown.com",
+          "email_status": "",
+          "email_confidence": 0.9
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Jason Lettmann",
+          "email_subject": "Inquiry Regarding ALX Oncology's Phase 2 Trial Results",
+          "email_body": "Dear Mr. Lettmann,\n\nI recently read about the positive results from ALX Oncology's Phase 2 trial evaluating evorpacept in combination with standard-of-care treatment for indolent B-cell non-Hodgkin lymphoma. I am interested in learning more about potential collaboration or partnership opportunities related to this advancement.\n\nCould we schedule a time to discuss further?\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Lettmann, I was impressed by ALX Oncology's recent Phase 2 trial results presented at ASH 2025. I would appreciate the opportunity to connect and discuss potential collaboration."
+        },
+        {
+          "stakeholder_full_name": "Paolo Strati, M.D.",
+          "email_subject": "Discussion on Investigator-Sponsored Phase 2 Trial of Evorpacept",
+          "email_body": "Dear Dr. Strati,\n\nCongratulations on the promising results of your Phase 2 investigator-sponsored trial combining evorpacept with rituximab and lenalidomide. I am interested in discussing the clinical implications and potential future research collaborations.\n\nPlease let me know if you are available for a conversation.\n\nSincerely,\n[Your Name]",
+          "linkedin_message": "Hello Dr. Strati, congratulations on your Phase 2 trial results with evorpacept. I would value the chance to connect and discuss your research."
+        },
+        {
+          "stakeholder_full_name": "Elhan Webb, CFA",
+          "email_subject": "Investor Relations Inquiry Regarding ALX Oncology",
+          "email_body": "Dear Mr. Webb,\n\nI am reaching out to inquire about investment opportunities and further information on ALX Oncology's recent clinical advancements, particularly the Phase 2 trial results announced recently.\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Mr. Webb, I am interested in learning more about ALX Oncology's recent developments and investment opportunities. Would appreciate connecting."
+        },
+        {
+          "stakeholder_full_name": "Audra Friis",
+          "email_subject": "Media Inquiry on ALX Oncology's Phase 2 Trial Announcement",
+          "email_body": "Dear Ms. Friis,\n\nI am interested in covering ALX Oncology's recent announcement regarding the Phase 2 trial results of evorpacept. Could you please provide additional information or arrange an interview with a company representative?\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Ms. Friis, I am interested in discussing ALX Oncology's recent Phase 2 trial announcement for a media feature. Looking forward to connecting."
+        }
+      ]
+    },
+    {
+      "id": "art_f3e89534",
+      "title": "2025 \"Silk Road for All Children\" International Children's Literature Week The 10th Fairy Tales Conference Held in Wuyi, China",
+      "url": "https://www.globenewswire.com/news-release/2025/12/07/3201109/0/en/2025-Silk-Road-for-All-Children-International-Children-s-Literature-Week-The-10th-Fairy-Tales-Conference-Held-in-Wuyi-China.html",
+      "source": "China Intercontinental communication center",
+      "published_at": "2025-12-07T09:09:29Z",
+      "summary": "The 2025 \"Silk Road for All Children\" International Children's Literature Week and the 10th Fairy Tales Conference was held in Wuyi, China, bringing together over 100 authors, publishers, scholars, and cultural representatives from 25 countries. The event featured keynote speeches, fairy tale theater performances, and achievements releases in children’s literature, promoting cross-border cultural exchange and international cooperation in children’s literature and IP transformation.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "children",
+        "literature_consumers",
+        "cultural_institutions"
+      ],
+      "psych_tags": [
+        "cross_cultural_exchange",
+        "education_focused",
+        "family_oriented"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Jarek",
+          "title": "",
+          "company_name": "Center for International Cultural Communication (CICG)",
+          "role_type": "contact",
+          "linkedin_url": "",
+          "email": "ppjht245@sina.com",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Jarek",
+          "email_subject": "Collaboration Opportunity: 2025 \"Silk Road for All Children\" International Children's Literature Week",
+          "email_body": "Dear Jarek,\n\nI recently came across the announcement of the 2025 \"Silk Road for All Children\" International Children's Literature Week and the 10th Fairy Tales Conference held in Wuyi, China. The event's focus on cross-border cultural exchange and children's literature is inspiring. I would love to explore potential collaboration opportunities or learn more about your upcoming initiatives in this space.\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]\n[Your Company]\n[Your Contact Information]",
+          "linkedin_message": "Hello Jarek, I was impressed by the recent 2025 \"Silk Road for All Children\" International Children's Literature Week event. I would appreciate the opportunity to connect and discuss potential collaborations in children's literature and cultural exchange."
+        }
+      ]
+    },
+    {
       "id": "art_7950f3e4",
       "title": "Ascentage Pharma Presents Pivotal China Registrational Study Data for Lisaftoclax in Oral Report at 2025 American Society of Hematology (ASH) Annual Meeting",
       "url": "https://www.globenewswire.com/news-release/2025/12/06/3201070/0/en/Ascentage-Pharma-Presents-Pivotal-China-Registrational-Study-Data-for-Lisaftoclax-in-Oral-Report-at-2025-American-Society-of-Hematology-ASH-Annual-Meeting.html",
@@ -881,6 +1015,46 @@
           "email_subject": "Inquiry about Moonup Technology's Smart Building Solutions at 2025 Taipei Building Show",
           "email_body": "Dear Mr. Hsu,\n\nI recently read about Moonup Technology's collaboration with Shelly and your upcoming showcase at the 2025 Taipei Building Show. I am very interested in learning more about your smart building solutions and how they can benefit our projects. Could we arrange a meeting or call to discuss potential collaboration opportunities?\n\nBest regards,\n[Your Name]\n[Your Company]",
           "linkedin_message": "Hello Mr. Hsu, I am impressed by Moonup Technology's innovative smart building solutions showcased at the 2025 Taipei Building Show. I would appreciate the opportunity to connect and explore potential collaboration."
+        }
+      ]
+    },
+    {
+      "id": "art_021aa0a8",
+      "title": "Moonup Technology משתפת פעולה עם Shelly, מובילת הבית החכם האירופית, כדי להציג אקוסיסטם מלא של מבנים חכמים בתערוכת הבנייה בטאיפיי 2025",
+      "url": "https://www.globenewswire.com/news-release/2025/12/06/3201034/0/he/Moonup-Technology-%D7%9E%D7%A9%D7%AA%D7%A4%D7%AA-%D7%A4%D7%A2%D7%95%D7%9C%D7%94-%D7%A2%D7%9D-Shelly-%D7%9E%D7%95%D7%91%D7%99%D7%9C%D7%AA-%D7%94%D7%91%D7%99%D7%AA-%D7%94%D7%97%D7%9B%D7%9D-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A4%D7%99%D7%AA-%D7%9B%D7%93%D7%99-%D7%9C%D7%94%D7%A6%D7%99%D7%92-%D7%90%D7%A7%D7%95%D7%A1%D7%99%D7%A1%D7%98%D7%9D-%D7%9E%D7%9C%D7%90-%D7%A9%D7%9C-%D7%9E%D7%91%D7%A0%D7%99%D7%9D-%D7%97%D7%9B%D7%9E%D7%99%D7%9D-%D7%91%D7%AA%D7%A2%D7%A8%D7%95%D7%9B%D7%AA-%D7%94%D7%91%D7%A0%D7%99%D7%99%D7%94-%D7%91%D7%98%D7%90%D7%99%D7%A4%D7%99%D7%99-2025.html",
+      "source": "GlobeNewswire RSS Feed",
+      "published_at": "2025-12-06T06:18:04Z",
+      "summary": "Moonup Technology Co., Ltd, the operational partner in Taiwan of European smart home leader Shelly Group, will participate prominently at the 2025 Taipei Building Show from December 11-14. The company will showcase Shelly's full smart building ecosystem under the theme 'Minimal Renovation, Maximum Intelligence,' demonstrating how buildings can achieve smart upgrades with high flexibility, minimal construction, and significantly lower transformation costs. Shelly is recognized globally for its innovative, open, and precise smart home architecture, with over 2.5 million Shelly Cloud users and 28.8 million devices installed worldwide. Moonup Technology is advancing towards capital markets and global expansion by integrating European smart home technologies with Taiwan's local R&D strengths and engineering capabilities to create smart building solutions that combine international standards with local application advantages.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "experiential_activation"
+      ],
+      "demo_tags": [],
+      "psych_tags": [
+        "tech_savvy_consumers",
+        "smart_home_enthusiasts",
+        "early_adopters"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Aaron Hsu",
+          "title": "CEO",
+          "company_name": "Moonup Technology Co., Ltd",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Aaron Hsu",
+          "email_subject": "Collaboration Opportunity with Moonup Technology at Taipei Building Show 2025",
+          "email_body": "Dear Mr. Hsu,\n\nI am reaching out to express interest in learning more about Moonup Technology's collaboration with Shelly and your upcoming showcase at the 2025 Taipei Building Show. We are keen to explore potential partnership opportunities and understand how your smart building ecosystem can benefit our initiatives.\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hello Mr. Hsu, I am impressed by Moonup Technology's partnership with Shelly and your participation in the Taipei Building Show 2025. I would appreciate the opportunity to connect and discuss potential collaboration."
         }
       ]
     },
