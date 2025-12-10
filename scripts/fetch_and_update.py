@@ -14,7 +14,7 @@ RSS_FEEDS = [
     "https://www.bevnet.com/category/press-release/feed",
     "https://www.nosh.com/feed",
     "https://www.prnewswire.com/rss/consumer-products-latest-news.rss",
-    "https://www.globenewswire.com/RssFeed/subjectcode/8",
+    "https://www.snackandbakery.com/rss",
     "https://www.glossy.co/feed/",
     "https://www.beautymatter.com/feed",
     "https://www.marketingdive.com/feeds/news/",
