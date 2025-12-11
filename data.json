@@ -1,6 +1,155 @@
 {
   "articles": [
     {
+      "id": "art_90c1ed2b",
+      "title": "Ulta Beauty CEO Kecia Steelman unpacks her first year in charge and 2026 goals, plus news",
+      "url": "https://www.glossy.co/podcasts/ulta-beauty-ceo-kecia-steelman-unpacks-her-first-year-in-charge-and-2026-goals-plus-news/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-11T05:04:00+00:00",
+      "summary": "Kecia Steelman, Ulta Beauty's CEO since January 2025, has driven a strong revenue comeback with initiatives including international expansion, a new online marketplace, and ending the Target shop-in-shop partnership. Under her leadership, Ulta's net sales growth has tripled within 11 months. Steelman focuses on prioritizing sales associates and expanding the brand's reach to new consumer segments such as young men and boys.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "announcement"
+      ],
+      "demo_tags": [
+        "young_men",
+        "boys",
+        "beauty_consumers",
+        "ecommerce_shoppers"
+      ],
+      "psych_tags": [
+        "authenticity_focused",
+        "inclusive",
+        "growth_minded"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Kecia Steelman",
+          "title": "President and CEO",
+          "company_name": "Ulta Beauty",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Kecia Steelman",
+          "email_subject": "Exploring Collaboration Opportunities with Ulta Beauty's 2026 Vision",
+          "email_body": "Dear Ms. Steelman,\n\nCongratulations on your successful first year as CEO of Ulta Beauty and the impressive growth you've driven. We are excited about your initiatives including international expansion and the new online marketplace. We would love to explore potential collaboration opportunities that align with your 2026 goals and support your continued success.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Kecia, congratulations on your impactful first year leading Ulta Beauty. I admire your vision for 2026 and would love to discuss potential ways we can collaborate to support your growth initiatives."
+        }
+      ]
+    },
+    {
+      "id": "art_9141511e",
+      "title": "Fashion Briefing: How fashion brands (and non-fashion brands) are jumping on the quarter-zip trend",
+      "url": "https://www.glossy.co/fashion/fashion-briefing-how-fashion-brands-and-non-fashion-brands-are-jumping-on-the-quarter-zip-trend/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-11T05:02:00+00:00",
+      "summary": "The quarter-zip trend has surged among Gen Z menswear, blending business casual style with cultural significance, especially among young Black men. Fashion brands and some non-fashion brands are launching quarter-zip products and promotions to capitalize on this rising trend.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "promotion_or_discount"
+      ],
+      "demo_tags": [
+        "gen_z_men",
+        "young_black_men",
+        "college_students",
+        "business_casual_consumers"
+      ],
+      "psych_tags": [
+        "self_definition",
+        "performative_male",
+        "style_and_comfort_seekers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Evan Marshall",
+          "title": "COO",
+          "company_name": "Black Menswear",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Kyle Moloo",
+          "title": "CMO",
+          "company_name": "Sunday Swagger",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Paul Stephen",
+          "title": "VP of Marketing for North America",
+          "company_name": "Barbour",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Evan Marshall",
+          "email_subject": "Exploring Collaboration Opportunities on the Quarter-Zip Trend",
+          "email_body": "Hi Evan,\n\nI recently read about the significant cultural and style impact the quarter-zip trend is having among Gen Z menswear, especially within communities you represent. We are interested in exploring potential collaborations or campaigns that align with this powerful story of self-definition and style.\n\nWould you be open to a conversation about how we might work together to amplify this trend and its meaning?\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Evan, I’m impressed by Black Menswear’s role in shaping the quarter-zip trend as a story of self-definition. I’d love to connect and explore potential collaboration opportunities."
+        },
+        {
+          "stakeholder_full_name": "Kyle Moloo",
+          "email_subject": "Partnering on Quarter-Zip Product Launches and Promotions",
+          "email_body": "Hi Kyle,\n\nI enjoyed learning about Sunday Swagger’s recent quarter-zip collaboration with Dole and how it fits your brand’s aesthetic. We’re interested in discussing ways to support or amplify your product launches and promotions around this rising trend.\n\nLooking forward to connecting.\n\nBest,\n[Your Name]",
+          "linkedin_message": "Hi Kyle, I’m intrigued by Sunday Swagger’s quarter-zip collaboration and would love to connect to discuss potential partnership opportunities."
+        },
+        {
+          "stakeholder_full_name": "Paul Stephen",
+          "email_subject": "Highlighting Barbour’s Unique Quarter-Zip Offerings in Trend Campaigns",
+          "email_body": "Hi Paul,\n\nI read about Barbour’s recent uptick in quarter-zip interest and your focus on unique tartan fabrics and prints. We’d be excited to explore ways to highlight Barbour’s quarter-zip products in upcoming campaigns that capitalize on this trend.\n\nPlease let me know if you’re interested in discussing further.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Paul, I’m impressed by Barbour’s approach to the quarter-zip trend and would love to connect to explore campaign opportunities."
+        }
+      ]
+    },
+    {
+      "id": "art_81841929",
+      "title": "Maker’s Mark nets first sports league sponsorship with Unrivaled",
+      "url": "https://www.marketingdive.com/news/makers-mark-nets-first-sports-league-sponsorship-with-unrivaled/807544/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-11",
+      "summary": "Maker’s Mark, a Beam Suntory brand, has become the first official spirits partner of the women’s basketball league Unrivaled, marking its first sports league sponsorship. The multi-year partnership includes broadcast-visible signage, 30-second commercials on partner media channels, and custom content on Bleacher Report. Activations will take place at key arenas during the league’s second season starting January 5, 2026, with branded experiences and specialty cocktails for ticket holders. The sponsorship aligns with the brand’s “Perfectly Unreasonable” campaign and supports the growing popularity of women’s basketball.",
+      "categories": [
+        "food_and_beverage"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "female_sports_fans",
+        "women_sports_consumers"
+      ],
+      "psych_tags": [
+        "sports_enthusiasts",
+        "brand_loyal_consumers"
+      ],
+      "stakeholders": [],
+      "outreach_templates": []
+    },
+    {
       "id": "art_604bd8fa",
       "title": "Cardenas Auctions Unveils December Offering on LiveAuctioneers, Bringing Together Warhol, Einstein, Cobain, and Ansel Adams",
       "url": "https://www.globenewswire.com/news-release/2025/12/10/3203336/0/en/Cardenas-Auctions-Unveils-December-Offering-on-LiveAuctioneers-Bringing-Together-Warhol-Einstein-Cobain-and-Ansel-Adams.html",
