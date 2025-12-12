@@ -1,6 +1,206 @@
 {
   "articles": [
     {
+      "id": "art_64a38248",
+      "title": "Glossy Pop Newsletter: As run clubs replace nightclubs, Cymbiotika rides the trend",
+      "url": "https://www.glossy.co/beauty/as-run-clubs-replace-nightclubs-cymbiotika-rides-the-trend/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-12T05:05:00+00:00",
+      "summary": "Cymbiotika launched four hero supplement products in all Target stores and online on November 14, 2025, alongside its first out-of-home Wellness Tour featuring a branded art installation and a run club in partnership with rapper Gunna. The tour supports community causes and has driven significant social engagement and brand growth, especially among younger and more diverse wellness consumers. The brand also raised $25 million in seed funding and was recognized by Target as its top wellness partner of 2025.",
+      "categories": [
+        "health_and_wellness"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation",
+        "sampling_program"
+      ],
+      "demo_tags": [
+        "female",
+        "high_income",
+        "gen_z",
+        "wellness_consumers",
+        "diverse_age_groups"
+      ],
+      "psych_tags": [
+        "health_and_wellness_consumers",
+        "community_focused",
+        "beauty_adjacent",
+        "socially_conscious"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Durana Elmi",
+          "title": "Co-founder and COO",
+          "company_name": "Cymbiotika",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Andrei Najjar",
+          "title": "CMO",
+          "company_name": "Cymbiotika",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Durana Elmi",
+          "email_subject": "Exploring Partnership Opportunities with Cymbiotika's Wellness Tour and Target Launch",
+          "email_body": "Dear Durana Elmi,\n\nI was impressed to learn about Cymbiotika's recent product launch at Target and the innovative Wellness Tour featuring the run club partnership with Gunna. Your approach to community building and engaging diverse wellness consumers is inspiring. I would love to discuss potential collaboration opportunities to support and amplify your upcoming campaigns.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Durana, I admire Cymbiotika's recent Wellness Tour and Target launch. I'd love to connect and explore ways we might collaborate to support your exciting campaigns."
+        },
+        {
+          "stakeholder_full_name": "Andrei Najjar",
+          "email_subject": "Collaboration Inquiry Regarding Cymbiotika's Wellness Tour and Sampling Programs",
+          "email_body": "Hello Andrei Najjar,\n\nCongratulations on Cymbiotika's successful launch and the impactful Wellness Tour. Your strategy to engage new audiences through experiential activations and sampling is impressive. I am interested in discussing how we can partner to enhance your outreach and sampling initiatives.\n\nBest,\n[Your Name]",
+          "linkedin_message": "Hi Andrei, congrats on Cymbiotika's Wellness Tour success. I'd like to connect and discuss potential collaboration opportunities around your sampling and experiential campaigns."
+        }
+      ]
+    },
+    {
+      "id": "art_3facff29",
+      "title": "Luxury Briefing: Why the next hero bags aren’t coming from luxury’s mega houses",
+      "url": "https://www.glossy.co/fashion/luxury/luxury-briefing-why-the-next-hero-bags-arent-coming-from-luxurys-mega-houses/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-12T05:01:00+00:00",
+      "summary": "This article explores the rise of independent luxury handbag brands like Janessa Leoné and Métier, which are reshaping the market with value-aligned, quality-driven products amid a decline in customers for mega luxury houses. It highlights Janessa Leoné's successful debut handbag collection and Métier's expansion, emphasizing craftsmanship and ethical connections with customers. The briefing also covers Charlie Smith's move to tech brand Nothing as CMO, ShopMy's new magazine spotlighting micro-creators, and key luxury industry updates.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch"
+      ],
+      "demo_tags": [
+        "luxury_consumers",
+        "value_aligned_consumers",
+        "fashion_enthusiasts"
+      ],
+      "psych_tags": [
+        "slow_fashion_supporters",
+        "quality_seekers",
+        "ethical_consumers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Janessa Leoné",
+          "title": "Founder and Designer",
+          "company_name": "Janessa Leoné",
+          "role_type": "brand_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Melissa Morris",
+          "title": "Founder",
+          "company_name": "Métier",
+          "role_type": "brand_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Charlie Smith",
+          "title": "Chief Marketing and Communications Officer",
+          "company_name": "Nothing",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Zofia Zwieglinska",
+          "title": "International Fashion Reporter",
+          "company_name": "Glossy",
+          "role_type": "pr_contact",
+          "linkedin_url": "https://www.glossy.co/author/zofia-zwieglinska/",
+          "email": "zofia@glossy.co",
+          "email_status": "",
+          "email_confidence": 0.9
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Janessa Leoné",
+          "email_subject": "Collaboration Opportunity: Highlighting Your Successful Handbag Launch",
+          "email_body": "Dear Janessa,\n\nI am reaching out to explore potential collaboration opportunities to further highlight the success of your recent handbag launch, The Leoné. Your brand's commitment to craftsmanship and slow-fashion ethos resonates strongly with discerning luxury consumers. We would love to discuss ways to amplify your story and connect with a wider audience.\n\nLooking forward to your thoughts.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Janessa, I admire your recent success with The Leoné handbag launch. I'd love to connect and explore ways to collaborate on amplifying your brand's story."
+        },
+        {
+          "stakeholder_full_name": "Melissa Morris",
+          "email_subject": "Showcasing Métier’s Craftsmanship and Expansion",
+          "email_body": "Dear Melissa,\n\nCongratulations on Métier's expansion and the growing recognition of your brand's craftsmanship. We are interested in featuring your unique approach to luxury handbags and would love to discuss potential opportunities to showcase Métier’s story to a broader audience.\n\nPlease let me know if you are open to a conversation.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Melissa, I’m impressed by Métier’s dedication to craftsmanship and recent expansion. I’d love to connect and discuss ways to highlight your brand’s story."
+        },
+        {
+          "stakeholder_full_name": "Charlie Smith",
+          "email_subject": "Exploring Marketing Synergies with Nothing’s Vision",
+          "email_body": "Dear Charlie,\n\nYour transition to Nothing and vision for the brand as a cultural publisher is inspiring. I would be interested in discussing potential marketing collaborations that align with your disruptive and creative approach to consumer tech.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Charlie, I admire your vision for Nothing as a cultural publisher. I’d love to connect and explore potential marketing collaborations."
+        },
+        {
+          "stakeholder_full_name": "Zofia Zwieglinska",
+          "email_subject": "Inquiry Regarding Luxury Handbag Market Trends",
+          "email_body": "Dear Zofia,\n\nI recently read your insightful article on the rise of independent luxury handbag brands and would appreciate the opportunity to discuss current trends and potential collaborations.\n\nThank you for your time.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Zofia, I enjoyed your article on luxury handbag market trends. I’d love to connect and discuss further."
+        }
+      ]
+    },
+    {
+      "id": "art_6442df24",
+      "title": "Glossy Podcast: What’s going on at Versace?",
+      "url": "https://www.glossy.co/podcasts/glossy-podcast-whats-going-on-at-versace/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-12",
+      "summary": "This episode of the Glossy Fashion Podcast discusses recent developments at Versace following its acquisition by Prada, including the abrupt departure of creative director Dario Vitale and the brand's challenges in maintaining its luxury status.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "other"
+      ],
+      "demo_tags": [],
+      "psych_tags": [],
+      "stakeholders": [],
+      "outreach_templates": []
+    },
+    {
+      "id": "art_a2ee81b5",
+      "title": "Will 2026 be more volatile for marketing? Here’s what the numbers say",
+      "url": "https://www.marketingdive.com/news/will-2026-be-more-volatile-for-marketing-heres-what-the-numbers-say/807701/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-12",
+      "summary": "A Forrester report predicts 2026 will be a volatile year for B2C marketing with challenges including tighter budgets, reduced headcounts, price hikes causing consumer churn, AI-driven privacy breaches, and declining confidence in marketing measurement. Marketers are advised to focus on consumer loyalty, trust, and careful AI adoption to navigate these headwinds.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "b2c_marketers",
+        "online_us_adults"
+      ],
+      "psych_tags": [
+        "price_sensitive_consumers",
+        "ai_aware_marketers",
+        "measurement_confidence_concerned"
+      ],
+      "stakeholders": [],
+      "outreach_templates": []
+    },
+    {
       "id": "art_90c1ed2b",
       "title": "Ulta Beauty CEO Kecia Steelman unpacks her first year in charge and 2026 goals, plus news",
       "url": "https://www.glossy.co/podcasts/ulta-beauty-ceo-kecia-steelman-unpacks-her-first-year-in-charge-and-2026-goals-plus-news/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -148,6 +348,115 @@
       ],
       "stakeholders": [],
       "outreach_templates": []
+    },
+    {
+      "id": "art_53bdd388",
+      "title": "Meta streamlines brands’ creator partnerships with AI-powered updates",
+      "url": "https://www.marketingdive.com/news/meta-streamlines-brands-creator-partnerships-with-ai-powered-updates/807629/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-11",
+      "summary": "Meta introduced new AI-powered tools to help brands find and convert existing organic content on Facebook and Instagram into partnership ads. The updates include expanded access to user-generated and affiliate content in the Partnership Ads Hub, a new Facebook Partnership Ads API, streamlined content permissions, and expanded creator eligibility for partnership ads. These enhancements aim to improve ad performance and accelerate campaign launches leveraging creator content.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [
+        "advertisers",
+        "creator_economy",
+        "ai_technology_adopters"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Jessica Hammers",
+          "title": "Editor",
+          "company_name": "Marketing Dive",
+          "role_type": "editor",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Jessica Hammers",
+          "email_subject": "Inquiry about Meta's AI-powered creator partnership updates",
+          "email_body": "Dear Jessica Hammers,\n\nI recently read your article titled \"Meta streamlines brands’ creator partnerships with AI-powered updates\" published on December 11, 2025. I am interested in learning more about the new AI tools Meta has introduced for brands to leverage creator content on Facebook and Instagram.\n\nCould you please provide additional insights or direct me to relevant contacts at Meta for further discussion?\n\nThank you for your time and assistance.\n\nBest regards,\n[Your Name]\n[Your Company]\n[Your Contact Information]",
+          "linkedin_message": "Hi Jessica, I came across your article on Meta's AI-powered updates for creator partnerships. I'd love to connect and learn more about these innovations. Thanks!"
+        }
+      ]
+    },
+    {
+      "id": "art_74dc5e42",
+      "title": "Dollar Shave Club’s first AI-generated ad makes tech the punchline",
+      "url": "https://www.marketingdive.com/news/dollar-shave-clubs-first-ai-generated-ad-makes-tech-the-punchline/807648/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-11",
+      "summary": "Dollar Shave Club launched its first AI-generated ad titled “We Put Our Money Where It Matters,” which humorously targets legacy razor brands by depicting a fictional rival company considering AI to cut costs. The 60-second spot was created with the creative boutique Too Short For Modeling and uses generative AI for complex visuals while maintaining an irreverent tone. This campaign follows Dollar Shave Club's largest product launch and campaign earlier in the year, continuing its mission to disrupt the razor category with humor and innovation.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [
+        "gen_z",
+        "humor_appreciators",
+        "tech_savvy_consumers"
+      ],
+      "stakeholders": [],
+      "outreach_templates": []
+    },
+    {
+      "id": "art_ff1ef339",
+      "title": "Home Depot builds bridge to influencers with creator portal",
+      "url": "https://www.marketingdive.com/news/home-depot-builds-bridge-to-influencers-with-creator-portal/807447/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-11",
+      "summary": "Home Depot has launched the Home Depot Creator Portal, a platform designed to connect with content creators and influencers in the home improvement space. The portal serves as a centralized hub for creators to find inspiration, explore campaign and affiliate marketing opportunities, and access training and resources. The retailer has enrolled thousands of creators and is promoting the portal with a roster tied to the 2026 World Cup, including designers, home-improvement experts, and athletes. This move aligns with a growing trend among retailers to engage the creator economy and leverage affiliate marketing to drive e-commerce sales.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "other"
+      ],
+      "demo_tags": [
+        "home_improvement_consumers",
+        "sports_fans",
+        "soccer_enthusiasts"
+      ],
+      "psych_tags": [
+        "influencer_followers",
+        "content_creators",
+        "affiliate_marketing_participants"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Molly Battin",
+          "title": "Senior Vice President and Chief Marketing Officer",
+          "company_name": "The Home Depot",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Molly Battin",
+          "email_subject": "Collaboration Opportunity: Enhancing The Home Depot Creator Portal",
+          "email_body": "Dear Molly Battin,\n\nI am reaching out to explore potential collaboration opportunities to further enhance The Home Depot Creator Portal. Given your leadership in marketing and the innovative approach to engaging creators and influencers, we believe there are synergies that could be mutually beneficial.\n\nWe would love to discuss how we can support your efforts in expanding the creator community and maximizing engagement around key campaigns such as the World Cup activation.\n\nLooking forward to the opportunity to connect.\n\nBest regards,\n[Your Name]\n[Your Company]\n[Your Contact Information]",
+          "linkedin_message": "Hi Molly, I admire The Home Depot's innovative Creator Portal and your leadership in marketing. I'd love to connect and explore ways we might collaborate to support your creator engagement initiatives."
+        }
+      ]
     },
     {
       "id": "art_604bd8fa",
