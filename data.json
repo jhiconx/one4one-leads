@@ -1,6 +1,484 @@
 {
   "articles": [
     {
+      "id": "art_3fe28d37",
+      "title": "Glossy 50 2025: The people who shaped fashion and beauty this year",
+      "url": "https://www.glossy.co/announcement/glossy-50-2025/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-15T10:47:00+00:00",
+      "summary": "The 2025 Glossy 50 highlights the key leaders, marketers, innovators, and disruptors who shaped the fashion and beauty industries this year, overcoming challenges such as tariffs, AI integration, and economic uncertainty to innovate and drive growth.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [],
+      "stakeholders": [],
+      "outreach_templates": []
+    },
+    {
+      "id": "art_4daef8b2",
+      "title": "Exclusive: Herbivore bets big on body care with a 15-piece collection and arrival at Ulta Beauty",
+      "url": "https://www.glossy.co/beauty/exclusive-herbivore-bets-big-on-body-care-with-a-15-piece-collection-and-arrival-at-ulta-beauty/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-15T10:45:00+00:00",
+      "summary": "Herbivore, a natural skin-care brand, is launching a new 15-piece body-care collection exclusive to Ulta Beauty, debuting December 19 for Ulta's loyalty members and launching fully online and in stores by late December 2025. The launch aims to significantly grow Herbivore's body-care segment, leveraging wellness and sensorial product attributes, with CEO Britany LeBlanc and co-founder Alex Kummerow highlighting the strategic partnership with Ulta and the brand's growth ambitions.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "product_launch"
+      ],
+      "demo_tags": [
+        "wellness_consumers",
+        "loyalty_members",
+        "prestige_beauty_consumers"
+      ],
+      "psych_tags": [
+        "plant_forward",
+        "sensory_experience",
+        "wellness_focused",
+        "natural_ingredients"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Britany LeBlanc",
+          "title": "CEO",
+          "company_name": "Herbivore",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Alex Kummerow",
+          "title": "Co-founder",
+          "company_name": "Herbivore",
+          "role_type": "founder",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Britany LeBlanc",
+          "email_subject": "Excited About Herbivore's New Body Care Launch at Ulta Beauty",
+          "email_body": "Hi Britany,\n\nI recently read about Herbivore's exciting 15-piece body-care collection launching exclusively at Ulta Beauty. The focus on wellness and plant-forward formulations really resonates with our audience. I'd love to discuss potential collaboration opportunities or ways to support your launch campaign.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Britany, congrats on Herbivore's new body-care launch at Ulta Beauty! I'd love to connect and explore ways to support your exciting expansion."
+        },
+        {
+          "stakeholder_full_name": "Alex Kummerow",
+          "email_subject": "Herbivore's Growth Ambitions and Ulta Partnership",
+          "email_body": "Hi Alex,\n\nCongratulations on Herbivore's strategic partnership with Ulta Beauty and the upcoming body-care collection launch. Your vision to bring more color and fun to the body-care aisle is inspiring. I'd be interested in discussing how we might collaborate to amplify this launch.\n\nBest,\n[Your Name]",
+          "linkedin_message": "Hi Alex, congrats on Herbivore's partnership with Ulta and the new body-care launch. I'd love to connect and discuss potential collaboration opportunities."
+        }
+      ]
+    },
+    {
+      "id": "art_be58ee8e",
+      "title": "Inside Kendra Scott’s feel-good holiday strategy",
+      "url": "https://www.glossy.co/fashion/inside-kendra-scotts-feel-good-holiday-strategy/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-15T05:02:00+00:00",
+      "summary": "Kendra Scott’s 2025 holiday campaign, “You Make The Season,” uses emotional storytelling, experiential activations, and new category expansions to deepen loyalty and drive growth. The campaign includes a contest, pop-up activations, in-store collaborations, and personalized in-store experiences, targeting multigenerational customers and leveraging both digital and physical touchpoints.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation",
+        "sampling_program"
+      ],
+      "demo_tags": [
+        "female",
+        "multigenerational_shoppers",
+        "gen_z",
+        "holiday_shoppers"
+      ],
+      "psych_tags": [
+        "nostalgia",
+        "emotional_connection",
+        "personalization",
+        "loyalty_drivers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Kendra Scott",
+          "title": "Founder & CEO",
+          "company_name": "Kendra Scott",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Kendra Scott",
+          "email_subject": "Exploring Partnership Opportunities with Kendra Scott’s Holiday Campaign",
+          "email_body": "Dear Kendra Scott Team,\n\nI was impressed by your 2025 holiday campaign, “You Make The Season,” and the innovative ways you are connecting with multigenerational customers through emotional storytelling and experiential activations. I would love to discuss potential partnership opportunities that could complement your campaign and further engage your audience.\n\nLooking forward to the possibility of collaborating.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Kendra Scott Team, I admire your recent holiday campaign and would love to connect to explore potential partnership opportunities that align with your brand’s vision. Looking forward to connecting!"
+        }
+      ]
+    },
+    {
+      "id": "art_59e6f920",
+      "title": "Glossy+ Research: QVC, HanesBrands and Katia Designs share their TikTok Shop strategies",
+      "url": "https://www.glossy.co/research/glossy-research-qvc-hanesbrands-and-katia-designs-share-their-tiktok-shop-strategies/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-15T05:00:00+00:00",
+      "summary": "Glossy+ hosted a focus group with leaders from QVC, HanesBrands, and Katia Designs to discuss their successful TikTok Shop strategies. QVC leverages 24/7 live social selling, HanesBrands is strategically targeting creators for their intimates and shapewear categories, and Katia Designs engages directly with customers through live content and influencer collaborations. The discussion highlights TikTok Shop's rapid growth and its importance in reaching new generations of shoppers.",
+      "categories": [
+        "beauty_and_personal_care",
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "other"
+      ],
+      "demo_tags": [
+        "female",
+        "gen_x_and_boomers",
+        "young_shoppers",
+        "social_shoppers"
+      ],
+      "psych_tags": [
+        "live_shopping_enthusiasts",
+        "influencer_followers",
+        "repeat_customers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Rosalia Bucaro Polizzi",
+          "title": "Chief Merchandising Officer",
+          "company_name": "QVC",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Katie Tripodi",
+          "title": "Director of U.S. Digital Merchandising and E-commerce Expansion",
+          "company_name": "HanesBrands",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Katia Rudnick",
+          "title": "Founder and CEO",
+          "company_name": "Katia Designs",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Rosalia Bucaro Polizzi",
+          "email_subject": "Exploring TikTok Shop Collaboration Opportunities with QVC",
+          "email_body": "Dear Rosalia,\n\nI recently read about QVC's innovative approach to TikTok Shop and your success with 24/7 live social selling. I would love to discuss potential collaboration opportunities and learn more about your strategies to engage new generations of shoppers.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Rosalia, I was impressed by QVC's TikTok Shop strategies shared in Glossy+. I'd love to connect and explore potential collaboration opportunities."
+        },
+        {
+          "stakeholder_full_name": "Katie Tripodi",
+          "email_subject": "Discussing Digital Merchandising Strategies on TikTok Shop",
+          "email_body": "Hi Katie,\n\nYour work at HanesBrands in expanding digital merchandising on TikTok Shop caught my attention. I am interested in learning more about your approach to creator partnerships and category targeting to drive growth.\n\nWould you be open to a conversation?\n\nBest,\n[Your Name]",
+          "linkedin_message": "Hi Katie, I enjoyed reading about HanesBrands' TikTok Shop expansion. I'd appreciate the chance to connect and discuss your digital merchandising strategies."
+        },
+        {
+          "stakeholder_full_name": "Katia Rudnick",
+          "email_subject": "Connecting on TikTok Shop Live Content and Customer Engagement",
+          "email_body": "Dear Katia,\n\nI was inspired by your hands-on approach to TikTok Shop and how you engage directly with your customers through live content. I would love to hear more about your experiences and explore ways we might collaborate.\n\nBest wishes,\n[Your Name]",
+          "linkedin_message": "Hi Katia, I admire your direct engagement with customers on TikTok Shop. I'd love to connect and learn more about your live content strategies."
+        }
+      ]
+    },
+    {
+      "id": "art_c4ab0978",
+      "title": "How AARP built a media network to link brands with consumers over 50",
+      "url": "https://www.marketingdive.com/news/how-aarp-built-a-media-network-to-link-brands-with-consumers-over-50/806836/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-15",
+      "summary": "AARP leverages its media network and nearly 38 million members to connect marketers with consumers aged 50 and older, a demographic with significant spending power and online presence. Vice President of Marketing Danielle McMurray discusses how AARP uses first-party data, AI, and multi-platform targeting to serve both its members and advertisers effectively.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "other"
+      ],
+      "demo_tags": [
+        "over_50_consumers",
+        "active_seniors",
+        "online_50_plus",
+        "affluent_older_adults"
+      ],
+      "psych_tags": [
+        "trusting_consumers",
+        "health_and_wellness_consumers",
+        "value_seeking",
+        "technology_adopters"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Danielle McMurray",
+          "title": "Vice President of Marketing",
+          "company_name": "AARP Media Advertising Network",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Danielle McMurray",
+          "email_subject": "Exploring Partnership Opportunities with AARP's Media Network",
+          "email_body": "Dear Danielle McMurray,\n\nI recently read about how AARP has built a powerful media network to connect brands with consumers over 50. Your approach to leveraging first-party data and AI to target this valuable demographic is impressive. I would love to discuss potential partnership opportunities that could benefit both our organizations and help us reach active seniors effectively.\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Danielle, I was impressed by AARP's media network and its focus on the 50+ demographic. I'd love to connect and explore potential collaboration opportunities."
+        }
+      ]
+    },
+    {
+      "id": "art_e95b5c3c",
+      "title": "How Zola found its own Taylor and Travis for ‘Wedding of the Year’ push",
+      "url": "https://www.marketingdive.com/news/how-zola-found-their-own-taylor-and-travis-for-wedding-of-the-year-push/807672/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-15",
+      "summary": "Zola launched a multichannel campaign called 'The Wedding of the Year' featuring real couple Taylor Hayes and Travis Wickboldt, focusing on authentic love stories rather than celebrity weddings. The campaign includes extensive out-of-home advertising in New York, a hero film debuting on Netflix, and social media efforts. Zola is also paying for the couple's wedding and plans to expand the campaign to invite more everyday couples to feel celebrated.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "couples",
+        "midwestern_consumers",
+        "wedding_planners"
+      ],
+      "psych_tags": [
+        "authenticity_seekers",
+        "celebrity_averse",
+        "emotional_connection"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Briana Severson",
+          "title": "CMO",
+          "company_name": "Zola",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Briana Severson",
+          "email_subject": "Inquiry about Zola's 'Wedding of the Year' Campaign",
+          "email_body": "Dear Briana Severson,\n\nI recently came across the exciting launch of Zola's 'Wedding of the Year' campaign featuring Taylor Hayes and Travis Wickboldt. I am impressed by the authentic approach focusing on real couples and would love to learn more about the campaign's strategy and future plans.\n\nCould we schedule a time to discuss potential collaboration opportunities or insights you might share about this campaign?\n\nBest regards,\n[Your Name]\n[Your Company]\n[Your Contact Information]",
+          "linkedin_message": "Hi Briana, I was inspired by Zola's 'Wedding of the Year' campaign and would love to connect to learn more about your approach and discuss potential collaboration opportunities."
+        }
+      ]
+    },
+    {
+      "id": "art_dbd396ed",
+      "title": "Is your brand overlooking the value of convenience retail media?",
+      "url": "https://www.marketingdive.com/spons/is-your-brand-overlooking-the-value-of-convenience-retail-media/807765/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-15",
+      "summary": "The article highlights the growing importance of convenience retail media as a powerful marketing channel. It explains how convenience stores have evolved into community hubs and how retail media networks like GSTV and Casey’s Access enable brands to reach engaged, purchase-ready consumers at the point of sale. The piece emphasizes the measurable impact of convenience retail media on driving impulse purchases, brand trial, and sales lift, especially among younger demographics such as Gen Z.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "other"
+      ],
+      "demo_tags": [
+        "gen_z",
+        "impulse_buyers",
+        "convenience_shoppers"
+      ],
+      "psych_tags": [
+        "performance_marketing",
+        "data_driven_marketing",
+        "community_focused"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Justin Coaldrake",
+          "title": "Senior Director of Omnichannel Guest Experience and Media",
+          "company_name": "Casey’s",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Dan Trotzer",
+          "title": "Executive Vice President of Industry",
+          "company_name": "GSTV",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Justin Coaldrake",
+          "email_subject": "Exploring Partnership Opportunities in Convenience Retail Media",
+          "email_body": "Dear Justin,\n\nI recently read about Casey’s innovative approach to convenience retail media and the impressive results you’ve achieved through Casey’s Access and Rewards programs. I’m interested in discussing how our brand can collaborate with Casey’s to leverage these data-driven campaigns and connect with your engaged community of shoppers.\n\nLooking forward to the opportunity to explore potential partnership opportunities.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Justin, I’m impressed by Casey’s leadership in convenience retail media and would love to connect to discuss potential collaboration opportunities."
+        },
+        {
+          "stakeholder_full_name": "Dan Trotzer",
+          "email_subject": "Partnering to Drive Impact with GSTV’s Convenience Retail Media",
+          "email_body": "Dear Dan,\n\nI was intrigued by GSTV’s scale and ability to influence impulse purchases at the pump, especially among younger demographics like Gen Z. I believe our brand could benefit greatly from your retail media platform and would appreciate the chance to discuss how we might work together to drive measurable results.\n\nThank you for considering this opportunity.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Dan, I’m interested in learning more about GSTV’s convenience retail media platform and exploring ways our brand can collaborate to drive sales and engagement."
+        }
+      ]
+    },
+    {
+      "id": "art_20bebffb",
+      "title": "4 tactics for marketers to help drive measurable lift during peak shopping season",
+      "url": "https://www.marketingdive.com/spons/4-tactics-for-marketers-to-help-drive-measurable-lift-during-peak-shopping/807506/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-15",
+      "summary": "This article highlights a successful seasonal marketing campaign by Tinuiti for illy coffee, demonstrating how strategic full-funnel planning and Amazon Ads solutions drove significant revenue growth and brand lift during peak shopping seasons. It shares four key tactics for marketers to optimize campaigns for measurable lift during critical retail periods.",
+      "categories": [
+        "food_and_beverage"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "promotion_or_discount"
+      ],
+      "demo_tags": [
+        "coffee_consumers",
+        "holiday_shoppers",
+        "digital_media_users"
+      ],
+      "psych_tags": [
+        "value_seekers",
+        "brand_consideration_drivers",
+        "new_to_brand_shoppers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Jordan Lampi",
+          "title": "Commerce Strategist",
+          "company_name": "Tinuiti",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Karie Casper",
+          "title": "Commerce Senior Strategist",
+          "company_name": "Tinuiti",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Joe O’Connor",
+          "title": "Senior Innovation and Growth Director",
+          "company_name": "Tinuiti",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Jordan Lampi",
+          "email_subject": "Exploring Strategic Full-Funnel Marketing Tactics for Peak Season Success",
+          "email_body": "Hi Jordan,\n\nI recently came across the article highlighting Tinuiti's award-winning seasonal strategy for illy coffee. Your insights on maintaining an always-on media intelligence engine and architecting the full-funnel customer experience are impressive. I would love to discuss how similar strategies could be adapted for our upcoming campaigns to drive measurable lift during peak shopping seasons.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Jordan, I was impressed by your work on Tinuiti's seasonal strategy for illy coffee. I'd appreciate the opportunity to connect and discuss full-funnel marketing tactics for peak season success."
+        },
+        {
+          "stakeholder_full_name": "Karie Casper",
+          "email_subject": "Data-Driven Benchmarks for Seasonal Campaign Success",
+          "email_body": "Hello Karie,\n\nYour approach to establishing data benchmarks for seasonal campaigns, as featured in the recent Marketing Dive article, resonated with me. I am interested in learning more about how you set realistic KPIs and contextualize post-event performance to optimize campaign outcomes.\n\nWould you be open to a conversation?\n\nBest,\n[Your Name]",
+          "linkedin_message": "Hi Karie, I found your insights on data benchmarks for seasonal campaigns very valuable. I'd like to connect and explore how to apply these learnings to upcoming marketing initiatives."
+        },
+        {
+          "stakeholder_full_name": "Joe O’Connor",
+          "email_subject": "Driving Cross-Functional Alignment for Peak Season Campaigns",
+          "email_body": "Dear Joe,\n\nI read with interest your emphasis on cross-functional strategic alignment in Tinuiti's seasonal strategy. Ensuring transparent communication across teams is critical, and I would like to discuss best practices for operational handoffs to ensure flawless campaign execution.\n\nPlease let me know if you're available for a brief discussion.\n\nRegards,\n[Your Name]",
+          "linkedin_message": "Hi Joe, I appreciated your thoughts on cross-functional alignment for seasonal campaigns. I'd welcome the chance to connect and discuss effective collaboration strategies."
+        }
+      ]
+    },
+    {
+      "id": "art_38339216",
+      "title": "The Black Friday trends that will shape retail strategy in 2026",
+      "url": "https://www.marketingdive.com/spons/the-black-friday-trends-that-will-shape-retail-strategy-in-2026/807503/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-15",
+      "summary": "The Black Friday and Cyber Monday shopping season has evolved into a longer, multi-event promotional period. Retailers in 2025 started promotions earlier, leveraged loyalty programs extensively, and used structured promotional mechanics to drive sales and engagement. Discounts increased moderately with regional variations, and loyalty strategies became central to promotional success. These trends indicate that holiday marketing in 2026 will require orchestrating a cohesive, data-driven, loyalty-focused value journey from October through December.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "promotion_or_discount"
+      ],
+      "demo_tags": [
+        "loyalty_program_members",
+        "holiday_shoppers",
+        "value_seeking_consumers"
+      ],
+      "psych_tags": [
+        "early_adopters",
+        "loyalty_driven",
+        "value_conscious"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "The Talon.One team",
+          "title": "",
+          "company_name": "Talon.One",
+          "role_type": "marketing_contact",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "The Talon.One team",
+          "email_subject": "Exploring 2026 Retail Strategy Insights from Talon.One",
+          "email_body": "Dear Talon.One team,\n\nI recently read your insightful article on the Black Friday trends shaping retail strategy in 2026 published on Marketing Dive. Your data-driven analysis on the evolving promotional calendar, loyalty program impact, and structured promotional mechanics is highly relevant to our upcoming campaigns.\n\nI would appreciate the opportunity to discuss how your incentives marketing solutions can support our brand's holiday strategy and customer engagement initiatives.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]\n[Your Company]\n[Your Contact Information]",
+          "linkedin_message": "Hi Talon.One team, I enjoyed your recent article on Black Friday trends shaping 2026 retail strategy. I'd love to connect and explore how your incentives marketing solutions might support our holiday campaigns."
+        }
+      ]
+    },
+    {
       "id": "art_64a38248",
       "title": "Glossy Pop Newsletter: As run clubs replace nightclubs, Cymbiotika rides the trend",
       "url": "https://www.glossy.co/beauty/as-run-clubs-replace-nightclubs-cymbiotika-rides-the-trend/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
