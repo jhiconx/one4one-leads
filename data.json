@@ -1,6 +1,228 @@
 {
   "articles": [
     {
+      "id": "art_a5e2f7d4",
+      "title": "Natural results, body filler and AI are the plastic surgery trends to watch for in 2026",
+      "url": "https://www.glossy.co/beauty/beauty-briefing-natural-results-body-filler-and-ai-are-the-plastic-surgery-trends-to-watch-for-in-2026/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-16T05:02:00+00:00",
+      "summary": "The article discusses emerging plastic surgery trends for 2026, highlighting a shift towards natural, minimally invasive procedures and the growing use of AI tools for patient education and surgical planning. It also covers new injectable products entering the U.S. market and executive moves in the beauty retail sector.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "announcement",
+        "other"
+      ],
+      "demo_tags": [
+        "plastic_surgery_consumers",
+        "beauty_consumers",
+        "health_and_wellness_consumers"
+      ],
+      "psych_tags": [
+        "natural_look_seekers",
+        "tech_savvy_consumers",
+        "cost_sensitive_consumers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Mia Young",
+          "title": "SVP of Cosmetics",
+          "company_name": "Ulta Beauty",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Dr. Felipe Jimenez",
+          "title": "SVP of Scientific Innovation",
+          "company_name": "Curology",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Mia Young",
+          "email_subject": "Exploring Collaboration Opportunities with Ulta Beauty in 2026",
+          "email_body": "Dear Mia Young,\n\nI hope this message finds you well. I am reaching out to discuss potential collaboration opportunities with Ulta Beauty as you lead the cosmetics division into 2026. Given the evolving trends in beauty and wellness, including the rise of natural and minimally invasive aesthetics, we believe there are exciting synergies to explore.\n\nLooking forward to the possibility of working together.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Mia, I admire your leadership at Ulta Beauty and would love to connect to explore potential collaboration opportunities in the evolving beauty landscape for 2026."
+        },
+        {
+          "stakeholder_full_name": "Dr. Felipe Jimenez",
+          "email_subject": "Innovative Scientific Partnerships with Curology in 2026",
+          "email_body": "Dear Dr. Jimenez,\n\nCongratulations on your role as SVP of Scientific Innovation at Curology. With the rapid advancements in beauty science and technology, including AI-driven tools and new product innovations, I would like to discuss how we might collaborate to drive scientific and commercial success in 2026.\n\nPlease let me know a convenient time to connect.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hello Dr. Jimenez, congratulations on your new role at Curology. I would appreciate the opportunity to connect and discuss potential scientific collaborations in the beauty space for 2026."
+        }
+      ]
+    },
+    {
+      "id": "art_c04fb4fb",
+      "title": "After selling 1 million made-in-America hoodies, American Giant is relaunching its best-selling product",
+      "url": "https://www.glossy.co/fashion/after-selling-1-million-made-in-america-hoodies-american-giant-is-relaunching-its-best-selling-product/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-16T05:00:00Z",
+      "summary": "American Giant is relaunching its popular Classic Full Zip Hoodie with new materials, a new design, and a slightly higher price point of $168. The hoodie, made entirely in the U.S., has sold over 1 million units and is central to the brand's growth. The relaunch leverages a newly centralized domestic supply chain in Los Angeles and focuses on quality craftsmanship. Marketing efforts prioritize media appearances and podcast advertising over traditional digital marketing.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch"
+      ],
+      "demo_tags": [
+        "made_in_america_consumers",
+        "apparel_buyers",
+        "quality_focused_consumers"
+      ],
+      "psych_tags": [
+        "patriotic",
+        "quality_seeker",
+        "sustainability_conscious"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Bayard Winthrop",
+          "title": "Founder",
+          "company_name": "American Giant",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Bayard Winthrop",
+          "email_subject": "Excited About the Relaunch of American Giant's Classic Full Zip Hoodie",
+          "email_body": "Dear Bayard Winthrop,\n\nCongratulations on the successful relaunch of the Classic Full Zip Hoodie. We admire American Giant's commitment to quality and made-in-America manufacturing. We would love to explore potential collaboration opportunities or discuss how we can support your marketing and media outreach efforts.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Bayard, congrats on the relaunch of the Classic Full Zip Hoodie. I admire American Giant's dedication to quality and U.S. manufacturing. Would love to connect and explore potential collaboration opportunities."
+        }
+      ]
+    },
+    {
+      "id": "art_7e173f3d",
+      "title": "Nielsen’s data-backed panel currency is ‘unstable, unpredictable’: VAB",
+      "url": "https://www.marketingdive.com/news/nielsens-data-backed-panel-currency-is-unstable-unpredictable-vab/807954/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-16",
+      "summary": "The Video Advertising Bureau (VAB) alleges significant discrepancies in Nielsen’s Big Data + Panel audience measurement, calling it unstable and unpredictable, especially for key demographics and NFL game audiences. Nielsen denies these claims, stating the report is flawed and that VAB made incorrect assumptions. The VAB report highlights issues with Nielsen’s Household Demographic Assessment Model (HDAM) and its impact on demographic accuracy.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "advertisers",
+        "tv_advertisers",
+        "media_buyers"
+      ],
+      "psych_tags": [
+        "data_driven_marketers",
+        "media_measurement_skeptics"
+      ],
+      "stakeholders": [],
+      "outreach_templates": []
+    },
+    {
+      "id": "art_0f982e94",
+      "title": "Hi-Chew’s lifestyle marketing strategy helps it savor US growth",
+      "url": "https://www.marketingdive.com/news/hi-chews-lifestyle-marketing-strategy-helps-it-savor-us-growth/807924/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-16",
+      "summary": "Since entering the U.S. market in 2008, Hi-Chew has built a loyal Gen Z fan base by positioning itself as a lifestyle brand through partnerships in fashion and gaming, as well as in-person activations. The brand's efforts have driven strong U.S. sales growth, surpassing $100 million in 2021, and it continues to engage younger consumers with authentic, organic marketing strategies including collaborations with Fortnite and Lonely Ghost apparel. Hi-Chew also leverages direct-to-consumer e-commerce and experiential pop-ups to deepen consumer connections and plans to target Gen Alpha in the future.",
+      "categories": [
+        "food_and_beverage"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "sampling_program",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "gen_z",
+        "gen_alpha",
+        "millennials",
+        "families_with_teens",
+        "gamers"
+      ],
+      "psych_tags": [
+        "lifestyle_consumers",
+        "fashion_enthusiasts",
+        "gaming_community",
+        "brand_loyalty"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Joanne Hsu",
+          "title": "Senior Brand Marketing Manager",
+          "company_name": "Morinaga America",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Joanne Hsu",
+          "email_subject": "Exploring Partnership Opportunities with Hi-Chew's Lifestyle Marketing Success",
+          "email_body": "Dear Joanne Hsu,\n\nI recently read about Hi-Chew's impressive lifestyle marketing strategy and its success in building a loyal Gen Z fan base through innovative partnerships and experiential activations. Your approach to authentic engagement, especially with gaming and fashion communities, is inspiring.\n\nI would love to discuss potential collaboration opportunities or learn more about your upcoming initiatives targeting Gen Alpha and other demographics.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]\n[Your Company]\n[Your Contact Information]",
+          "linkedin_message": "Hi Joanne, I was impressed by Hi-Chew's lifestyle marketing strategy and its success with Gen Z and gaming communities. I'd love to connect and explore potential collaboration opportunities."
+        }
+      ]
+    },
+    {
+      "id": "art_ce3d532c",
+      "title": "Six ways creativity can reignite growth for beauty brands in 2026",
+      "url": "https://www.glossy.co/sponsored/six-ways-creativity-can-reignite-growth-for-beauty-brands-in-2026/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-15T20:15:18Z",
+      "summary": "The article discusses how beauty brands can reignite growth in 2026 by focusing on creativity rather than volume of content. Key strategies include reframing ROI to prioritize quality over quantity, using AI as a creative assistant, replacing influencer marketing with authentic storytelling, rethinking the customer journey with depth over frequency, addressing the limitations of traditional performance metrics, and building trust through education and empathy. Creativity is positioned as the key competitive advantage in a crowded and evolving beauty market.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "other"
+      ],
+      "demo_tags": [
+        "beauty_shoppers",
+        "us_adults"
+      ],
+      "psych_tags": [
+        "authenticity_seekers",
+        "emotionally_engaged_consumers",
+        "value_conscious_consumers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Michele Gauthier",
+          "title": "VP, Production, Americas",
+          "company_name": "Shutterstock Studios",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Michele Gauthier",
+          "email_subject": "Exploring Creative Growth Strategies for Beauty Brands in 2026",
+          "email_body": "Dear Michele Gauthier,\n\nI recently read the article \"Six ways creativity can reignite growth for beauty brands in 2026\" and was impressed by the insights shared on how creativity drives growth and trust in the beauty industry. I would love to discuss potential collaboration opportunities or learn more about Shutterstock Studios' approach to creative marketing in this evolving landscape.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Michele, I enjoyed your insights in the recent Glossy article about creativity driving growth for beauty brands in 2026. I'd love to connect and learn more about your work at Shutterstock Studios."
+        }
+      ]
+    },
+    {
       "id": "art_3fe28d37",
       "title": "Glossy 50 2025: The people who shaped fashion and beauty this year",
       "url": "https://www.glossy.co/announcement/glossy-50-2025/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -475,6 +697,65 @@
           "email_subject": "Exploring 2026 Retail Strategy Insights from Talon.One",
           "email_body": "Dear Talon.One team,\n\nI recently read your insightful article on the Black Friday trends shaping retail strategy in 2026 published on Marketing Dive. Your data-driven analysis on the evolving promotional calendar, loyalty program impact, and structured promotional mechanics is highly relevant to our upcoming campaigns.\n\nI would appreciate the opportunity to discuss how your incentives marketing solutions can support our brand's holiday strategy and customer engagement initiatives.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]\n[Your Company]\n[Your Contact Information]",
           "linkedin_message": "Hi Talon.One team, I enjoyed your recent article on Black Friday trends shaping 2026 retail strategy. I'd love to connect and explore how your incentives marketing solutions might support our holiday campaigns."
+        }
+      ]
+    },
+    {
+      "id": "art_ae59a1aa",
+      "title": "WPP Media enriches influencer offering with YouTube creator data deal",
+      "url": "https://www.marketingdive.com/news/wpp-media-enriches-influencer-offering-with-youtube-creator-data-deal/807813/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-15",
+      "summary": "WPP Media has expanded its partnership with YouTube to gain access to non-public creator and video data, enhancing its influencer marketing capabilities. This data integration will help WPP match clients with the right YouTube talent and improve campaign measurability through its marketing technology stack and The Goat Agency. The partnership aims to reduce fragmentation in the creator economy and bolster WPP's AI operating system, Open, for better strategy and trend insights.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "announcement"
+      ],
+      "demo_tags": [
+        "influencer_marketing_consumers",
+        "digital_marketers"
+      ],
+      "psych_tags": [
+        "early_adopters",
+        "tech_savvy_marketers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Brian Lesser",
+          "title": "CEO",
+          "company_name": "WPP Media",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Alex Burgess",
+          "title": "Global President",
+          "company_name": "The Goat Agency",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Brian Lesser",
+          "email_subject": "Exploring Collaboration Opportunities with WPP Media's Enhanced YouTube Creator Data",
+          "email_body": "Dear Brian Lesser,\n\nI recently read about WPP Media's expanded partnership with YouTube, which integrates exclusive creator data to enhance influencer marketing precision. I am interested in learning more about how this data-driven approach is shaping campaign outcomes and exploring potential collaboration opportunities.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Brian, I was impressed by WPP Media's new YouTube creator data integration. I'd love to connect and discuss how this innovation is impacting influencer marketing strategies."
+        },
+        {
+          "stakeholder_full_name": "Alex Burgess",
+          "email_subject": "Interest in The Goat Agency's YouTube API Integration for Influencer Campaigns",
+          "email_body": "Hello Alex Burgess,\n\nCongratulations on The Goat Agency being among the first to integrate YouTube's new API for creator matchmaking. I am keen to understand how this technology is improving campaign transparency and effectiveness, and would appreciate the opportunity to discuss potential synergies.\n\nBest,\n[Your Name]",
+          "linkedin_message": "Hi Alex, congrats on The Goat Agency's pioneering YouTube API integration. I'd like to connect and learn more about your approach to influencer campaign precision."
         }
       ]
     },
