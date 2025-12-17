@@ -1,6 +1,257 @@
 {
   "articles": [
     {
+      "id": "art_ff7e1614",
+      "title": "Wellness Briefing: The 2025 wellness trends that drove the industry this year",
+      "url": "https://www.glossy.co/beauty/wellness/wellness-briefing-the-2025-wellness-trends-that-drove-the-industry-this-year/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-17T05:04:00Z",
+      "summary": "This article analyzes key wellness trends in 2025, highlighting longevity as the industry's driving force. It covers rising consumer interest in hormone regulation, NAD support, creatine supplements, and biohacking. The piece also notes significant investments in wellness and beauty sectors, FDA's adoption of AI for regulatory processes, and funding for innovative health tech startups like Emm. Additionally, it reports on increased sexual wellness sales and evolving consumer priorities toward aging well and holistic wellness.",
+      "categories": [
+        "health_and_wellness"
+      ],
+      "campaign_types": [
+        "other"
+      ],
+      "demo_tags": [
+        "millennials",
+        "younger_consumers",
+        "aspirational_consumers",
+        "women"
+      ],
+      "psych_tags": [
+        "health_and_wellness_consumers",
+        "self_investment",
+        "tech_enabled_wellness",
+        "longevity_focused"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "David Hamlette",
+          "title": "Wellness Analyst",
+          "company_name": "Mintel",
+          "role_type": "analyst",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Jenny Button",
+          "title": "Founder and CEO",
+          "company_name": "Emm",
+          "role_type": "founder/CEO",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Darren MacDonald",
+          "title": "CEO",
+          "company_name": "Tonal",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Jeremy Walsh",
+          "title": "Chief AI Officer",
+          "company_name": "FDA",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "David Hamlette",
+          "email_subject": "Exploring Wellness Trends and Consumer Insights for 2026",
+          "email_body": "Dear David Hamlette,\n\nI recently read about your insights on wellness trends and consumer behavior in 2025, particularly around longevity and tech-enabled wellness. I would love to discuss potential collaboration opportunities or learn more about Mintel's latest research in this space.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi David, I found your analysis on wellness trends very insightful. I'd appreciate the chance to connect and discuss emerging consumer behaviors in health and wellness."
+        },
+        {
+          "stakeholder_full_name": "Jenny Button",
+          "email_subject": "Innovative Health Tech and Menstrual Tracking Solutions",
+          "email_body": "Dear Jenny Button,\n\nCongratulations on Emm's recent funding and innovative approach to menstrual health tracking. I am interested in learning more about your product launch plans and exploring potential partnership or sampling opportunities.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Jenny, congrats on Emm's funding! I'd love to connect and discuss your upcoming product launch and potential collaboration."
+        },
+        {
+          "stakeholder_full_name": "Darren MacDonald",
+          "email_subject": "Longevity and Wellness Market Opportunities",
+          "email_body": "Dear Darren MacDonald,\n\nYour leadership at Tonal and focus on longevity and wellness caught my attention. I am keen to explore how we might collaborate on experiential activations or wellness campaigns targeting health-conscious consumers.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Darren, I admire Tonal's focus on longevity and wellness. Let's connect to explore potential campaign collaborations."
+        },
+        {
+          "stakeholder_full_name": "Jeremy Walsh",
+          "email_subject": "AI Innovations in Regulatory Processes and Wellness Industry Impact",
+          "email_body": "Dear Jeremy Walsh,\n\nI read about the FDA's deployment of agentic AI under your leadership. I am interested in understanding how these innovations might influence wellness product approvals and market dynamics.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Jeremy, the FDA's AI initiatives are fascinating. I'd appreciate the opportunity to connect and learn more about their impact on wellness product regulation."
+        }
+      ]
+    },
+    {
+      "id": "art_7b4287df",
+      "title": "How Aerie turned pajamas into an all-day, year-round business",
+      "url": "https://www.glossy.co/fashion/how-aerie-turned-pajamas-into-an-all-day-year-round-business/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-17T05:02:00Z",
+      "summary": "Aerie has transformed its sleepwear category into a year-round growth driver, significantly outperforming its parent company American Eagle Outfitters with 11% comparable sales growth. The brand's success is attributed to its focus on comfort, proprietary Real Soft fabric, competitive pricing, and cultural relevance among Gen Z and Gen Alpha consumers. Sleepwear is integrated into Aerie's core marketing strategy, supported by social media visibility and influencer engagement, with plans to expand the assortment across all channels.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "other"
+      ],
+      "demo_tags": [
+        "female",
+        "gen_z",
+        "gen_alpha",
+        "loungewear_consumers",
+        "comfort_seekers"
+      ],
+      "psych_tags": [
+        "authenticity",
+        "community_focused",
+        "comfort_first",
+        "trend_sensitive"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Stacey McCormick",
+          "title": "CMO",
+          "company_name": "Aerie",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Jennifer Foyle",
+          "title": "President and Executive Creative Director",
+          "company_name": "American Eagle and Aerie",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Stacey McCormick",
+          "email_subject": "Exploring Collaboration Opportunities with Aerie's Sleepwear Growth",
+          "email_body": "Dear Stacey McCormick,\n\nI am reaching out to discuss potential collaboration opportunities that align with Aerie's impressive growth in the sleepwear category. Your focus on comfort and community resonates strongly with our initiatives, and we believe there could be mutual benefits in exploring partnership avenues.\n\nLooking forward to the possibility of working together.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Stacey, I admire Aerie's success in turning sleepwear into a year-round business. I'd love to connect and explore potential collaboration opportunities."
+        },
+        {
+          "stakeholder_full_name": "Jennifer Foyle",
+          "email_subject": "Partnership Inquiry Regarding Aerie's Year-Round Sleepwear Strategy",
+          "email_body": "Dear Jennifer Foyle,\n\nCongratulations on Aerie's outstanding performance in the sleepwear segment. Your leadership in integrating sleepwear into the brand's core marketing is inspiring. I would appreciate the opportunity to discuss how we might support or collaborate with your team to further enhance this growth.\n\nThank you for your consideration.\n\nSincerely,\n[Your Name]",
+          "linkedin_message": "Hi Jennifer, impressed by Aerie's innovative approach to sleepwear as a year-round category. Would love to connect and discuss potential synergies."
+        }
+      ]
+    },
+    {
+      "id": "art_80bd9127",
+      "title": "Why brands are still showing up on Roblox",
+      "url": "https://www.glossy.co/fashion/why-brands-are-still-showing-up-on-roblox/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-17T05:00:00+00:00",
+      "summary": "Roblox has become a significant platform for brands due to its massive Gen Z user base and high engagement, with 151 million daily active users spending nearly three hours daily. Brands are experimenting with digital products, in-experience rewarded video ads, and cultural insights to connect with younger consumers. Safety and moderation have been enhanced to meet advertiser and regulatory demands. Roblox offers brands a dynamic test market to track cultural trends and inform media and creative strategies.",
+      "categories": [
+        "fashion",
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "sampling_program",
+        "experiential_activation",
+        "other"
+      ],
+      "demo_tags": [
+        "gen_z",
+        "digital_natives",
+        "avatar_users",
+        "fashion_consumers"
+      ],
+      "psych_tags": [
+        "self_expression",
+        "early_adopters",
+        "trend_seekers",
+        "cultural_engagers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Stephanie Latham",
+          "title": "VP of Global Brand Partnerships",
+          "company_name": "Roblox",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Stephanie Latham",
+          "email_subject": "Exploring Brand Opportunities on Roblox's Dynamic Platform",
+          "email_body": "Dear Stephanie Latham,\n\nI recently read about Roblox's evolving role as a key platform for brands to engage with Gen Z consumers through innovative digital experiences and rewarded video ads. We are interested in exploring potential collaborations or campaigns that leverage Roblox's unique cultural insights and high engagement levels.\n\nCould we schedule a time to discuss how our brand might effectively participate in Roblox's ecosystem?\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Stephanie, I’m impressed by Roblox’s innovative approach to brand partnerships and would love to connect to explore potential collaboration opportunities."
+        }
+      ]
+    },
+    {
+      "id": "art_857801c7",
+      "title": "WeightWatchers revamps brand identity to better tap into GLP-1 craze",
+      "url": "https://www.marketingdive.com/news/weightwatchers-revamps-brand-identity-to-better-tap-into-glp-1-craze/808075/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-17",
+      "summary": "WeightWatchers is refreshing its brand identity and digital experiences to address the rise of GLP-1 weight-loss drugs. Updates include a new logo symbolizing progress, modernized typography, black-and-white editorial featuring real members, and new digital offerings such as an AI-powered body scanner and a dedicated GLP-1 medical program called WeightWatchers Med+. This transformation follows the company's bankruptcy filing in May and aims to modernize the brand while reflecting member feedback.",
+      "categories": [
+        "health_and_wellness"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "announcement"
+      ],
+      "demo_tags": [
+        "weight_loss_consumers",
+        "health_and_wellness_consumers"
+      ],
+      "psych_tags": [
+        "goal_oriented",
+        "health_conscious"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Julie Rice",
+          "title": "Chief Experience Officer",
+          "company_name": "WeightWatchers",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Julie Rice",
+          "email_subject": "Exploring WeightWatchers' Brand Revamp and GLP-1 Program Launch",
+          "email_body": "Dear Julie Rice,\n\nI recently read about WeightWatchers' exciting brand identity refresh and the launch of the dedicated GLP-1 medical program, WeightWatchers Med+. The integration of new digital tools like the AI-powered body scanner and the modernized visual identity are impressive steps toward meeting evolving consumer needs.\n\nI would love to learn more about the strategic thinking behind these initiatives and explore potential collaboration opportunities.\n\nLooking forward to your thoughts.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Julie, I was impressed by WeightWatchers' recent brand refresh and GLP-1 program launch. I'd appreciate the chance to connect and discuss your innovative approach to health and wellness."
+        }
+      ]
+    },
+    {
       "id": "art_a5e2f7d4",
       "title": "Natural results, body filler and AI are the plastic surgery trends to watch for in 2026",
       "url": "https://www.glossy.co/beauty/beauty-briefing-natural-results-body-filler-and-ai-are-the-plastic-surgery-trends-to-watch-for-in-2026/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
