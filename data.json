@@ -1,6 +1,244 @@
 {
   "articles": [
     {
+      "id": "art_b54bba45",
+      "title": "FullBeauty’s deal with Destination XL, the revival of Matches Fashion, and the acceleration of fashion M&A",
+      "url": "https://www.glossy.co/fashion/fullbeautys-deal-with-destination-xl-the-revival-of-matches-fashion-and-the-acceleration-of-fashion-ma/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-18T05:02:00+00:00",
+      "summary": "The article covers two major fashion industry deals: the merger of FullBeauty Brands and Destination XL to form a $1.2 billion plus-size fashion company, and the acquisition and planned relaunch of Matches Fashion by the founders of the luxury shopping app Mile. It also discusses the broader trend of increased mergers and acquisitions in the fashion sector in 2025 driven by market volatility, scale needs, and competitive pressures.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "plus_size_consumers",
+        "luxury_fashion_consumers"
+      ],
+      "psych_tags": [
+        "fashion_enthusiasts",
+        "luxury_shoppers",
+        "brand_loyal_consumers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "James Fogarty",
+          "title": "CEO",
+          "company_name": "FullBeauty Brands / Destination XL",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Joe Wilkinson",
+          "title": "Co-founder",
+          "company_name": "Mile / Hulcan",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Mario Maher",
+          "title": "Co-founder",
+          "company_name": "Mile / Hulcan",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "James Fogarty",
+          "email_subject": "Exploring Collaboration Opportunities with Destination XL Post-Merger",
+          "email_body": "Dear Mr. Fogarty,\n\nCongratulations on the successful merger between FullBeauty Brands and Destination XL. We are excited about the innovative potential this new entity brings to the plus-size fashion market. We would love to discuss potential collaboration opportunities that could leverage your fit technology and brand portfolio.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi James, congratulations on the merger of FullBeauty and Destination XL. I’d love to connect and explore potential collaboration opportunities leveraging your innovative fit technology."
+        },
+        {
+          "stakeholder_full_name": "Joe Wilkinson",
+          "email_subject": "Interest in Supporting Matches Fashion’s Relaunch Under Hulcan",
+          "email_body": "Dear Mr. Wilkinson,\n\nCongratulations on the acquisition and upcoming relaunch of Matches Fashion. Your vision to integrate brands, media, and technology in the luxury space is inspiring. We would be interested in discussing how we might support your efforts in shaping the future of luxury retail.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Joe, congrats on the Matches Fashion acquisition and relaunch plans. I’d love to connect and discuss ways to support your vision for the future of luxury retail."
+        },
+        {
+          "stakeholder_full_name": "Mario Maher",
+          "email_subject": "Exploring Partnership Opportunities with Hulcan’s Luxury Ecosystem",
+          "email_body": "Dear Mr. Maher,\n\nThe formation of Hulcan and your plans for Matches Fashion’s revival are exciting developments in luxury retail. We are keen to explore partnership opportunities that align with your ecosystem approach combining brands, media, and technology.\n\nLooking forward to your thoughts.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Mario, I’m impressed by Hulcan’s approach to luxury retail and Matches Fashion’s revival. Let’s connect to explore potential partnership opportunities."
+        }
+      ]
+    },
+    {
+      "id": "art_b25a90d6",
+      "title": "The Glossy Beauty Podcast looks back at beauty in 2025",
+      "url": "https://www.glossy.co/beauty/the-glossy-beauty-podcast-looks-back-at-beauty-in-2025/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-18T05:00:00+00:00",
+      "summary": "The Glossy Beauty Podcast reflects on key beauty industry themes in 2025, including the rise of Gen Alpha as a beauty consumer, growth in lip care amid a color cosmetics slump, and the increasing focus on longevity and clinical skincare products.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [],
+      "demo_tags": [
+        "gen_alpha",
+        "millennial_parents"
+      ],
+      "psych_tags": [
+        "longevity_focused_consumers",
+        "clinical_skincare_consumers",
+        "impulse_buyers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Sara Spruch-Feiner",
+          "title": "Senior Reporter, Glossy Pop",
+          "company_name": "Glossy",
+          "role_type": "reporter",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Sara Spruch-Feiner",
+          "email_subject": "Inquiry about insights from The Glossy Beauty Podcast on 2025 beauty trends",
+          "email_body": "Hi Sara,\n\nI recently read your article and listened to The Glossy Beauty Podcast episode reflecting on the beauty industry in 2025. Your insights on the rise of Gen Alpha consumers, the lip care category growth, and the longevity trend in skincare were very informative. I would love to discuss potential collaboration opportunities or get further insights on these trends.\n\nLooking forward to hearing from you.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Sara, I enjoyed your recent Glossy Beauty Podcast episode on 2025 beauty trends. I'd love to connect and discuss your insights on Gen Alpha consumers and longevity in skincare."
+        }
+      ]
+    },
+    {
+      "id": "art_0f760763",
+      "title": "Athletic Brewing links with OpenTable in latest bid to sober-curious",
+      "url": "https://www.marketingdive.com/news/athletic-brewing-links-with-opentable-in-latest-bid-to-sober-curious/808191/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-18",
+      "summary": "Athletic Brewing Company is relaunching its 'Athletic January' campaign for Dry January, encouraging year-round moderation. The campaign includes a partnership with OpenTable featuring an interactive map of locations serving Athletic's nonalcoholic products, a rebate program for consumers, and new product launches.",
+      "categories": [
+        "food_and_beverage"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "sampling_program",
+        "promotion_or_discount"
+      ],
+      "demo_tags": [
+        "legal_drinking_age_consumers",
+        "sober_curious_consumers"
+      ],
+      "psych_tags": [
+        "health_and_wellness_consumers",
+        "moderation_mindset",
+        "sober_curious"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Andrew Katz",
+          "title": "CMO",
+          "company_name": "Athletic Brewing Company",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Andrew Katz",
+          "email_subject": "Collaboration Opportunity: Athletic January Campaign & OpenTable Partnership",
+          "email_body": "Dear Andrew Katz,\n\nI recently came across the exciting relaunch of Athletic Brewing Company's 'Athletic January' campaign and your innovative partnership with OpenTable. The interactive map and rebate program are great initiatives to engage the sober-curious and moderation-minded consumers.\n\nI would love to discuss potential collaboration opportunities to further amplify this campaign and support your upcoming product launches. Please let me know a convenient time for a conversation.\n\nBest regards,\n[Your Name]\n[Your Company]\n[Your Contact Information]",
+          "linkedin_message": "Hi Andrew, I’m impressed by Athletic Brewing’s 'Athletic January' campaign and the partnership with OpenTable. I’d love to connect and explore ways we might collaborate to support your marketing efforts and product launches."
+        }
+      ]
+    },
+    {
+      "id": "art_9ea8754c",
+      "title": "Inside Walmart Connect as retail media, CTV convergence accelerates",
+      "url": "https://www.marketingdive.com/news/inside-walmart-connect-as-retail-media-ctv-convergence-accelerates/807682/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-18",
+      "summary": "Walmart Connect is rapidly growing its retail media business, driven by investments in measurement solutions and connected TV (CTV) capabilities through its acquisition of Vizio. The integration of Vizio's smart TV platform has expanded Walmart's advertising reach and attracted new advertisers across various industries. Walmart is also advancing closed-loop measurement across multiple ad surfaces, including in-store retail media, and leveraging AI to enhance its adtech stack and customer experiences.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "announcement"
+      ],
+      "demo_tags": [
+        "retail_media_advertisers",
+        "connected_tv_consumers",
+        "walmart_customers"
+      ],
+      "psych_tags": [
+        "tech_savvy",
+        "data_driven_marketers",
+        "ai_early_adopters"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Ryan Mayward",
+          "title": "Senior Vice President of Sales",
+          "company_name": "Walmart Connect",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Seth Dallaire",
+          "title": "Executive Vice President and Chief Growth Officer",
+          "company_name": "Walmart U.S.",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "https://www.linkedin.com/in/seth-dallaire-0a0b3a1/",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "John David Rainey",
+          "title": "Executive Vice President and CFO",
+          "company_name": "Walmart",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Ryan Mayward",
+          "email_subject": "Exploring Partnership Opportunities with Walmart Connect's Growing Retail Media and CTV Solutions",
+          "email_body": "Dear Mr. Mayward,\n\nI recently read about Walmart Connect's impressive growth and innovative integration of Vizio's CTV platform. Your advancements in closed-loop measurement and AI-driven adtech solutions are particularly exciting. I would love to discuss potential collaboration opportunities that could leverage these capabilities to drive mutual success.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Ryan, I was impressed by Walmart Connect's recent growth and CTV integration. I'd love to connect and explore potential partnership opportunities."
+        },
+        {
+          "stakeholder_full_name": "Seth Dallaire",
+          "email_subject": "Innovative Advertising Solutions at Walmart U.S. - Potential Collaboration",
+          "email_body": "Dear Mr. Dallaire,\n\nYour leadership in expanding Walmart Connect's advertising technology and full-funnel solutions caught my attention. I am interested in discussing how we might collaborate to further enhance advertising effectiveness and customer engagement.\n\nPlease let me know a convenient time to connect.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Seth, I admire your work at Walmart U.S. in growing retail media solutions. Let's connect to discuss potential collaboration."
+        },
+        {
+          "stakeholder_full_name": "John David Rainey",
+          "email_subject": "Walmart's Retail Media Growth and Advertising Innovation - Partnership Inquiry",
+          "email_body": "Dear Mr. Rainey,\n\nCongratulations on Walmart's remarkable retail media growth and strategic investments in advertising technology. I would appreciate the opportunity to discuss how we can support Walmart's continued success in this space.\n\nThank you for your time and consideration.\n\nSincerely,\n[Your Name]",
+          "linkedin_message": "Hello John, congrats on Walmart's retail media success. I'd like to explore ways we can support your advertising innovation efforts. Let's connect."
+        }
+      ]
+    },
+    {
       "id": "art_ff7e1614",
       "title": "Wellness Briefing: The 2025 wellness trends that drove the industry this year",
       "url": "https://www.glossy.co/beauty/wellness/wellness-briefing-the-2025-wellness-trends-that-drove-the-industry-this-year/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -248,6 +486,168 @@
           "email_subject": "Exploring WeightWatchers' Brand Revamp and GLP-1 Program Launch",
           "email_body": "Dear Julie Rice,\n\nI recently read about WeightWatchers' exciting brand identity refresh and the launch of the dedicated GLP-1 medical program, WeightWatchers Med+. The integration of new digital tools like the AI-powered body scanner and the modernized visual identity are impressive steps toward meeting evolving consumer needs.\n\nI would love to learn more about the strategic thinking behind these initiatives and explore potential collaboration opportunities.\n\nLooking forward to your thoughts.\n\nBest regards,\n[Your Name]",
           "linkedin_message": "Hi Julie, I was impressed by WeightWatchers' recent brand refresh and GLP-1 program launch. I'd appreciate the chance to connect and discuss your innovative approach to health and wellness."
+        }
+      ]
+    },
+    {
+      "id": "art_fe5176cc",
+      "title": "Combating the consumer ‘joy deficit’ this season",
+      "url": "https://www.marketingdive.com/news/consumer-joy-deficit-holiday-season-retail-marketing/808133/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-17",
+      "summary": "This article discusses the challenges retailers face during the holiday season as consumers experience a 'joy deficit' due to high prices and financial stress. It highlights the importance of empathetic marketing that balances shoppers' emotional needs and financial realities, emphasizing strategies like spreading out the holiday season, avoiding anxiety-inducing messaging, and creating joyful, sincere in-store experiences. The piece also notes trends such as increased discount shopping, gifting resale products, and the rise of experiential retail activations.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "promotion_or_discount",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "holiday_shoppers",
+        "discount_shoppers",
+        "gen_z",
+        "middle_income_consumers",
+        "higher_income_consumers"
+      ],
+      "psych_tags": [
+        "financially_cautious",
+        "emotionally_driven",
+        "intentional_shoppers",
+        "value_seekers"
+      ],
+      "stakeholders": [],
+      "outreach_templates": []
+    },
+    {
+      "id": "art_5c0d44db",
+      "title": "How NBCU’s new tools boost ads as live TV events take center stage",
+      "url": "https://www.marketingdive.com/news/how-nbcus-new-tools-boost-ads-as-live-tv-events-take-center-stage/807998/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-17",
+      "summary": "NBCUniversal announced new advertising tools ahead of CES 2026, including AI-powered contextual targeting and Live Total Impact, to enhance ad targeting, measurement, and formats during major live TV events. These innovations aim to bring digital marketing advances to TV, improve consumer engagement, and provide advertisers with real-time performance insights across NBCU's ecosystem.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [
+        "advertising_professionals",
+        "media_buyers",
+        "digital_marketers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Mark Marshall",
+          "title": "Chairman of Global Advertising and Partnerships",
+          "company_name": "NBCUniversal",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Ryan McConville",
+          "title": "Chief Product Officer and Executive Vice President for Ad Products and Solutions",
+          "company_name": "NBCUniversal",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Alison Levin",
+          "title": "President of Advertising and Partnerships",
+          "company_name": "NBCUniversal",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Gina Reduto",
+          "title": "Executive Vice President of Strategy for Advertising and Partnerships",
+          "company_name": "NBCUniversal",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Mark Marshall",
+          "email_subject": "Inquiry on NBCUniversal's New Advertising Tools for Live TV Events",
+          "email_body": "Dear Mark Marshall,\n\nI recently read about NBCUniversal's new advertising tools announced ahead of CES 2026, including AI-powered contextual targeting and Live Total Impact. I am interested in learning more about how these innovations can enhance ad targeting and measurement for live TV events.\n\nCould we schedule a time to discuss potential collaboration opportunities?\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Mark, I was impressed by NBCUniversal's new ad tools for live TV events. I'd love to connect and discuss how these innovations might align with our marketing goals."
+        },
+        {
+          "stakeholder_full_name": "Ryan McConville",
+          "email_subject": "Exploring NBCUniversal's AI-Powered Contextual Targeting",
+          "email_body": "Hello Ryan,\n\nYour recent announcement about the AI-powered contextual targeting tool at NBCUniversal caught my attention. I am keen to understand how this technology can be leveraged for privacy-safe, hyper-personalized advertising.\n\nWould you be open to a conversation?\n\nThank you,\n[Your Name]",
+          "linkedin_message": "Hi Ryan, I’m interested in NBCUniversal’s AI contextual targeting capabilities and would appreciate the chance to discuss its applications."
+        },
+        {
+          "stakeholder_full_name": "Alison Levin",
+          "email_subject": "Discussion on Peacock's New Ad Formats and Innovations",
+          "email_body": "Dear Alison,\n\nCongratulations on the success of Peacock's ad innovations like Pause Ads and Spotlight Ads. I am interested in learning more about the upcoming Arrival Ads and Live in Browse features.\n\nCould we arrange a meeting to explore potential synergies?\n\nBest,\n[Your Name]",
+          "linkedin_message": "Hi Alison, I admire Peacock’s innovative ad formats and would love to connect to discuss upcoming opportunities."
+        },
+        {
+          "stakeholder_full_name": "Gina Reduto",
+          "email_subject": "Interest in NBCUniversal's Performance Insights Hub",
+          "email_body": "Hello Gina,\n\nI read about NBCUniversal’s new Performance Insights Hub designed to provide in-flight campaign performance visibility. I am eager to learn how this platform integrates data and offers cross-platform attribution.\n\nWould you be available for a discussion?\n\nRegards,\n[Your Name]",
+          "linkedin_message": "Hi Gina, I’m intrigued by NBCUniversal’s Performance Insights Hub and would appreciate the opportunity to discuss its capabilities."
+        }
+      ]
+    },
+    {
+      "id": "art_23da0e54",
+      "title": "Magnum Ice Cream Company names Publicis media AOR, with AI in focus",
+      "url": "https://www.marketingdive.com/news/magnum-ice-cream-company-names-publicis-media-aor-with-ai-in-focus/808104/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-17",
+      "summary": "The Magnum Ice Cream Company has appointed Publicis as its global media agency of record to leverage data-driven marketing and AI capabilities. This partnership aims to anticipate consumer trends and cultural moments, focusing on occasion-based social media, local event activations, and real-time digital promotions. The appointment marks a milestone for Magnum as a standalone business following its spin-off from Unilever.",
+      "categories": [
+        "food_and_beverage"
+      ],
+      "campaign_types": [
+        "announcement",
+        "experiential_activation",
+        "promotion_or_discount"
+      ],
+      "demo_tags": [
+        "ice_cream_consumers",
+        "cpg_consumers"
+      ],
+      "psych_tags": [
+        "data_driven_consumers",
+        "ai_early_adopters"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Julien Barraux",
+          "title": "Chief Creative Officer",
+          "company_name": "The Magnum Ice Cream Company",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Julien Barraux",
+          "email_subject": "Exploring Collaboration Opportunities with Publicis for Magnum's AI-Driven Marketing",
+          "email_body": "Dear Julien Barraux,\n\nCongratulations on appointing Publicis as the global media agency of record for Magnum. We are excited about your focus on leveraging AI and data-driven marketing to anticipate consumer trends and enhance engagement through social media and local activations.\n\nWe would love to discuss how our solutions can support Magnum's innovative marketing strategies and help maximize the impact of your campaigns.\n\nLooking forward to the opportunity to connect.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Julien, congrats on the new partnership with Publicis! I'd love to connect and explore how we can support Magnum's AI-driven marketing initiatives."
         }
       ]
     },
