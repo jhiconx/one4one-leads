@@ -1,6 +1,313 @@
 {
   "articles": [
     {
+      "id": "art_64aed825",
+      "title": "The campaigns that caught marketers’ attention in 2025",
+      "url": "https://www.glossy.co/beauty/the-moments-that-caught-marketers-attention-in-2025/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-19T05:05:00+00:00",
+      "summary": "This article highlights notable marketing campaigns from 2025 that inspired top marketers, focusing on cultural impact, storytelling, and innovative activations across beauty and fashion industries.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation",
+        "other"
+      ],
+      "demo_tags": [
+        "gen_z",
+        "gen_alpha",
+        "beauty_consumers",
+        "fashion_consumers"
+      ],
+      "psych_tags": [
+        "nostalgia",
+        "authenticity",
+        "emotional_connection",
+        "viral_moments",
+        "live_shopping_adopters"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Ashley Murphy",
+          "title": "SVP of Brand Marketing",
+          "company_name": "Rare Beauty",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Kira Mackenzie Jackson",
+          "title": "Chief Brand Officer",
+          "company_name": "Set Active",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Camille Moore",
+          "title": "Brand Strategist and Founder",
+          "company_name": "Third Eye Insights",
+          "role_type": "marketing_consultant",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Ashley Schapiro",
+          "title": "VP of Marketing, Media, Performance and Engagement",
+          "company_name": "American Eagle",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Ashley Murphy",
+          "email_subject": "Exploring Innovative Brand Marketing Strategies Inspired by 2025 Campaigns",
+          "email_body": "Hi Ashley,\n\nI recently read about the impactful campaigns of 2025, including Rare Beauty's approach to authentic storytelling. I would love to connect and discuss how your team is planning to build on these insights for future brand marketing initiatives.\n\nLooking forward to hearing from you.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Ashley, I was inspired by Rare Beauty's 2025 campaigns and would love to connect to learn more about your approach to brand marketing and storytelling."
+        },
+        {
+          "stakeholder_full_name": "Kira Mackenzie Jackson",
+          "email_subject": "Discussing Set Active's Holiday Campaign and Gamified Experiences",
+          "email_body": "Hello Kira,\n\nYour recent holiday pup-up campaign with Gisou caught my attention for its innovative storytelling and community engagement. I am interested in learning more about how Set Active leverages gamification and digital-IRL experiences to drive brand loyalty.\n\nBest,\n[Your Name]",
+          "linkedin_message": "Hi Kira, I admire Set Active's creative holiday campaign and would love to connect to discuss your strategies around gamified brand experiences."
+        },
+        {
+          "stakeholder_full_name": "Camille Moore",
+          "email_subject": "Insights on Livestream Commerce and TikTok Activations",
+          "email_body": "Dear Camille,\n\nThe success of Skims' Kimsmas Live! on TikTok as a livestream commerce activation was fascinating. I would appreciate the opportunity to discuss how brands can effectively integrate live shopping into their marketing mix.\n\nThank you,\n[Your Name]",
+          "linkedin_message": "Hi Camille, I found your insights on livestream commerce and the Skims Kimsmas Live! activation very compelling. Would love to connect and learn more."
+        },
+        {
+          "stakeholder_full_name": "Ashley Schapiro",
+          "email_subject": "Exploring Gen Z and Gen Alpha Trends in Marketing",
+          "email_body": "Hi Ashley,\n\nI was intrigued by your observations on the viral 'six seven' trend and its impact on Gen Z and Gen Alpha marketing strategies. I would be interested in discussing how American Eagle is leveraging these cultural moments to engage younger consumers.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Ashley, your insights on Gen Z and Gen Alpha trends like 'six seven' are fascinating. I'd love to connect and discuss how these influence marketing strategies."
+        }
+      ]
+    },
+    {
+      "id": "art_793391ce",
+      "title": "Exclusive: Target continues to lean into K-Beauty with the addition of Haruharu Wonder",
+      "url": "https://www.glossy.co/beauty/exclusive-target-continues-to-lean-into-k-beauty-with-the-addition-of-haruharu-wonder/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-19T05:04:00+00:00",
+      "summary": "Target has expanded its K-Beauty assortment by 80% in 2025, adding the brand Haruharu Wonder to its offerings. Haruharu Wonder, founded in 2019 by Jae Jeong, is known for its affordable cult-favorite products like the Black Rice Probiotics Barrier Essence. The brand will launch eight hero products priced between $13-$22, available both in-store and online at Target. The move reflects Target's strategy to meet consumer demand for innovative, high-quality, and accessible K-Beauty products.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "product_launch"
+      ],
+      "demo_tags": [
+        "female",
+        "beauty_consumers",
+        "k_beauty_enthusiasts"
+      ],
+      "psych_tags": [
+        "quality_seeking",
+        "trend_aware",
+        "value_conscious"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Amanda Nusz",
+          "title": "SVP of Merchandising, Essentials and Beauty",
+          "company_name": "Target",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Jae Jeong",
+          "title": "Founder",
+          "company_name": "Haruharu Wonder",
+          "role_type": "brand_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Amanda Nusz",
+          "email_subject": "Exploring Partnership Opportunities with Haruharu Wonder at Target",
+          "email_body": "Dear Amanda Nusz,\n\nI am reaching out to express interest in learning more about Target's recent expansion into K-Beauty with the addition of Haruharu Wonder. We admire Target's commitment to bringing innovative and accessible beauty products to your guests. We would love to explore potential collaboration opportunities to further enhance the K-Beauty assortment and engage your customers.\n\nLooking forward to the possibility of working together.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Amanda, I’m impressed by Target’s recent K-Beauty expansion with Haruharu Wonder. I’d love to connect and explore potential partnership opportunities to support your merchandising goals."
+        },
+        {
+          "stakeholder_full_name": "Jae Jeong",
+          "email_subject": "Supporting Haruharu Wonder’s Growth with Target",
+          "email_body": "Dear Jae Jeong,\n\nCongratulations on Haruharu Wonder’s successful launch at Target. Your brand’s focus on quality and accessibility aligns well with today’s beauty consumers. I would be interested in discussing ways to support your continued growth and presence in the U.S. market through strategic marketing and retail partnerships.\n\nPlease let me know if you are open to a conversation.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Jae, congrats on Haruharu Wonder’s launch at Target! I’d love to connect and discuss how we might support your brand’s growth in the U.S. market."
+        }
+      ]
+    },
+    {
+      "id": "art_b8755d4e",
+      "title": "Luxury Briefing: At 10, Nadine Merabi bets on bridal-adjacent whitewear and disciplined growth",
+      "url": "https://www.glossy.co/fashion/luxury/at-10-nadine-merabi-bets-on-bridal-adjacent-whitewear-and-disciplined-growth/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-19T05:02:00+00:00",
+      "summary": "Nadine Merabi marks 10 years with a focus on bridal-adjacent whitewear and disciplined growth, approaching $50 million in annual revenue. The brand emphasizes versatile occasionwear over novelty, expanding cautiously into wholesale and retail, with a loyal customer base and a strong presence in the U.S. and Europe.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "other"
+      ],
+      "demo_tags": [
+        "female",
+        "luxury_consumers",
+        "us_customers",
+        "european_customers"
+      ],
+      "psych_tags": [
+        "occasionwear_lovers",
+        "bridal_adjacent_shoppers",
+        "accessible_luxury_consumers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Nadine Merabi",
+          "title": "Founder and Creative Director",
+          "company_name": "Nadine Merabi",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Jacobo Hachuel",
+          "title": "Former CEO",
+          "company_name": "Nadine Merabi",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Nadine Merabi",
+          "email_subject": "Exploring Collaboration Opportunities with Nadine Merabi",
+          "email_body": "Dear Nadine Merabi,\n\nCongratulations on your brand's impressive growth and innovative focus on bridal-adjacent whitewear. We are interested in exploring potential collaboration opportunities that align with your disciplined growth strategy and versatile occasionwear offerings.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Nadine, congratulations on your brand's success and innovative approach to bridal-adjacent whitewear. I'd love to connect and explore potential collaboration opportunities."
+        }
+      ]
+    },
+    {
+      "id": "art_94dadfde",
+      "title": "Glossy Podcast: Breaking down the K-shaped economy",
+      "url": "https://www.glossy.co/podcasts/glossy-podcast-breaking-down-the-k-shaped-economy/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-19T05:00:00+00:00",
+      "summary": "This episode of the Glossy Fashion Podcast discusses the K-shaped economy, highlighting the diverging spending patterns between wealthier Americans and lower-income consumers. Brands in the fashion industry are adjusting strategies by either focusing on high-end consumers with premium pricing or emphasizing lower-priced items to cater to budget-conscious shoppers.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "other"
+      ],
+      "demo_tags": [
+        "high_income_consumers",
+        "lower_income_consumers",
+        "fashion_consumers"
+      ],
+      "psych_tags": [
+        "value_seekers",
+        "luxury_buyers",
+        "budget_conscious"
+      ],
+      "stakeholders": [],
+      "outreach_templates": []
+    },
+    {
+      "id": "art_793a279a",
+      "title": "Sociable: TikTok US unit reportedly signs deal with Oracle-led investor group",
+      "url": "https://www.marketingdive.com/news/tiktok-us-unit-reportedly-signs-deal-with-oracle-led-investor-group/808365/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-19",
+      "summary": "TikTok's U.S. operations are set to be sold to a joint venture led by Oracle, Silver Lake, and MGX, allowing the app to continue operating in the U.S. The deal, effective January 22, 2026, involves re-training TikTok's algorithm on U.S. user data to prevent outside manipulation. The new ownership group includes Oracle's Larry Ellison, with potential influence from the Trump administration on the platform's governance and content.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "us_consumers",
+        "social_media_users"
+      ],
+      "psych_tags": [
+        "politically_influenced_consumers",
+        "tech_savvy_users"
+      ],
+      "stakeholders": [],
+      "outreach_templates": []
+    },
+    {
+      "id": "art_96182f15",
+      "title": "Campaign Trail: Tiffany’s blue boxes become portals for the holidays",
+      "url": "https://www.marketingdive.com/news/campaign-trail-tiffanys-blue-boxes-become-portals-for-the-holidays/807917/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-19",
+      "summary": "Tiffany & Co. and agency Anomaly launched the holiday campaign \"Love is a Gift,\" starring Anya Taylor-Joy exploring a cityscape of Tiffany's iconic blue boxes as portals to love stories worldwide. The campaign builds on a successful 2024 effort and spans online video, paid digital, retail, and social channels.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "promotion_or_discount"
+      ],
+      "demo_tags": [
+        "female",
+        "holiday_shoppers"
+      ],
+      "psych_tags": [
+        "luxury_consumers",
+        "nostalgia_seekers",
+        "romantic_consumers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Caitlin Slack",
+          "title": "Group Creative Director",
+          "company_name": "Anomaly",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Caitlin Slack",
+          "email_subject": "Inquiry About Tiffany’s Holiday Campaign \"Love is a Gift\"",
+          "email_body": "Dear Caitlin Slack,\n\nI recently came across the Tiffany & Co. holiday campaign \"Love is a Gift\" developed by Anomaly, featuring Anya Taylor-Joy and the iconic blue boxes as portals to love stories. The creative approach and multi-channel execution are impressive.\n\nI would love to learn more about the campaign's development, strategic goals, and any upcoming initiatives you might be planning. Could we schedule a time to discuss?\n\nThank you for your time and consideration.\n\nBest regards,\n[Your Name]\n[Your Company]\n[Your Contact Information]",
+          "linkedin_message": "Hi Caitlin, I’m impressed by the Tiffany holiday campaign \"Love is a Gift\" and would love to connect to learn more about your creative approach and upcoming projects at Anomaly."
+        }
+      ]
+    },
+    {
       "id": "art_b54bba45",
       "title": "FullBeauty’s deal with Destination XL, the revival of Matches Fashion, and the acceleration of fashion M&A",
       "url": "https://www.glossy.co/fashion/fullbeautys-deal-with-destination-xl-the-revival-of-matches-fashion-and-the-acceleration-of-fashion-ma/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -235,6 +542,184 @@
           "email_subject": "Walmart's Retail Media Growth and Advertising Innovation - Partnership Inquiry",
           "email_body": "Dear Mr. Rainey,\n\nCongratulations on Walmart's remarkable retail media growth and strategic investments in advertising technology. I would appreciate the opportunity to discuss how we can support Walmart's continued success in this space.\n\nThank you for your time and consideration.\n\nSincerely,\n[Your Name]",
           "linkedin_message": "Hello John, congrats on Walmart's retail media success. I'd like to explore ways we can support your advertising innovation efforts. Let's connect."
+        }
+      ]
+    },
+    {
+      "id": "art_adfa8e0a",
+      "title": "Heineken swaps voice notes for beer in latest bid for IRL connections",
+      "url": "https://www.marketingdive.com/news/heineken-swaps-voice-notes-for-beer-in-latest-bid-for-irl-connections/808131/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-18",
+      "summary": "Heineken launched \"Could Have Been A Heineken,\" a WhatsApp bot in Brazil that allows users who receive voice notes lasting three minutes or more to exchange them for a free beer voucher and local bar recommendations. The campaign aims to encourage in-person connections by addressing the rise in lengthy voice messages replacing face-to-face interactions. Supported by out-of-home and social media ads, the activation is based on research showing billions of daily WhatsApp voice messages and the growing preference for voice notes over in-person conversations.",
+      "categories": [
+        "food_and_beverage"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "sampling_program"
+      ],
+      "demo_tags": [
+        "brazil_consumers",
+        "whatsapp_users",
+        "socially_active_adults"
+      ],
+      "psych_tags": [
+        "social_connection_seekers",
+        "digital_detox_consumers",
+        "experiential_engagement"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Aaron Baar",
+          "title": "",
+          "company_name": "Marketing Dive",
+          "role_type": "author",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Aaron Baar",
+          "email_subject": "Inquiry about Heineken's 'Could Have Been A Heineken' WhatsApp Campaign",
+          "email_body": "Dear Aaron Baar,\n\nI recently read your article on Heineken's innovative WhatsApp campaign 'Could Have Been A Heineken' aimed at encouraging in-person connections by exchanging lengthy voice notes for free beer vouchers. I am interested in learning more about the campaign's execution, results, and future plans for expansion beyond Brazil.\n\nCould you please provide additional insights or connect me with the relevant marketing contacts at Heineken?\n\nThank you for your time and assistance.\n\nBest regards,\n[Your Name]\n[Your Company]\n[Your Contact Information]",
+          "linkedin_message": "Hi Aaron, I came across your article on Heineken's WhatsApp campaign promoting real-life connections. I'd love to connect and learn more about the campaign and any insights you might share. Thanks!"
+        }
+      ]
+    },
+    {
+      "id": "art_b4cbd147",
+      "title": "Cava experiments with social-first marketing via dating microseries",
+      "url": "https://www.marketingdive.com/news/cava-experiments-with-social-first-marketing-via-dating-microseries/808207/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-18",
+      "summary": "Mediterranean fast-casual chain Cava launched the second season of its social media-native dating show \"Bowlmates,\" increasing episodes and focusing on cross-promotion across its main social channels. The series is part of Cava's fan and creator-driven marketing strategy targeting Gen Z and millennials with organic social content emphasizing in-person dating experiences.",
+      "categories": [
+        "food_and_beverage"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "promotion_or_discount",
+        "other"
+      ],
+      "demo_tags": [
+        "gen_z",
+        "millennials",
+        "social_media_users",
+        "dating_show_viewers"
+      ],
+      "psych_tags": [
+        "social_first",
+        "organic_content",
+        "in_person_interactions",
+        "creator_driven"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Andrew Downing",
+          "title": "Director of Social",
+          "company_name": "Cava",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Brett Schulman",
+          "title": "CEO",
+          "company_name": "Cava Group",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Andrew Downing",
+          "email_subject": "Exploring Collaboration Opportunities with Cava's Social-First Marketing",
+          "email_body": "Hi Andrew,\n\nI recently read about Cava's innovative approach with the \"Bowlmates\" dating microseries and its focus on organic, social-first marketing targeting Gen Z and millennials. Your strategy of leveraging creator-driven content and emphasizing in-person interactions is impressive.\n\nI would love to discuss potential collaboration opportunities or learn more about how you are driving engagement through this campaign.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Andrew, I was impressed by Cava's social-first marketing with the \"Bowlmates\" series. I'd love to connect and explore potential collaboration opportunities."
+        },
+        {
+          "stakeholder_full_name": "Brett Schulman",
+          "email_subject": "Interest in Cava Group's Marketing Strategy and Future Campaigns",
+          "email_body": "Dear Brett,\n\nCongratulations on Cava Group's strong Q3 revenue growth and your efficient marketing strategy. The \"Bowlmates\" microseries campaign caught my attention as a fresh approach to engaging younger consumers.\n\nI am interested in discussing how your team plans to expand upper-funnel activities and explore synergies.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Brett, congrats on Cava Group's growth and innovative marketing. I'd appreciate the chance to discuss your future campaign plans."
+        }
+      ]
+    },
+    {
+      "id": "art_67ed8214",
+      "title": "Unilever’s top marketer to depart amid structural shakeup at CPG giant",
+      "url": "https://www.marketingdive.com/news/unilever-top-marketer-to-depart-amid-structural-shakeup-at-cpg-giant/808248/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-18",
+      "summary": "Unilever’s Chief Growth and Marketing Officer Esi Eggleston Bracey will leave at the end of January amid a structural shakeup aligning marketing and business groups. Leandro Barreto, current CMO of beauty and wellbeing, will expand his role enterprise-wide to accelerate brand desire at scale. Bracey's tenure included significant company changes such as restructuring, CEO transition, and integration of AI in marketing.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "cpg_marketers",
+        "brand_marketing_professionals"
+      ],
+      "psych_tags": [
+        "change_management",
+        "digital_transformation",
+        "purpose_led_marketing"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Esi Eggleston Bracey",
+          "title": "Chief Growth and Marketing Officer",
+          "company_name": "Unilever",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7407404601131356160/",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Leandro Barreto",
+          "title": "Chief Marketing Officer, Beauty and Wellbeing",
+          "company_name": "Unilever",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Fernando Fernandez",
+          "title": "Chief Executive Officer",
+          "company_name": "Unilever",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Esi Eggleston Bracey",
+          "email_subject": "Exploring Opportunities Post Your Tenure at Unilever",
+          "email_body": "Dear Ms. Bracey,\n\nCongratulations on your impactful tenure as Chief Growth and Marketing Officer at Unilever. Your leadership during significant transformations, including the integration of AI and purpose-led marketing, is truly inspiring. I would appreciate the opportunity to discuss potential collaborations or insights you might share as you transition to your next chapter.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Esi, congratulations on your remarkable leadership at Unilever. I’d love to connect and explore potential opportunities or share insights as you move forward in your career."
+        },
+        {
+          "stakeholder_full_name": "Leandro Barreto",
+          "email_subject": "Supporting Your Expanded Role at Unilever",
+          "email_body": "Dear Mr. Barreto,\n\nCongratulations on your expanded role as CMO enterprise-wide at Unilever. Your focus on accelerating brand desire at scale aligns with emerging marketing trends. I would welcome a chance to discuss how we might support your initiatives or collaborate on future marketing strategies.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Leandro, congrats on your new expanded role at Unilever. I’d be interested in connecting to discuss how we might support your marketing goals."
         }
       ]
     },
