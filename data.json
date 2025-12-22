@@ -1,6 +1,308 @@
 {
   "articles": [
     {
+      "id": "art_abf21448",
+      "title": "‘Moving even faster’: Target is stockpiling raw material and using AI to capitalize on trends as they come",
+      "url": "https://www.glossy.co/fashion/moving-even-faster-target-is-stockpiling-raw-material-and-using-ai-to-capitalize-on-trends-as-they-come/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-22T05:05:00Z",
+      "summary": "Target is accelerating its owned brand product development by predicting trends early, stockpiling raw materials, and leveraging generative AI called Trend Brain to analyze trend data. These strategies have led to up to 80% faster product turnaround and significant sales growth, with scouting trips and AI insights helping the company stay ahead in fashion trends.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "sampling_program"
+      ],
+      "demo_tags": [
+        "fashion_consumers",
+        "college_students",
+        "young_adults"
+      ],
+      "psych_tags": [
+        "trend_seekers",
+        "early_adopters",
+        "value_conscious"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Jenny Breeden",
+          "title": "SVP of Owned Brand Product Design and Packaging",
+          "company_name": "Target",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Bill Foudy",
+          "title": "SVP and President of Owned Brands",
+          "company_name": "Target",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Jenny Breeden",
+          "email_subject": "Exploring Collaboration Opportunities on Trend-Driven Product Launches at Target",
+          "email_body": "Dear Jenny Breeden,\n\nI recently read about Target's innovative approach to accelerating product development through early trend prediction, raw material stockpiling, and AI-driven insights. Your leadership in owned brand product design and packaging is clearly driving impressive results.\n\nI would love to discuss potential collaboration opportunities that could further enhance these strategies and support Target's growth in owned brands.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Jenny, I was impressed by Target's new strategies for faster product turnarounds using AI and trend scouting. I'd love to connect and explore ways we might collaborate."
+        },
+        {
+          "stakeholder_full_name": "Bill Foudy",
+          "email_subject": "Supporting Target's Owned Brands Growth with Innovative Marketing Solutions",
+          "email_body": "Dear Bill Foudy,\n\nCongratulations on the strides Target is making in growing its owned brands business. Your focus on merchandising, trend, design, and sourcing capabilities is inspiring.\n\nI am interested in discussing how we can support your team with innovative marketing and sampling programs to accelerate growth further.\n\nPlease let me know a convenient time to connect.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Bill, I admire Target's owned brands growth strategy and would like to connect to discuss how we can support your marketing initiatives."
+        }
+      ]
+    },
+    {
+      "id": "art_e91136ee",
+      "title": "Pandora is betting on AI agents to scale service and emotional selling during the peak holiday season",
+      "url": "https://www.glossy.co/fashion/pandora-is-betting-on-ai-agents-to-scale-service-and-emotional-selling-during-the-peak-holiday-season/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-22T05:02:00+00:00",
+      "summary": "Pandora has launched AI-powered service and sales agents, Clara and Gemma, to improve customer service efficiency and replicate emotional in-store selling online during peak holiday seasons. Clara handles 60% of customer inquiries, boosting customer satisfaction, while Gemma offers personalized, emotionally driven sales conversations to enhance online shopping experiences. These AI initiatives aim to maintain margins, scale service, and transform Pandora's digital sales approach.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "other"
+      ],
+      "demo_tags": [
+        "online_shoppers",
+        "holiday_shoppers"
+      ],
+      "psych_tags": [
+        "emotional_selling",
+        "tech_early_adopters",
+        "customer_experience_focused"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "David Walmsley",
+          "title": "CTO",
+          "company_name": "Pandora",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Alexander Lacik",
+          "title": "CEO",
+          "company_name": "Pandora",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "David Walmsley",
+          "email_subject": "Exploring AI-driven customer service innovations at Pandora",
+          "email_body": "Dear David Walmsley,\n\nI am reaching out to learn more about Pandora's innovative use of AI agents like Clara to enhance customer service efficiency and emotional selling during peak seasons. We are interested in understanding how these technologies have impacted customer satisfaction and operational scalability.\n\nLooking forward to the opportunity to discuss your AI initiatives further.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi David, I’m impressed by Pandora’s AI initiatives like Clara and Gemma to scale service and emotional selling. I’d love to connect and learn more about your approach to integrating AI in customer experience."
+        },
+        {
+          "stakeholder_full_name": "Alexander Lacik",
+          "email_subject": "Interest in Pandora’s AI-powered sales experience transformation",
+          "email_body": "Dear Alexander Lacik,\n\nCongratulations on Pandora’s pioneering efforts with AI agents to replicate in-store emotional selling online. I am keen to explore how Gemma is shaping the future of digital sales and customer engagement at Pandora.\n\nWould you be open to a conversation about your AI strategy and its impact on the business?\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Alexander, I admire Pandora’s vision to transform online sales with AI agents like Gemma. I’d appreciate the chance to connect and discuss your innovative digital sales strategies."
+        }
+      ]
+    },
+    {
+      "id": "art_48cf75e3",
+      "title": "Read my lips: How lip products saved makeup in 2025",
+      "url": "https://www.glossy.co/beauty/read-my-lips-how-lip-products-saved-makeup-in-2025/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-22",
+      "summary": "In 2025, while overall makeup sales remained stagnant, lip products such as sculpting lip liners and glossy lip oils emerged as the key growth drivers in the beauty category. Fara Homidi's Faun lip liner became a best-seller, reflecting consumer interest in innovative lip products and multi-layered lip looks. The trend aligns with a broader shift towards natural, skin-like makeup and affordability, with lip products outperforming other color cosmetics. Experts forecast a makeup revolution with a return to fun, colorful, and high-performance lip products in 2026.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "product_launch"
+      ],
+      "demo_tags": [
+        "female",
+        "beauty_consumers",
+        "makeup_users"
+      ],
+      "psych_tags": [
+        "trend_sensitive",
+        "natural_look_seekers",
+        "affordability_focused"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Fara Homidi",
+          "title": "Founder",
+          "company_name": "Faun",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Larissa Jensen",
+          "title": "SVP and Global Beauty Industry Advisor",
+          "company_name": "Circana",
+          "role_type": "industry_analyst",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Lisa Payne",
+          "title": "Head of Beauty",
+          "company_name": "Stylus",
+          "role_type": "trend_forecaster",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Fara Homidi",
+          "email_subject": "Exploring Opportunities with Faun's Innovative Lip Products",
+          "email_body": "Dear Fara Homidi,\n\nI recently read about Faun's success with the Smudge & Contour Lip Pencil and your innovative approach to lip products. We are interested in exploring potential collaborations or sampling programs to bring your unique lip liner and plumping oil to a wider audience.\n\nPlease let us know if you would be open to discussing this further.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Fara, I was impressed by Faun's innovative lip products featured in Glossy. I'd love to connect and explore potential collaboration opportunities."
+        },
+        {
+          "stakeholder_full_name": "Larissa Jensen",
+          "email_subject": "Insights on Beauty Trends and Lip Product Growth",
+          "email_body": "Dear Larissa Jensen,\n\nYour insights on the growth of lip products and the skinification trend in 2025 were very enlightening. We would appreciate the opportunity to discuss how these trends could inform our upcoming product launches and marketing strategies.\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Larissa, I found your analysis on lip product trends very insightful. I'd like to connect and discuss how these insights could benefit our brand."
+        },
+        {
+          "stakeholder_full_name": "Lisa Payne",
+          "email_subject": "Discussing the Future of Colorful Lip Products",
+          "email_body": "Dear Lisa Payne,\n\nYour forecast about the makeup revolution and the return of colorful, high-performance lip products caught our attention. We are keen to learn more about these trends and explore how we might align our product development accordingly.\n\nPlease let me know if you are available for a conversation.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Lisa, I enjoyed your forecast on the future of lip products. I'd love to connect and discuss potential trend-driven product ideas."
+        }
+      ]
+    },
+    {
+      "id": "art_be021315",
+      "title": "Inside Rocket’s new NFL campaign as in-house creative team embraces AI",
+      "url": "https://www.marketingdive.com/news/inside-rockets-new-nfl-campaign-as-in-house-creative-team-embraces-ai/808395/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-22",
+      "summary": "Rocket Mortgage launched a new NFL campaign titled “Room to Dream,” featuring Detroit Lions running back Jahmyr Gibbs. The 30-second ad, debuting on Netflix during the Christmas Day game, highlights the brand's focus on home ownership as the American dream. The campaign was developed by Rocket's in-house creative team, Dream Factory, which is also embracing AI to enhance creative processes. The campaign builds on a platform that started at the Super Bowl and leverages Netflix's large audience to reach consumers effectively.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "announcement"
+      ],
+      "demo_tags": [
+        "sports_fans",
+        "home_owners",
+        "football_viewers"
+      ],
+      "psych_tags": [
+        "dream_oriented",
+        "tech_adopters",
+        "creative_marketers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Rego Marquiis",
+          "title": "Executive Creative Director",
+          "company_name": "Rocket Companies",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Peter Giorgi",
+          "title": "Senior Vice President of Brand Marketing",
+          "company_name": "Rocket Companies",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Rego Marquiis",
+          "email_subject": "Inquiry About Rocket Companies' NFL Campaign and AI Integration",
+          "email_body": "Dear Rego Marquiis,\n\nI recently read about Rocket Companies' new NFL campaign \"Room to Dream\" and your innovative use of AI within the Dream Factory creative team. I am very interested in learning more about how AI is shaping your creative processes and the impact it has had on campaign effectiveness.\n\nWould you be open to a brief conversation to discuss your approach and insights?\n\nThank you for your time and consideration.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Rego, I was impressed by Rocket Companies' new NFL campaign and your team's integration of AI in creative development. I'd love to connect and learn more about your approach."
+        },
+        {
+          "stakeholder_full_name": "Peter Giorgi",
+          "email_subject": "Exploring Rocket Companies' Brand Marketing Strategy for NFL Campaign",
+          "email_body": "Dear Peter Giorgi,\n\nI came across the recent launch of Rocket Companies' NFL campaign \"Room to Dream\" and your comments on leveraging Netflix's platform to reach audiences. I am interested in understanding your brand marketing strategy and how you balance creative simplicity with audience engagement.\n\nWould you be available for a short discussion?\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Peter, I enjoyed reading about Rocket Companies' NFL campaign and your strategic use of Netflix for audience reach. I'd appreciate the opportunity to connect and discuss your marketing insights."
+        }
+      ]
+    },
+    {
+      "id": "art_53057255",
+      "title": "How generative AI upends the brand crisis playbook",
+      "url": "https://www.marketingdive.com/news/how-generative-ai-upends-the-brand-crisis-playbook/808314/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-22",
+      "summary": "The article discusses how generative AI changes the traditional brand crisis management playbook, using the recent Campbell’s Soup controversy as a case study. It highlights how AI platforms amplify negative narratives faster and longer than traditional media, making it critical for brands to proactively manage their online presence and AI-generated content to protect reputation.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [
+        "brand_managers",
+        "marketing_professionals",
+        "corporate_leaders"
+      ],
+      "psych_tags": [
+        "reputation_management",
+        "crisis_response",
+        "ai_aware_consumers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Shannon Reedy",
+          "title": "Chief Brand Officer",
+          "company_name": "Terakeet",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Shannon Reedy",
+          "email_subject": "Exploring AI's Impact on Brand Crisis Management",
+          "email_body": "Dear Shannon Reedy,\n\nI recently read your insightful article on how generative AI is reshaping the brand crisis playbook, particularly the Campbell’s Soup case. Your perspective on proactive reputation management in the AI era is compelling. I would love to discuss potential collaboration opportunities or learn more about Terakeet's approach to AI-driven brand strategy.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Shannon, I enjoyed your article on generative AI and brand crisis management. I'd appreciate the opportunity to connect and discuss how AI is influencing brand strategies today."
+        }
+      ]
+    },
+    {
       "id": "art_64aed825",
       "title": "The campaigns that caught marketers’ attention in 2025",
       "url": "https://www.glossy.co/beauty/the-moments-that-caught-marketers-attention-in-2025/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
