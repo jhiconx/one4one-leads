@@ -1,6 +1,327 @@
 {
   "articles": [
     {
+      "id": "art_2dda72c6",
+      "title": "How consumer demand for value is changing beauty shopping",
+      "url": "https://www.glossy.co/beauty/how-consumer-demand-for-value-is-changing-beauty-shopping/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-23T05:05:00+00:00",
+      "summary": "In 2025, consumers pulled back on discretionary spending due to tariffs, inflation, and job insecurity, leading to a shift in how value is perceived in beauty shopping. Executives recalibrated strategies to emphasize value, with brands like Church & Dwight and MCo North America focusing on affordability and quality. The trend of trading down or trading up to value buys is expected to continue, with categories like fragrance seeing growth in both prestige and mass segments. Gen Z consumers are embracing affordable luxury and dupes as smart choices.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "other"
+      ],
+      "demo_tags": [
+        "gen_z",
+        "value_driven_consumers",
+        "beauty_consumers"
+      ],
+      "psych_tags": [
+        "value_seeking",
+        "affordable_luxury",
+        "treat_yourself"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Stacey Ramstedt",
+          "title": "CMO",
+          "company_name": "Church & Dwight",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Meridith Rojas",
+          "title": "CMO",
+          "company_name": "MCo North America",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Larissa Jensen",
+          "title": "SVP and Global Beauty Industry Advisor",
+          "company_name": "Circana",
+          "role_type": "industry_advisor",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Stacey Ramstedt",
+          "email_subject": "Exploring Value-Driven Beauty Marketing Strategies with Church & Dwight",
+          "email_body": "Dear Stacey Ramstedt,\n\nI recently read about how Church & Dwight is successfully emphasizing value in beauty marketing amidst changing consumer spending habits. I would love to discuss potential collaboration opportunities or learn more about your approach to value-driven campaigns, especially how you shifted media focus to highlight product worth.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Stacey, I was impressed by Church & Dwight's strategy to emphasize value in beauty marketing. I'd love to connect and learn more about your approach."
+        },
+        {
+          "stakeholder_full_name": "Meridith Rojas",
+          "email_subject": "Discussing Affordable Luxury and Dupes in Beauty with MCo North America",
+          "email_body": "Dear Meridith Rojas,\n\nYour insights on affordable luxury and the growing acceptance of dupes in the beauty market caught my attention. I am interested in exploring how MCo North America is leveraging this trend and would appreciate the opportunity to discuss potential partnership or marketing initiatives.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Meridith, I enjoyed reading about MCo's success with affordable luxury and dupes. I'd love to connect and discuss potential synergies."
+        },
+        {
+          "stakeholder_full_name": "Larissa Jensen",
+          "email_subject": "Insights on Beauty Industry Trends and Consumer Value Perception",
+          "email_body": "Dear Larissa Jensen,\n\nYour analysis on the beauty industry's resilience and consumer value perception was very insightful. I would appreciate the chance to discuss the evolving trends and how brands can better align with consumer expectations in 2026.\n\nThank you for your time.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Larissa, I found your insights on beauty industry trends and consumer value perception very valuable. I'd like to connect and discuss further."
+        }
+      ]
+    },
+    {
+      "id": "art_5f7f99fa",
+      "title": "Beauty Briefing: The trends set to shape the fragrance market in 2026",
+      "url": "https://www.glossy.co/beauty/beauty-briefing-the-trends-set-to-shape-the-fragrance-market-in-2026/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-23",
+      "summary": "The fragrance market in 2026 is expected to be shaped by Asian brands, savory aromas, and Gen Alpha consumers. Niche perfume brands like Venue, D’Annam, and Toouch are gaining global traction with curated, boutique approaches. Major conglomerates are investing in emerging brands, while indie retailers and experiential marketing are growing in importance. The gourmand fragrance category is expanding to include savory notes. Executive moves include new C-suite appointments at Sacheu and Coty, and Pat McGrath Labs' assets are up for sale.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "gen_alpha",
+        "young_consumers",
+        "niche_perfume_consumers",
+        "indie_retailers"
+      ],
+      "psych_tags": [
+        "curator_first",
+        "boutique_shoppers",
+        "savory_aroma_lovers",
+        "gourmand_fragrance_fans"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Daphne Pham",
+          "title": "Co-founder",
+          "company_name": "Venue",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Carlos Huber",
+          "title": "Founder",
+          "company_name": "Arquiste",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Chloé Prigent",
+          "title": "Manager",
+          "company_name": "D’Orsay",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Michelle Miller",
+          "title": "Chief Marketing Officer",
+          "company_name": "Sacheu",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Leandro Barreto",
+          "title": "Chief Marketing Officer",
+          "company_name": "Unilever",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Ariadne Oliveira",
+          "title": "Vice President of Marketing Innovation, Global Professional Hair",
+          "company_name": "Revlon",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Daphne Pham",
+          "email_subject": "Exploring Collaboration Opportunities with Venue's Curated Fragrance Approach",
+          "email_body": "Dear Daphne Pham,\n\nI recently read about Venue's unique curator-first distribution strategy and its promising position in the 2026 fragrance market. We are interested in exploring potential collaboration opportunities that align with your brand's values and sensibility.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Daphne, I admire Venue's curated approach to fragrance distribution and would love to discuss potential collaboration opportunities. Let's connect!"
+        },
+        {
+          "stakeholder_full_name": "Carlos Huber",
+          "email_subject": "Interest in Arquiste's Niche Fragrance Innovations",
+          "email_body": "Dear Carlos Huber,\n\nYour work with Arquiste and the expansion into savory gourmand fragrances caught my attention. I would appreciate the opportunity to discuss how we might support or collaborate on upcoming launches.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Carlos, I’m impressed by Arquiste’s innovative fragrance launches and would love to explore ways we can collaborate. Let's connect!"
+        },
+        {
+          "stakeholder_full_name": "Chloé Prigent",
+          "email_subject": "Discussing Regional Exclusives and Limited-Edition Launches at D’Orsay",
+          "email_body": "Dear Chloé Prigent,\n\nI was intrigued by D’Orsay’s focus on regional exclusives and limited-edition fragrances for 2026. I would like to discuss potential partnership or marketing opportunities to support these initiatives.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Chloé, I’m interested in D’Orsay’s strategy for regional exclusives and limited editions. Would love to connect and discuss potential collaborations."
+        },
+        {
+          "stakeholder_full_name": "Michelle Miller",
+          "email_subject": "Congratulations on Your New Role at Sacheu and Potential Marketing Synergies",
+          "email_body": "Dear Michelle Miller,\n\nCongratulations on your appointment as Sacheu’s first CMO. I am keen to explore how we might collaborate to amplify Sacheu’s marketing initiatives.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Michelle, congrats on your new role at Sacheu! I’d love to connect and explore potential marketing collaborations."
+        },
+        {
+          "stakeholder_full_name": "Leandro Barreto",
+          "email_subject": "Exploring Marketing Innovation Opportunities at Unilever",
+          "email_body": "Dear Leandro Barreto,\n\nWith your upcoming role as CMO at Unilever, I am interested in discussing innovative marketing strategies and potential partnership opportunities.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Leandro, congrats on your new role at Unilever! I’d love to connect and discuss innovative marketing opportunities."
+        },
+        {
+          "stakeholder_full_name": "Ariadne Oliveira",
+          "email_subject": "Potential Collaboration on Marketing Innovation at Revlon",
+          "email_body": "Dear Ariadne Oliveira,\n\nI was excited to learn about your role at Revlon focusing on marketing innovation. I would appreciate the chance to discuss potential collaboration opportunities.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Ariadne, I’m interested in your work on marketing innovation at Revlon and would love to connect to explore collaboration possibilities."
+        }
+      ]
+    },
+    {
+      "id": "art_16fe106b",
+      "title": "Inside Huckberry’s year of channel expansion, from owned stores to United Airlines",
+      "url": "https://www.glossy.co/fashion/inside-huckberrys-year-of-channel-expansion-from-owned-stores-to-united-airlines/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-23",
+      "summary": "In 2025, Huckberry expanded its channels by opening permanent physical retail stores for the first time and growing its content offerings, including Netflix-ready video series available on YouTube and United Airlines flights. The Austin-based menswear retailer, led by founders Andy Forch and Richard Greiner, grew its e-commerce sales and successfully launched stores in Washington, D.C. and Chicago, with plans for further expansion. Huckberry integrates storytelling and media with product, hosting events and interactive experiences in stores, and targets a primarily male audience with a focus on everyday adventure.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "male",
+        "menswear_consumers",
+        "outdoor_adventure_enthusiasts"
+      ],
+      "psych_tags": [
+        "community_focused",
+        "storytelling_enthusiasts",
+        "aspirational_but_approachable"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Andy Forch",
+          "title": "Founder",
+          "company_name": "Huckberry",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Richard Greiner",
+          "title": "Founder",
+          "company_name": "Huckberry",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Ben O’Meara",
+          "title": "Chief Brand Officer",
+          "company_name": "Huckberry",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Andy Forch",
+          "email_subject": "Exploring Collaboration Opportunities with Huckberry’s Channel Expansion",
+          "email_body": "Hi Andy,\n\nI was impressed by Huckberry’s innovative approach to channel expansion in 2025, especially the integration of storytelling and physical retail. I would love to discuss potential collaboration opportunities that could complement your growth strategy and enhance customer engagement.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Andy, I admire Huckberry’s unique channel expansion strategy and would love to connect to explore potential collaboration opportunities."
+        },
+        {
+          "stakeholder_full_name": "Richard Greiner",
+          "email_subject": "Potential Partnership to Support Huckberry’s Marketing and Retail Growth",
+          "email_body": "Hello Richard,\n\nCongratulations on Huckberry’s successful channel expansion this year. Your focus on storytelling and customer-driven retail growth is inspiring. I would appreciate the chance to discuss how we might support your marketing and retail initiatives.\n\nBest,\n[Your Name]",
+          "linkedin_message": "Hi Richard, congrats on Huckberry’s growth! I’d like to connect and discuss ways to support your marketing and retail efforts."
+        },
+        {
+          "stakeholder_full_name": "Ben O’Meara",
+          "email_subject": "Collaboration Inquiry Regarding Huckberry’s Brand and Content Strategy",
+          "email_body": "Dear Ben,\n\nI enjoyed reading about Huckberry’s content-driven brand strategy and its impact on customer engagement. I’m interested in exploring collaboration opportunities that align with your brand vision and media initiatives.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Ben, I’m impressed by Huckberry’s brand and content strategy and would love to connect to explore collaboration possibilities."
+        }
+      ]
+    },
+    {
+      "id": "art_d960dcd7",
+      "title": "Lexus takes generative AI for a spin in new holiday marketing content",
+      "url": "https://www.marketingdive.com/news/lexus-takes-generative-ai-for-a-spin-in-new-holiday-marketing-content/808424/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-23",
+      "summary": "Lexus debuted a holiday marketing campaign titled “Built for Every Kind of Wonder,” developed with AKQA using generative AI to create surreal seasonal imagery. The video will run on Lexus' digital and social channels in EMEA, showcasing the potential of AI in efficient, effects-heavy storytelling. The campaign highlights the brand's positioning and reflects growing experimentation with generative AI in marketing despite mixed consumer sentiment.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [
+        "ai_early_adopters",
+        "holiday_shoppers",
+        "luxury_consumers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Rudy Boeman",
+          "title": "Brand and Communications Manager, EMEA",
+          "company_name": "Lexus",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Rudy Boeman",
+          "email_subject": "Inquiry About Lexus' Generative AI Holiday Campaign",
+          "email_body": "Dear Rudy Boeman,\n\nI recently came across Lexus' innovative holiday marketing campaign \"Built for Every Kind of Wonder,\" developed with AKQA using generative AI. I am very interested in learning more about how Lexus is leveraging AI technology in its marketing efforts and the impact it has had on your brand communications.\n\nCould we schedule a time to discuss the campaign's development process and any insights you might share about integrating generative AI in luxury brand marketing?\n\nThank you for your time and consideration.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+          "linkedin_message": "Hi Rudy, I was impressed by Lexus' recent holiday campaign using generative AI. I'd love to connect and learn more about your approach to integrating AI in brand communications."
+        }
+      ]
+    },
+    {
       "id": "art_abf21448",
       "title": "‘Moving even faster’: Target is stockpiling raw material and using AI to capitalize on trends as they come",
       "url": "https://www.glossy.co/fashion/moving-even-faster-target-is-stockpiling-raw-material-and-using-ai-to-capitalize-on-trends-as-they-come/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -299,6 +620,92 @@
           "email_subject": "Exploring AI's Impact on Brand Crisis Management",
           "email_body": "Dear Shannon Reedy,\n\nI recently read your insightful article on how generative AI is reshaping the brand crisis playbook, particularly the Campbell’s Soup case. Your perspective on proactive reputation management in the AI era is compelling. I would love to discuss potential collaboration opportunities or learn more about Terakeet's approach to AI-driven brand strategy.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
           "linkedin_message": "Hi Shannon, I enjoyed your article on generative AI and brand crisis management. I'd appreciate the opportunity to connect and discuss how AI is influencing brand strategies today."
+        }
+      ]
+    },
+    {
+      "id": "art_2a24bed5",
+      "title": "Horizon introduces open ad tech partnership network",
+      "url": "https://www.marketingdive.com/news/horizon-introduces-an-open-ad-tech-partnership-network/808397/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-22",
+      "summary": "Horizon Media has launched HorizonOS, an open ad tech ecosystem that allows clients to create marketing products with various vendors. Clients like Tropical Smoothie Cafe and Orkin have started using the platform, which includes partners such as ID5, ZeroToOne, Kargo, The Trade Desk, Smartly, Vidmob, and Newton Research. Horizon also introduced Horizon Labs, an innovation accelerator to test and scale new marketing capabilities.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [
+        "marketing_technology_adopters",
+        "agency_clients"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Bob Lord",
+          "title": "President",
+          "company_name": "Horizon Media Holdings",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Bob Lord",
+          "email_subject": "Explore Partnership Opportunities with HorizonOS - Open Ad Tech Ecosystem",
+          "email_body": "Dear Bob Lord,\n\nI recently read about Horizon Media's launch of HorizonOS, an innovative open ad tech partnership network that empowers clients with greater control and choice. Given your leadership as President at Horizon Media Holdings, I would love to discuss how our solutions could complement HorizonOS and support your clients like Tropical Smoothie Cafe and Orkin.\n\nLooking forward to the opportunity to connect.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Bob, I was impressed by Horizon Media's launch of HorizonOS and its open ecosystem approach. I'd appreciate the chance to connect and explore potential synergies."
+        }
+      ]
+    },
+    {
+      "id": "art_4a3f83f1",
+      "title": "Listerine turns mouthwashing sounds into music with Twitch creators",
+      "url": "https://www.marketingdive.com/news/listerine-turns-mouthwashing-sounds-into-music-with-twitch-creators/808479/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-22",
+      "summary": "Listerine is partnering with Twitch streamers to create music from the sounds of using its mouthwash products. The campaign includes four livestreams on Twitch, culminating in a collaborative song that will be used in an Amazon Ads audio campaign. The initiative supports the \"Wash Your Mouth Your Way\" campaign with paid media placements on Twitch and targeted display and brand spots, aiming to engage Gen Z consumers with a social-first marketing approach.",
+      "categories": [
+        "food_and_beverage"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation",
+        "promotion_or_discount"
+      ],
+      "demo_tags": [
+        "gen_z",
+        "social_media_users",
+        "twitch_viewers"
+      ],
+      "psych_tags": [
+        "music_lovers",
+        "creative_consumers",
+        "health_and_wellness_consumers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "",
+          "title": "",
+          "company_name": "Kenvue",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "",
+          "email_subject": "Collaboration Opportunity: Listerine's Innovative Twitch Campaign",
+          "email_body": "Hello,\n\nI am reaching out to discuss the exciting new campaign where Listerine is partnering with Twitch creators to turn mouthwashing sounds into music. We believe this innovative approach aligns perfectly with engaging Gen Z and social-first audiences. We would love to explore potential collaboration opportunities or learn more about your marketing initiatives related to this campaign.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi, I wanted to connect regarding Listerine's unique campaign with Twitch creators turning mouthwash sounds into music. Would love to discuss potential collaboration or learn more about your marketing efforts."
         }
       ]
     },
