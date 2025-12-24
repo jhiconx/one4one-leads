@@ -1,6 +1,253 @@
 {
   "articles": [
     {
+      "id": "art_2dc07a9f",
+      "title": "In 2025, luxury fashion’s AI marketing experiments hit a turning point",
+      "url": "https://www.glossy.co/fashion/luxury/luxury-fashions-ai-marketing-experiments-hit-a-turning-point/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-24T05:05:00+00:00",
+      "summary": "In 2025, luxury fashion brands experimented extensively with generative AI in marketing, scaling AI-generated imagery to meet growing content demands. However, consumer backlash, exemplified by Valentino's criticized AI-generated video campaign, highlighted limits to acceptance. Brands are cautiously integrating AI as a supplement to traditional campaigns, especially for e-commerce content, aiming to extend and scale creative output without replacing human artistry.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "other"
+      ],
+      "demo_tags": [
+        "luxury_consumers",
+        "fashion_consumers"
+      ],
+      "psych_tags": [
+        "tech_savvy",
+        "early_adopters",
+        "value_authenticity"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Jill Assemota",
+          "title": "Founder",
+          "company_name": "Parallel Pictures",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Dr. Rebecca Swift",
+          "title": "SVP of Creative",
+          "company_name": "Getty Images",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Jill Assemota",
+          "email_subject": "Exploring AI Integration in Luxury Fashion Marketing",
+          "email_body": "Dear Jill Assemota,\n\nI recently read about Parallel Pictures' innovative use of AI-generated imagery to extend luxury fashion campaigns. We are interested in learning more about your approach to integrating AI as a supplement to traditional content production and how it can help brands scale creative output effectively.\n\nWould you be open to a conversation about potential collaboration or insights you could share?\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Jill, I’m impressed by Parallel Pictures’ work with AI in luxury fashion marketing. I’d love to connect and learn more about your approach to scaling creative content with AI."
+        },
+        {
+          "stakeholder_full_name": "Dr. Rebecca Swift",
+          "email_subject": "Insights on Consumer Perceptions of AI in Luxury Marketing",
+          "email_body": "Dear Dr. Swift,\n\nYour commentary on consumer reactions to AI-generated content in luxury marketing, especially regarding authenticity and value, was very insightful. I am keen to discuss how brands can balance AI innovation with consumer expectations.\n\nWould you be available for a brief discussion?\n\nThank you,\n[Your Name]",
+          "linkedin_message": "Hello Dr. Swift, I found your insights on consumer perceptions of AI in luxury marketing very enlightening. I’d appreciate the opportunity to connect and discuss this further."
+        }
+      ]
+    },
+    {
+      "id": "art_03fe76f0",
+      "title": "How resale became the first place shoppers looked in 2025",
+      "url": "https://www.glossy.co/fashion/how-resale-became-the-first-place-shoppers-look-in-2025/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-24T05:03:00+00:00",
+      "summary": "In 2025, resale has become the primary shopping option for many consumers, driven by rising prices, faster trend cycles, and demand for transparency. Platforms like The RealReal, Vestiaire Collective, and eBay have transformed resale into a measurable market with data-driven tools, influencers, and AI-powered comparison shopping apps like Phia. Resale is now a key driver in fashion, especially in luxury categories, with significant growth in active buyers and gross merchandise value.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "other"
+      ],
+      "demo_tags": [
+        "gen_z_women",
+        "millennial_women",
+        "luxury_consumers",
+        "secondhand_shoppers"
+      ],
+      "psych_tags": [
+        "value_seekers",
+        "sustainability_minded",
+        "trend_aware",
+        "anti_algorithmic_sameness"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Rati Levesque",
+          "title": "CEO",
+          "company_name": "The RealReal",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Kate Sanner",
+          "title": "Founder",
+          "company_name": "Beni",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Peter Semple",
+          "title": "CEO",
+          "company_name": "Depop",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Phoebe Gates",
+          "title": "Co-founder",
+          "company_name": "Phia",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Sofia Kianni",
+          "title": "Co-founder",
+          "company_name": "Phia",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Kirsty Keoghan",
+          "title": "Global GM of Fashion",
+          "company_name": "eBay",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Rati Levesque",
+          "email_subject": "Exploring Collaboration Opportunities with The RealReal on Resale Trends",
+          "email_body": "Dear Rati Levesque,\n\nI was impressed by your insights on how resale is reshaping shopping behaviors in 2025. We are interested in exploring potential collaboration opportunities that leverage The RealReal's leadership in the resale market. Could we schedule a time to discuss?\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Rati, I enjoyed reading about The RealReal's impact on resale shopping trends. I'd love to connect and explore potential collaboration opportunities."
+        },
+        {
+          "stakeholder_full_name": "Kate Sanner",
+          "email_subject": "Innovative Resale Search Solutions - Potential Partnership",
+          "email_body": "Hi Kate,\n\nYour work with Beni and the innovative approach to resale search is inspiring. We believe there could be synergies between our efforts and would like to discuss how we might work together.\n\nLooking forward to your thoughts,\n[Your Name]",
+          "linkedin_message": "Hi Kate, I admire Beni's approach to resale search. Let's connect to discuss potential partnership opportunities."
+        },
+        {
+          "stakeholder_full_name": "Peter Semple",
+          "email_subject": "Discussing Resale Market Growth and Collaboration with Depop",
+          "email_body": "Dear Peter,\n\nDepop's growth and influence in the resale market are remarkable. We are keen to explore ways to collaborate and support this momentum. Would you be open to a conversation?\n\nBest,\n[Your Name]",
+          "linkedin_message": "Hi Peter, Depop's role in driving resale market growth is impressive. I'd like to connect and discuss collaboration possibilities."
+        },
+        {
+          "stakeholder_full_name": "Phoebe Gates",
+          "email_subject": "AI-Powered Shopping Innovations - Collaboration Inquiry",
+          "email_body": "Hi Phoebe,\n\nPhia's AI-powered shopping app is a game changer in resale and primary market comparison. We are interested in discussing potential collaboration opportunities.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Phoebe, Phia's AI innovations in shopping are impressive. Let's connect to explore collaboration."
+        },
+        {
+          "stakeholder_full_name": "Sofia Kianni",
+          "email_subject": "Exploring Partnership Opportunities with Phia",
+          "email_body": "Dear Sofia,\n\nI was fascinated by Phia's approach to integrating resale value into shopping decisions. I would love to discuss how we might collaborate.\n\nBest wishes,\n[Your Name]",
+          "linkedin_message": "Hi Sofia, Phia's work on resale value integration is inspiring. Let's connect to discuss partnership opportunities."
+        },
+        {
+          "stakeholder_full_name": "Kirsty Keoghan",
+          "email_subject": "Collaboration on Luxury Resale Market Initiatives",
+          "email_body": "Dear Kirsty,\n\neBay's leadership in authenticating and supporting luxury resale is impressive. We are interested in exploring collaboration opportunities to further enhance the resale experience.\n\nLooking forward to your response,\n[Your Name]",
+          "linkedin_message": "Hi Kirsty, I admire eBay's efforts in luxury resale authentication. I'd like to connect and explore collaboration."
+        }
+      ]
+    },
+    {
+      "id": "art_a8c11407",
+      "title": "Medicube’s founder on the products and people that fueled the brand’s booming year",
+      "url": "https://www.glossy.co/beauty/medicubes-founder-on-the-products-and-people-that-fueled-the-k-beauty-brands-booming-year/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-24T05:00:00+00:00",
+      "summary": "Medicube, founded by Kim Byung-Hoon, has experienced significant growth in 2025, driven by its skin-care devices like the Booster Pro and strategic celebrity endorsements including Hailey Bieber and Kylie Jenner. The brand achieved $666 million in revenue in the first three quarters, with strong sales during Amazon Prime Day and Black Friday, and plans to expand its device offerings in 2026.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "skincare_consumers",
+        "beauty_device_users",
+        "k_beauty_fans"
+      ],
+      "psych_tags": [
+        "tech_savvy",
+        "celebrity_influenced",
+        "trend_followers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Kim Byung-Hoon",
+          "title": "Founder",
+          "company_name": "Medicube / APR Corp",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Sir John",
+          "title": "Creative Director",
+          "company_name": "Medicube",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Kim Byung-Hoon",
+          "email_subject": "Exploring Partnership Opportunities with Medicube's Innovative Skincare Devices",
+          "email_body": "Dear Mr. Kim Byung-Hoon,\n\nI am reaching out to express interest in Medicube's impressive growth and innovative skincare devices, particularly the Booster Pro. We believe there are exciting opportunities for collaboration to further amplify your brand's reach and consumer engagement. I would love to discuss potential partnership or sampling programs that align with your expansion plans.\n\nLooking forward to your thoughts.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hello Mr. Kim, I admire Medicube's rapid growth and innovative products. I'd love to connect and explore potential collaboration opportunities to support your brand's expansion."
+        },
+        {
+          "stakeholder_full_name": "Sir John",
+          "email_subject": "Collaboration Inquiry Regarding Medicube's Marketing and Product Development",
+          "email_body": "Dear Sir John,\n\nCongratulations on your role as Creative Director at Medicube. Your influence in marketing and product development is inspiring. I am interested in discussing ways we might collaborate on experiential activations or sampling campaigns to further engage your target audience.\n\nPlease let me know if you are open to a conversation.\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Sir John, congratulations on your role at Medicube. I would love to connect and discuss potential marketing collaborations to support your exciting initiatives."
+        }
+      ]
+    },
+    {
       "id": "art_2dda72c6",
       "title": "How consumer demand for value is changing beauty shopping",
       "url": "https://www.glossy.co/beauty/how-consumer-demand-for-value-is-changing-beauty-shopping/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
@@ -318,6 +565,42 @@
           "email_subject": "Inquiry About Lexus' Generative AI Holiday Campaign",
           "email_body": "Dear Rudy Boeman,\n\nI recently came across Lexus' innovative holiday marketing campaign \"Built for Every Kind of Wonder,\" developed with AKQA using generative AI. I am very interested in learning more about how Lexus is leveraging AI technology in its marketing efforts and the impact it has had on your brand communications.\n\nCould we schedule a time to discuss the campaign's development process and any insights you might share about integrating generative AI in luxury brand marketing?\n\nThank you for your time and consideration.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
           "linkedin_message": "Hi Rudy, I was impressed by Lexus' recent holiday campaign using generative AI. I'd love to connect and learn more about your approach to integrating AI in brand communications."
+        }
+      ]
+    },
+    {
+      "id": "art_c2ca3dd6",
+      "title": "Nielsen, Roku deepen data-sharing pact to enhance streaming measurement",
+      "url": "https://www.marketingdive.com/news/nielsen-roku-deepen-data-sharing-pact-to-enhance-streaming-measurement/808585/",
+      "source": "Marketing Dive - Latest News",
+      "published_at": "2025-12-23",
+      "summary": "Nielsen and Roku have expanded their multiyear data-sharing partnership to enhance streaming measurement. Nielsen will continue to receive Roku's connected TV data for its Big Data + Panel measurement product, while Roku gains access to Nielsen's streaming platform ratings. This collaboration aims to provide marketers with granular insights in the fragmented streaming and connected TV market.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "announcement"
+      ],
+      "demo_tags": [],
+      "psych_tags": [],
+      "stakeholders": [
+        {
+          "full_name": "Ameneh Atai",
+          "title": "General Manager of Audience Measurement",
+          "company_name": "Nielsen",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Ameneh Atai",
+          "email_subject": "Exploring Opportunities in Enhanced Streaming Measurement Partnership",
+          "email_body": "Dear Ameneh Atai,\n\nI recently read about the expanded data-sharing partnership between Nielsen and Roku to enhance streaming measurement. This collaboration presents exciting opportunities to provide marketers with more granular insights in the connected TV space. I would love to discuss how we might support or collaborate on initiatives related to this partnership.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Ameneh, I saw the news about Nielsen and Roku deepening their data-sharing pact to enhance streaming measurement. I'd be interested in discussing potential collaboration opportunities related to this initiative. Looking forward to connecting!"
         }
       ]
     },
