@@ -1,6 +1,153 @@
 {
   "articles": [
     {
+      "id": "art_94b4b78a",
+      "title": "The K-shaped economy is forcing luxury brands to pick a side",
+      "url": "https://www.glossy.co/fashion/luxury/the-k-shaped-economy-is-forcing-luxury-brands-to-pick-a-side/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-26T05:04:00+00:00",
+      "summary": "The article discusses how the K-shaped economy is polarizing the luxury fashion market, with spending rising at the top end and value-focused retailers doing well, while the middle market struggles. Luxury brands are adapting by rethinking pricing, assortment, and experiential retail strategies to cater to affluent consumers and create accessible entry points for aspirational buyers.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "other"
+      ],
+      "demo_tags": [
+        "affluent_consumers",
+        "value_shoppers",
+        "luxury_consumers"
+      ],
+      "psych_tags": [
+        "aspirational",
+        "experience_seekers",
+        "personalization_seekers"
+      ],
+      "stakeholders": [],
+      "outreach_templates": []
+    },
+    {
+      "id": "art_9d036425",
+      "title": "From butter to banana: How yellow took over fashion and beauty in 2025",
+      "url": "https://www.glossy.co/beauty/from-butter-to-banana-how-yellow-took-over-2025/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-26",
+      "summary": "In 2025, buttery yellow hues dominated fashion and beauty, inspiring products like Clue's best-selling Dandelion Butter scent and banana yellow lip balms from Prada and Rhode. The trend reflected a mix of optimism and ironic humor, extending beyond beauty into electronics and food, signaling a lasting cultural impact.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "product_launch"
+      ],
+      "demo_tags": [
+        "female",
+        "beauty_consumers",
+        "fashion_consumers"
+      ],
+      "psych_tags": [
+        "optimistic",
+        "ironic_humor",
+        "food_inspired"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Caleb Vanden Boom",
+          "title": "Co-founder",
+          "company_name": "Clue",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Laura Oberwetter",
+          "title": "Co-founder",
+          "company_name": "Clue",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Romy Kowalewski",
+          "title": "Founder",
+          "company_name": "27 87",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Caleb Vanden Boom",
+          "email_subject": "Exploring the Success of Dandelion Butter and Yellow Trend in 2025",
+          "email_body": "Dear Caleb Vanden Boom,\n\nI am reaching out to learn more about the remarkable success of Clue's Dandelion Butter scent and how the buttery yellow trend influenced your product launch and marketing strategies in 2025. We are interested in understanding the consumer response and the role of cultural trends in shaping your brand's direction.\n\nLooking forward to your insights.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Caleb, I’m fascinated by Clue’s Dandelion Butter scent and the yellow trend in 2025. Would love to connect and learn more about your marketing approach and consumer response."
+        },
+        {
+          "stakeholder_full_name": "Laura Oberwetter",
+          "email_subject": "Insights on Clue’s Dandelion Butter Launch and Yellow Trend Impact",
+          "email_body": "Dear Laura Oberwetter,\n\nCongratulations on the success of Dandelion Butter. I’m interested in how the buttery yellow trend shaped your product development and marketing efforts. Could we discuss how this cultural moment influenced Clue’s brand and consumer engagement?\n\nThank you for your time.\n\nBest,\n[Your Name]",
+          "linkedin_message": "Hi Laura, I admire Clue’s innovative approach with Dandelion Butter and the yellow trend. I’d appreciate the chance to discuss your marketing and product launch strategies."
+        },
+        {
+          "stakeholder_full_name": "Romy Kowalewski",
+          "email_subject": "Discussing 27 87’s Banana-Inspired Hakuna Matata Scent and Market Trends",
+          "email_body": "Dear Romy Kowalewski,\n\nI’m intrigued by 27 87’s launch of the banana-inspired Hakuna Matata scent and its place within the evolving gourmand fragrance trend. I’d love to hear about your marketing strategies and how you positioned this product in the 2025 market.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Romy, I’m interested in 27 87’s Hakuna Matata scent and the gourmand fragrance trend. Would love to connect and learn about your marketing and launch experience."
+        }
+      ]
+    },
+    {
+      "id": "art_9ad42dd3",
+      "title": "How American Eagle ‘defined culture’ this year",
+      "url": "https://www.glossy.co/fashion/how-american-eagle-defined-culture-in-2025/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-26",
+      "summary": "American Eagle dominated the fashion conversation in 2025 with major marketing campaigns including the Sydney Sweeney jeans campaign and a collaboration with Travis Kelce. The brand's CMO Craig Brommers highlighted the success of these campaigns in defining culture and driving significant customer growth and revenue increases.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "promotion_or_discount"
+      ],
+      "demo_tags": [
+        "gen_z_students",
+        "fashion_consumers",
+        "young_adults"
+      ],
+      "psych_tags": [
+        "trendsetters",
+        "culture_drivers",
+        "bold_marketing_consumers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Craig Brommers",
+          "title": "CMO",
+          "company_name": "American Eagle",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Craig Brommers",
+          "email_subject": "Exploring Opportunities to Amplify American Eagle’s Cultural Impact",
+          "email_body": "Dear Craig Brommers,\n\nI was impressed by American Eagle’s bold marketing campaigns in 2025, especially the Sydney Sweeney jeans campaign and the collaboration with Travis Kelce. Your approach to defining culture and driving significant growth is inspiring. I would love to discuss potential opportunities to collaborate and further amplify American Eagle’s impact in upcoming campaigns, including the 2028 Summer Olympics.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Craig, I admired American Eagle’s standout campaigns this year and your leadership in defining culture. I’d love to connect and explore ways to support your marketing initiatives moving forward."
+        }
+      ]
+    },
+    {
       "id": "art_2dc07a9f",
       "title": "In 2025, luxury fashion’s AI marketing experiments hit a turning point",
       "url": "https://www.glossy.co/fashion/luxury/luxury-fashions-ai-marketing-experiments-hit-a-turning-point/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
