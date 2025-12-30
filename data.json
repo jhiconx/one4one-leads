@@ -1,6 +1,254 @@
 {
   "articles": [
     {
+      "id": "art_9eb88913",
+      "title": "The revenge of the ’90s mall brand",
+      "url": "https://www.glossy.co/fashion/the-revenge-of-the-90s-mall-brand/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-30T05:03:00+00:00",
+      "summary": "Brands like Gap and Victoria's Secret, iconic mall brands from the '90s, are staging turnarounds in 2025 through nostalgic and viral campaigns, executive hires, and strategic shifts. Gap posted seven consecutive quarters of growth, leveraging fresh campaigns and improved product quality. Victoria's Secret revived its fashion show and posted sales growth, while Bath & Body Works and The Body Shop made strategic moves. Despite progress, challenges remain as mall retail dynamics evolve and competition intensifies. Nostalgia-driven trends resonate with millennials and Gen Z, fueling renewed consumer interest.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "promotion_or_discount"
+      ],
+      "demo_tags": [
+        "millennials",
+        "gen_z",
+        "nostalgia_consumers",
+        "fashion_shoppers"
+      ],
+      "psych_tags": [
+        "nostalgic",
+        "trend_sensitive",
+        "value_quality",
+        "brand_loyalty"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Mark Breitbard",
+          "title": "President and CEO of the Gap brand",
+          "company_name": "Gap",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Richard Dickinson",
+          "title": "CEO",
+          "company_name": "Gap, Inc.",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Maly Bernstein",
+          "title": "Chief Commercial Officer",
+          "company_name": "Bath & Body Works",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Veronique Gabai",
+          "title": "Creative Product and Brand Advisor",
+          "company_name": "Bath & Body Works",
+          "role_type": "advisor",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Pauline Brown",
+          "title": "Founder of Aesthetic Intelligence Labs",
+          "company_name": "Aesthetic Intelligence Labs",
+          "role_type": "industry expert",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "John Demsey",
+          "title": "Executive Director of Beauty",
+          "company_name": "Gap",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Diarrha N’Diaye",
+          "title": "Head of Beauty Expansion",
+          "company_name": "Skims",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Mark Breitbard",
+          "email_subject": "Exploring Partnership Opportunities with Gap's Nostalgic Campaigns",
+          "email_body": "Dear Mark,\n\nI was impressed by Gap's successful turnaround in 2025, especially the innovative campaigns that blend nostalgia with fresh ideas. I would love to discuss potential collaboration opportunities that align with your brand's vision and growth strategy.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Mark, I admire Gap's recent growth and nostalgic campaigns. Would love to connect and explore potential partnership opportunities."
+        },
+        {
+          "stakeholder_full_name": "Richard Dickinson",
+          "email_subject": "Supporting Gap, Inc.'s Continued Growth and Innovation",
+          "email_body": "Dear Richard,\n\nCongratulations on the progress Gap, Inc. has made under your leadership. I am interested in discussing how we might support your ongoing efforts to revitalize the brand and engage new consumer segments.\n\nBest,\n[Your Name]",
+          "linkedin_message": "Hi Richard, congrats on Gap's turnaround. I'd like to connect and discuss ways to support your growth initiatives."
+        },
+        {
+          "stakeholder_full_name": "Maly Bernstein",
+          "email_subject": "Opportunities to Enhance Bath & Body Works' Commercial Success",
+          "email_body": "Dear Maly,\n\nBath & Body Works' recent executive hires signal exciting times ahead. I would appreciate the chance to discuss how we can contribute to your commercial strategies and help drive further success.\n\nWarm regards,\n[Your Name]",
+          "linkedin_message": "Hi Maly, congrats on your new role at Bath & Body Works. Let's connect to explore collaboration opportunities."
+        },
+        {
+          "stakeholder_full_name": "Veronique Gabai",
+          "email_subject": "Collaborating on Brand and Product Innovation at Bath & Body Works",
+          "email_body": "Dear Veronique,\n\nYour role as Creative Product and Brand Advisor at Bath & Body Works is inspiring. I would love to discuss potential synergies to support your brand innovation efforts.\n\nBest wishes,\n[Your Name]",
+          "linkedin_message": "Hi Veronique, impressed by your work at Bath & Body Works. Would love to connect and explore collaboration."
+        },
+        {
+          "stakeholder_full_name": "Pauline Brown",
+          "email_subject": "Insights and Collaboration Opportunities in Fashion and Retail",
+          "email_body": "Dear Pauline,\n\nAs a respected industry expert, your insights on brand turnarounds are invaluable. I would appreciate the opportunity to connect and discuss potential collaborations.\n\nKind regards,\n[Your Name]",
+          "linkedin_message": "Hi Pauline, I admire your expertise in fashion and retail. Let's connect to discuss potential collaboration."
+        },
+        {
+          "stakeholder_full_name": "John Demsey",
+          "email_subject": "Partnering on Beauty Innovation at Gap",
+          "email_body": "Dear John,\n\nCongratulations on your role leading beauty at Gap. I am interested in exploring ways to support your beauty expansion initiatives.\n\nLooking forward to connecting.\n\nBest,\n[Your Name]",
+          "linkedin_message": "Hi John, congrats on your new role at Gap. Would love to connect and discuss beauty innovation opportunities."
+        },
+        {
+          "stakeholder_full_name": "Diarrha N’Diaye",
+          "email_subject": "Supporting Skims' Beauty Expansion Efforts",
+          "email_body": "Dear Diarrha,\n\nI am impressed by Skims' growth and your leadership in beauty expansion. I would welcome the chance to discuss potential partnership opportunities.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Diarrha, inspired by your work at Skims. Let's connect to explore collaboration in beauty expansion."
+        }
+      ]
+    },
+    {
+      "id": "art_cd5bef6d",
+      "title": "Why 2025 was the year of the Mirakl marketplace",
+      "url": "https://www.glossy.co/beauty/the-year-of-the-mirakl-marketplace/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-30T05:01:00+00:00",
+      "summary": "In 2025, Mirakl partnered with major retailers including Ulta Beauty and Best Buy to launch digital marketplaces, enabling faster product launches and expanded brand assortments through its marketplace software. Mirakl's platform allows retailers to offer new categories and brands without holding inventory, leveraging drop-ship models and AI-driven features to enhance e-commerce agility and growth.",
+      "categories": [
+        "beauty_and_personal_care"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "other"
+      ],
+      "demo_tags": [
+        "wellness_consumers",
+        "beauty_tech_consumers",
+        "men_grooming_consumers",
+        "luxury_beauty_consumers",
+        "discovery_shoppers"
+      ],
+      "psych_tags": [
+        "early_adopters",
+        "tech_savvy",
+        "nimble_shoppers"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Scott Eckert",
+          "title": "CEO of Mirakl Americas",
+          "company_name": "Mirakl",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        },
+        {
+          "full_name": "Muffy Clince",
+          "title": "Director of Marketplace Category Management",
+          "company_name": "Ulta Beauty",
+          "role_type": "marketing",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Scott Eckert",
+          "email_subject": "Exploring Partnership Opportunities with Mirakl's Marketplace Platform",
+          "email_body": "Dear Scott Eckert,\n\nI recently read about Mirakl's impressive growth and innovative marketplace solutions in 2025, especially your partnerships with Ulta Beauty and Best Buy. We are interested in learning more about how Mirakl's platform can help accelerate product launches and expand brand assortments through digital marketplaces.\n\nCould we schedule a time to discuss potential collaboration opportunities?\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Scott, I was impressed by Mirakl's marketplace growth and your leadership. I'd love to connect and explore potential partnership opportunities."
+        },
+        {
+          "stakeholder_full_name": "Muffy Clince",
+          "email_subject": "Inquiry About Ulta Beauty's Marketplace Category Strategy",
+          "email_body": "Dear Muffy Clince,\n\nI came across your insights on Ulta Beauty's marketplace launch and the focus on wellness and other key categories. We are keen to understand how Ulta manages marketplace category growth and the role of marketplace platforms in accelerating product introductions.\n\nWould you be open to a brief conversation?\n\nThank you,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Muffy, I enjoyed reading about Ulta Beauty's marketplace strategy and would appreciate the chance to connect and learn more about your category management approach."
+        }
+      ]
+    },
+    {
+      "id": "art_db6e0925",
+      "title": "Emily Sundberg is proving the power of the Substack newsletter",
+      "url": "https://www.glossy.co/fashion/emily-sundberg-is-proving-the-power-of-the-substack-newsletter/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-30T05:00:00+00:00",
+      "summary": "Emily Sundberg, founder of the Substack newsletter Feed Me, has grown her platform to over 150,000 readers by combining individual voice, curation, and community engagement. Since launching in 2022, Feed Me has attracted high-profile brand partners and expanded its editorial team and podcast offerings in 2025, exemplifying the power of independent media and Substack's potential as a complement to traditional outlets.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [],
+      "demo_tags": [
+        "newsletter_readers",
+        "independent_media_consumers",
+        "new_york_city_audience"
+      ],
+      "psych_tags": [
+        "entrepreneurial_spirit",
+        "community_engagement",
+        "media_innovation"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Emily Sundberg",
+          "title": "Founder",
+          "company_name": "Feed Me",
+          "role_type": "marketing_decision_maker",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Emily Sundberg",
+          "email_subject": "Exploring Partnership Opportunities with Feed Me",
+          "email_body": "Hi Emily,\n\nI’ve been following Feed Me and am impressed by how you’ve built such a strong community and voice through your Substack newsletter. I’d love to discuss potential collaboration or brand partnership opportunities that could align with your audience and content.\n\nLooking forward to connecting.\n\nBest regards,\n[Your Name]",
+          "linkedin_message": "Hi Emily, I admire the unique voice and community you’ve built with Feed Me. I’d love to connect and explore potential partnership opportunities."
+        }
+      ]
+    },
+    {
       "id": "art_25996845",
       "title": "Eugenics, AI slop and cultural appropriation: The fashion and beauty controversies that defined 2025",
       "url": "https://www.glossy.co/fashion/eugenics-ai-slop-and-cultural-appropriation-the-fashion-and-beauty-controversies-that-defined-2025/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
