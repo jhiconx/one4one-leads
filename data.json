@@ -1,6 +1,89 @@
 {
   "articles": [
     {
+      "id": "art_8d2f7c49",
+      "title": "Many fashion companies went out of business in 2025. More may be coming in 2026",
+      "url": "https://www.glossy.co/fashion/many-fashion-companies-went-out-of-business-in-2025-more-may-be-coming-in-2026/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-31T05:03:00+00:00",
+      "summary": "2025 was a challenging year for fashion companies with many filing for bankruptcy or closing stores due to tariffs, rising costs, and competition from fast-fashion brands. Notable closures included Liberated Brands, Forever 21, Claire's, and Parade. The article highlights the pressures on mid-tier brands and the impact of retailer bankruptcies on indie brands.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [],
+      "demo_tags": [],
+      "psych_tags": [],
+      "stakeholders": [],
+      "outreach_templates": []
+    },
+    {
+      "id": "art_06c283d0",
+      "title": "Inside the 2025 rise of Labubu",
+      "url": "https://www.glossy.co/fashion/inside-the-2025-rise-of-labubu/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-31T05:00:00+00:00",
+      "summary": "Pop Mart's Labubu collectibles surged into mainstream global retail in 2025, driven by cultural resonance, celebrity adoption, and international expansion. CEO Grant Wang highlights strong growth in multiple regions, collaborations with Riot Games and Uniqlo, and plans for immersive experiences and new product formats in 2026.",
+      "categories": [
+        "other_cpg"
+      ],
+      "campaign_types": [
+        "product_launch",
+        "experiential_activation"
+      ],
+      "demo_tags": [
+        "fashion_consumers",
+        "pop_culture_fans",
+        "kpop_fans",
+        "collectible_toy_buyers"
+      ],
+      "psych_tags": [
+        "emotional_connection",
+        "trendsetters",
+        "community_focused"
+      ],
+      "stakeholders": [
+        {
+          "full_name": "Grant Wang",
+          "title": "CEO",
+          "company_name": "Pop Mart",
+          "role_type": "executive",
+          "linkedin_url": "",
+          "email": "",
+          "email_status": "",
+          "email_confidence": 0
+        }
+      ],
+      "outreach_templates": [
+        {
+          "stakeholder_full_name": "Grant Wang",
+          "email_subject": "Exploring Collaboration Opportunities with Pop Mart's Labubu Expansion",
+          "email_body": "Dear Mr. Wang,\n\nI was impressed by the remarkable global growth and cultural impact of Labubu as highlighted in the recent Glossy article. We are interested in exploring potential collaboration opportunities to further enhance the Labubu brand's reach and immersive experiences.\n\nCould we schedule a time to discuss how we might support your 2026 initiatives?\n\nBest regards,\n[Your Name]\n[Your Company]",
+          "linkedin_message": "Hi Grant, I enjoyed reading about Labubu's rise in Glossy. I'd love to connect and explore ways to collaborate on your exciting 2026 plans."
+        }
+      ]
+    },
+    {
+      "id": "art_2a438e30",
+      "title": "The Glossy guide to what’s in and out for 2026",
+      "url": "https://www.glossy.co/fashion/the-glossy-guide-to-whats-in-and-out-for-2026/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Glossy",
+      "published_at": "2025-12-31",
+      "summary": "Heading into 2026, the Glossy team compiled a list of what is expected to be \"in\" and what is on its way out in the fashion and beauty industries. Trends include aesthetic shifts like medium wash jeans and tropical fragrances, operational strategies such as AI search and pico-influencers, and consumer behaviors like cutting back on spending and resale. Outgoing trends include standing in long lines, leggings, wholesale, fast fashion, and the era of the fashion sneaker.",
+      "categories": [
+        "beauty_and_personal_care",
+        "other_cpg"
+      ],
+      "campaign_types": [],
+      "demo_tags": [],
+      "psych_tags": [
+        "fashion_consumers",
+        "beauty_consumers",
+        "trend_sensitive"
+      ],
+      "stakeholders": [],
+      "outreach_templates": []
+    },
+    {
       "id": "art_9eb88913",
       "title": "The revenge of the ’90s mall brand",
       "url": "https://www.glossy.co/fashion/the-revenge-of-the-90s-mall-brand/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
